@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome React",
+          "description": "A collection of awesome things regarding React ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T07:31:52Z",
+            "owner": "enaqx",
+            "repo": "awesome-react",
+            "stars": 74266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Front-End-Checklist",
+          "description": "The perfect Front-End Checklist for modern websites and meticulous developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-11T04:01:39Z",
+            "owner": "thedaviddias",
+            "repo": "Front-End-Checklist",
+            "stars": 73519
+          }
+        }
+      ],
+      "title": "Related Resources"
+    },
+    {
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open an issue by selecting one of the provided categories from the issue page",
+          "description": "and fill in the requested information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T08:50:49Z",
+            "owner": "lukasmasuch",
+            "repo": "best-of-react",
+            "stars": 1073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modify the projects.yaml",
+          "description": "with your additions or changes, and submit a pull request. This can also be done directly via the Github UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T08:50:49Z",
+            "owner": "lukasmasuch",
+            "repo": "best-of-react",
+            "stars": 1073
+          }
+        }
+      ],
+      "title": "Contribution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:26.053Z",
+    "original_repository": "lukasmasuch/best-of-react",
+    "original_repository_sha": "b596b696e47aec198b402eecda94cdf827058714",
+    "enhanced_repository": "enhansome/enhansome-best-of-react",
+    "enhanced_repository_description": null,
+    "title": "Awesome best of react with stars"
+  }
+}
