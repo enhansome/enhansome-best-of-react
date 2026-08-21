@@ -12,10 +12,10 @@
             "archived": false,
             "id": 22670857,
             "language": null,
-            "last_commit": "2026-07-20T07:31:52Z",
+            "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74341
+            "stars": 74348
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73576
+            "stars": 73592
           }
         }
       ],
@@ -74,7 +74,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:07:03.325Z",
+    "last_updated": "2026-08-21T05:08:18.301Z",
     "original_repository": "lukasmasuch/best-of-react",
     "original_repository_id": 340900698,
     "original_repository_sha": "b596b696e47aec198b402eecda94cdf827058714",
