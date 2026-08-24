@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74366
+            "stars": 74379
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73613
+            "stars": 73621
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2025-08-28T08:50:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-react",
-            "stars": 1074
+            "stars": 1075
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2025-08-28T08:50:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-react",
-            "stars": 1074
+            "stars": 1075
           }
         }
       ],
@@ -74,7 +74,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:04:46.408Z",
+    "last_updated": "2026-08-24T05:22:29.417Z",
     "original_repository": "lukasmasuch/best-of-react",
     "original_repository_id": 340900698,
     "original_repository_sha": "b596b696e47aec198b402eecda94cdf827058714",
