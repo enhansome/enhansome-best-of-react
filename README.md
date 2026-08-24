@@ -76,7 +76,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/mui/material-ui">Material-UI</a></b> (🥇52 ·  ⭐ 92K) - MaterialUI: Ready-to-use foundational React components, free.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/mui/material-ui) ⭐ 98,907 | 🐛 1,504 | 🌐 JavaScript | 📅 2026-08-23 (👨‍💻 3.2K · 🔀 32K · 📦 1.2M · 📋 19K - 8% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/mui/material-ui) ⭐ 98,914 | 🐛 1,494 | 🌐 JavaScript | 📅 2026-08-24 (👨‍💻 3.2K · 🔀 32K · 📦 1.2M · 📋 19K - 8% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/mui-org/material-ui
@@ -89,7 +89,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/ant-design/ant-design">Ant Design</a></b> (🥇51 ·  ⭐ 91K) - An enterprise-class UI design language and React UI library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ant-design/ant-design) ⭐ 99,162 | 🐛 1,084 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 2.4K · 🔀 47K · 📥 11K · 📦 630K · 📋 30K - 3% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/ant-design/ant-design) ⭐ 99,172 | 🐛 1,087 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 2.4K · 🔀 47K · 📥 11K · 📦 630K · 📋 30K - 3% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/ant-design/ant-design
@@ -102,7 +102,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/react-bootstrap/react-bootstrap">Bootstrap React</a></b> (🥇45 ·  ⭐ 22K) - Bootstrap components built with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/react-bootstrap/react-bootstrap) ⭐ 22,610 | 🐛 235 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 530 · 🔀 3.6K · 📥 51K · 📦 1.6M · 📋 3.6K - 5% open · ⏱️ 23.05.2024):
+* [GitHub](https://github.com/react-bootstrap/react-bootstrap) ⭐ 22,611 | 🐛 235 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 530 · 🔀 3.6K · 📥 51K · 📦 1.6M · 📋 3.6K - 5% open · ⏱️ 23.05.2024):
 
   ```
   git clone https://github.com/react-bootstrap/react-bootstrap
@@ -128,7 +128,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/microsoft/fluentui">fluentui</a></b> (🥇43 ·  ⭐ 18K) - Fluent UI web represents a collection of utilities, React components, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/fluentui) ⭐ 20,225 | 🐛 759 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 890 · 🔀 2.7K · 📦 14K · 📋 13K - 4% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/microsoft/fluentui) ⭐ 20,227 | 🐛 761 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 890 · 🔀 2.7K · 📦 14K · 📋 13K - 4% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/microsoft/fluentui
@@ -141,7 +141,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/palantir/blueprint">Blueprint</a></b> (🥈41 ·  ⭐ 20K) - A React-based UI toolkit for the web. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/palantir/blueprint) ⭐ 22,006 | 🐛 967 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 400 · 🔀 2.1K · 📦 17K · 📋 3.1K - 22% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/palantir/blueprint) ⭐ 22,007 | 🐛 967 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 400 · 🔀 2.1K · 📦 17K · 📋 3.1K - 22% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/palantir/blueprint
@@ -193,7 +193,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/carbon-design-system/carbon">carbon</a></b> (🥈40 ·  ⭐ 7.5K) - A design system built by IBM. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/carbon-design-system/carbon) ⭐ 9,380 | 🐛 1,057 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 510 · 🔀 1.8K · 📥 3 · 📦 7.3K · 📋 8.2K - 7% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/carbon-design-system/carbon) ⭐ 9,384 | 🐛 1,053 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 510 · 🔀 1.8K · 📥 3 · 📦 7.3K · 📋 8.2K - 7% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/carbon-design-system/carbon
@@ -219,7 +219,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/chakra-ui/chakra-ui">chakra-ui</a></b> (🥈39 ·  ⭐ 37K) - Simple, Modular & Accessible UI Components for your React Applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/chakra-ui/chakra-ui) ⭐ 40,585 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 660 · 🔀 3.2K · 📦 300K · 📋 3.6K - 7% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/chakra-ui/chakra-ui) ⭐ 40,590 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 660 · 🔀 3.2K · 📦 300K · 📋 3.6K - 7% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/chakra-ui/chakra-ui
@@ -245,7 +245,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/adobe/react-spectrum">react-spectrum</a></b> (🥈38 ·  ⭐ 12K) - A collection of libraries and tools that help you build.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/adobe/react-spectrum) ⭐ 15,815 | 🐛 585 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 340 · 🔀 1K · 📦 2.1K · 📋 2.3K - 30% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/adobe/react-spectrum) ⭐ 15,817 | 🐛 586 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 340 · 🔀 1K · 📦 2.1K · 📋 2.3K - 30% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/adobe/react-spectrum
@@ -284,7 +284,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/ariakit/ariakit">reakit</a></b> (🥈35 ·  ⭐ 7.7K) - Toolkit for building accessible web apps with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ariakit/ariakit) ⭐ 8,601 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 120 · 🔀 370 · 📦 1.8K · 📋 610 - 14% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/ariakit/ariakit) ⭐ 8,601 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 120 · 🔀 370 · 📦 1.8K · 📋 610 - 14% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/reakit/reakit
@@ -310,7 +310,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/tailwindlabs/headlessui">headlessui</a></b> (🥉34 ·  ⭐ 25K) - Completely unstyled, fully accessible UI components, designed to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tailwindlabs/headlessui) ⭐ 28,718 | 🐛 109 | 🌐 TypeScript | 📅 2026-04-13 (👨‍💻 62 · 🔀 1K · 📦 3.7K · 📋 1.2K - 1% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/tailwindlabs/headlessui) ⭐ 28,720 | 🐛 109 | 🌐 TypeScript | 📅 2026-04-13 (👨‍💻 62 · 🔀 1K · 📦 3.7K · 📋 1.2K - 1% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/tailwindlabs/headlessui
@@ -349,7 +349,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/mantinedev/mantine">mantine</a></b> (🥉32 ·  ⭐ 25K) - A fully featured React components library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mantinedev/mantine) ⭐ 31,599 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 520 · 🔀 1.8K · 📦 1 · 📋 2.5K - 1% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/mantinedev/mantine) ⭐ 31,602 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 520 · 🔀 1.8K · 📦 1 · 📋 2.5K - 1% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/mantinedev/mantine
@@ -375,7 +375,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/JetBrains/ring-ui">ring-ui</a></b> (🥉32 ·  ⭐ 3.6K) - A collection of JetBrains Web UI components. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/JetBrains/ring-ui) ⭐ 3,784 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 180 · 🔀 180 · 📦 76 · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/JetBrains/ring-ui) ⭐ 3,784 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 180 · 🔀 180 · 📦 76 · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/JetBrains/ring-ui
@@ -388,7 +388,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/tabler/tabler">tabler</a></b> (🥉31 ·  ⭐ 37K) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/tabler/tabler) ⭐ 41,539 | 🐛 69 | 🌐 Astro | 📅 2026-08-20 (👨‍💻 120 · 🔀 3.8K · 📦 1.2K · 📋 900 - 8% open · ⏱️ 30.04.2024):
+* [GitHub](https://github.com/tabler/tabler) ⭐ 41,544 | 🐛 70 | 🌐 Astro | 📅 2026-08-24 (👨‍💻 120 · 🔀 3.8K · 📦 1.2K · 📋 900 - 8% open · ⏱️ 30.04.2024):
 
   ```
   git clone https://github.com/tabler/tabler
@@ -440,7 +440,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/radix-ui/primitives">Radix Primitives</a></b> (🥉29 ·  ⭐ 15K) - Radix Primitives is an open-source UI component library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/radix-ui/primitives) ⭐ 19,201 | 🐛 342 | 🌐 TypeScript | 📅 2026-08-08 (👨‍💻 44 · 🔀 700 · 📋 1.4K - 30% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/radix-ui/primitives) ⭐ 19,202 | 🐛 342 | 🌐 TypeScript | 📅 2026-08-08 (👨‍💻 44 · 🔀 700 · 📋 1.4K - 30% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/radix-ui/primitives
@@ -544,17 +544,17 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 11 hidden projects...</summary>
 
-* <b><a href="https://github.com/elastic/eui">eui</a></b> (🥈38 ·  ⭐ 6K) - Elastic UI Framework. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
-* <b><a href="https://github.com/Semantic-Org/Semantic-UI">Semantic-UI</a></b> (🥈36 ·  ⭐ 51K · 💀) - Semantic is a UI component framework based around useful.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/rebassjs/rebass">Rebass</a></b> (🥉32 ·  ⭐ 7.9K · 💀) - React primitive UI components built with styled-system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/tabler/tabler-react">tabler-react</a></b> (🥉27 ·  ⭐ 2.3K · 💀) - React components and demo for the Tabler UI theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/supabase/ui">Supabase UI</a></b> (🥉27 ·  ⭐ 1.5K · 💀) - Supabase UI Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/digiaonline/react-foundation">react-foundation</a></b> (🥉25 ·  ⭐ 600 · 💀) - Foundation as React components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/geist-org/geist-ui">geist-ui</a></b> (🥉24 ·  ⭐ 4.2K · 💀) - A design system for building modern websites and applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/jxom/bumbag-ui">bumbag-ui</a></b> (🥉21 ·  ⭐ 1K · 💀) - Build themeable React & React Native applications with your Bumbag. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/fibo/trunx">trunx</a></b> (🥉21 ·  ⭐ 64) - Super Saiyan React components, son of awesome Bulma. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/DesignRevision/shards-react">shards-react</a></b> (🥉19 ·  ⭐ 760 · 💀) - A beautiful and modern React design system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/fluent-org/fluent-windows">fluent-windows</a></b> (🥉13 ·  ⭐ 120 · 💀) - React components that inspired by Microsofts Fluent Design.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) ⭐ 51,026 | 🐛 1,070 | 🌐 JavaScript | 📅 2024-11-27</b> (🥈36 ·  ⭐ 51K · 💀) - Semantic is a UI component framework based around useful.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Rebass](https://github.com/rebassjs/rebass) ⭐ 7,903 | 🐛 95 | 🌐 JavaScript | 📅 2023-07-27</b> (🥉32 ·  ⭐ 7.9K · 💀) - React primitive UI components built with styled-system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[eui](https://github.com/elastic/eui) ⭐ 6,345 | 🐛 221 | 🌐 TypeScript | 📅 2026-08-24</b> (🥈38 ·  ⭐ 6K) - Elastic UI Framework. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+* <b>[geist-ui](https://github.com/geist-org/geist-ui) ⚠️ Archived</b> (🥉24 ·  ⭐ 4.2K · 💀) - A design system for building modern websites and applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[tabler-react](https://github.com/tabler/tabler-react) ⚠️ Archived</b> (🥉27 ·  ⭐ 2.3K · 💀) - React components and demo for the Tabler UI theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Supabase UI](https://github.com/supabase/ui) ⚠️ Archived</b> (🥉27 ·  ⭐ 1.5K · 💀) - Supabase UI Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[bumbag-ui](https://github.com/jxom/bumbag-ui) ⚠️ Archived</b> (🥉21 ·  ⭐ 1K · 💀) - Build themeable React & React Native applications with your Bumbag. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[shards-react](https://github.com/DesignRevision/shards-react) ⭐ 762 | 🐛 49 | 🌐 JavaScript | 📅 2023-01-03</b> (🥉19 ·  ⭐ 760 · 💀) - A beautiful and modern React design system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-foundation](https://github.com/digiaonline/react-foundation) ⚠️ Archived</b> (🥉25 ·  ⭐ 600 · 💀) - Foundation as React components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[fluent-windows](https://github.com/fluent-org/fluent-windows) ⭐ 123 | 🐛 14 | 🌐 TypeScript | 📅 2023-01-26</b> (🥉13 ·  ⭐ 120 · 💀) - React components that inspired by Microsofts Fluent Design.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[trunx](https://github.com/fibo/trunx) ⭐ 69 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-04</b> (🥉21 ·  ⭐ 64) - Super Saiyan React components, son of awesome Bulma. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -567,7 +567,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/vercel/next.js">Next.js</a></b> (🥇55 ·  ⭐ 120K) - The React Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vercel/next.js) ⭐ 141,904 | 🐛 3,925 | 🌐 JavaScript | 📅 2026-08-24 (👨‍💻 3.5K · 🔀 26K · 📦 3M · 📋 21K - 15% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/vercel/next.js) ⭐ 141,913 | 🐛 3,923 | 🌐 JavaScript | 📅 2026-08-24 (👨‍💻 3.5K · 🔀 26K · 📦 3M · 📋 21K - 15% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/vercel/next.js
@@ -580,7 +580,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/gatsbyjs/gatsby">Gatsby</a></b> (🥈46 ·  ⭐ 55K) - The best React-based framework with performance, scalability and security.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 (👨‍💻 4.4K · 🔀 10K · 📦 250K · 📋 14K - 2% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 (👨‍💻 4.4K · 🔀 10K · 📦 250K · 📋 14K - 2% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/gatsbyjs/gatsby
@@ -593,7 +593,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/cube-js/cube">cube.js</a></b> (🥈41 ·  ⭐ 17K) - Cube The Semantic Layer for Building Data Applications. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cube-js/cube) ⭐ 20,678 | 🐛 1,129 | 🌐 Rust | 📅 2026-08-24 (👨‍💻 310 · 🔀 1.7K · 📥 330K · 📦 1.8K · 📋 2.2K - 26% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/cube-js/cube) ⭐ 20,686 | 🐛 1,127 | 🌐 Rust | 📅 2026-08-24 (👨‍💻 310 · 🔀 1.7K · 📥 330K · 📦 1.8K · 📋 2.2K - 26% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/cube-js/cube.js
@@ -653,7 +653,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/tailwindlabs/tailwindcss">Tailwind CSS</a></b> (🥇49 ·  ⭐ 79K) - A utility-first CSS framework for rapid UI development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,306 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 (👨‍💻 300 · 🔀 4K · 📥 3.2M · 📦 9.7M · 📋 3.3K - 1% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,312 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 (👨‍💻 300 · 🔀 4K · 📥 3.2M · 📦 9.7M · 📋 3.3K - 1% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/tailwindlabs/tailwindcss
@@ -666,7 +666,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/styled-components/styled-components">Styled Components</a></b> (🥇46 ·  ⭐ 40K · 📈) - Visual primitives for the component age. Use the best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,120 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17 (👨‍💻 360 · 🔀 2.5K · 📦 2.4M · 📋 2.9K - 8% open · ⏱️ 09.05.2024):
+* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,121 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17 (👨‍💻 360 · 🔀 2.5K · 📦 2.4M · 📋 2.9K - 8% open · ⏱️ 09.05.2024):
 
   ```
   git clone https://github.com/styled-components/styled-components
@@ -718,7 +718,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/vanilla-extract-css/vanilla-extract">vanilla-extract</a></b> (🥈35 ·  ⭐ 9.3K) - Zero-runtime Stylesheets-in-TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,407 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-07 (👨‍💻 100 · 🔀 270 · 📦 64K · 📋 310 - 14% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,408 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-07 (👨‍💻 100 · 🔀 270 · 📦 64K · 📋 310 - 14% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/seek-oss/vanilla-extract
@@ -809,10 +809,10 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 4 hidden projects...</summary>
 
-* <b><a href="https://github.com/FormidableLabs/radium">radium</a></b> (🥉32 ·  ⭐ 7.4K · 💀) - A toolchain for React component styling. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/Khan/aphrodite">aphrodite</a></b> (🥉31 ·  ⭐ 5.3K · 💀) - Framework-agnostic CSS-in-JS with support for server-side.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/robinweser/inline-style-prefixer">inline-style-prefixer</a></b> (🥉31 ·  ⭐ 390 · 💀) - Autoprefixer for JavaScript style objects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/aesthetic-suite/framework">aesthetic</a></b> (🥉17 ·  ⭐ 200 · 💀) - Aesthetic is an end-to-end multi-platform styling framework that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[radium](https://github.com/FormidableLabs/radium) ⚠️ Archived</b> (🥉32 ·  ⭐ 7.4K · 💀) - A toolchain for React component styling. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,339 | 🐛 91 | 🌐 JavaScript | 📅 2025-07-24</b> (🥉31 ·  ⭐ 5.3K · 💀) - Framework-agnostic CSS-in-JS with support for server-side.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[inline-style-prefixer](https://github.com/robinweser/inline-style-prefixer) ⭐ 393 | 🐛 8 | 🌐 JavaScript | 📅 2024-07-04</b> (🥉31 ·  ⭐ 390 · 💀) - Autoprefixer for JavaScript style objects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[aesthetic](https://github.com/aesthetic-suite/framework) ⭐ 208 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-21</b> (🥉17 ·  ⭐ 200 · 💀) - Aesthetic is an end-to-end multi-platform styling framework that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -825,7 +825,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/react-grid-layout/react-grid-layout">react-grid-layout</a></b> (🥇37 ·  ⭐ 20K) - A draggable and resizable grid layout with responsive.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/react-grid-layout/react-grid-layout) ⭐ 22,394 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-07 (👨‍💻 130 · 🔀 2.5K · 📦 18K · 📋 1.5K - 11% open · ⏱️ 15.02.2024):
+* [GitHub](https://github.com/react-grid-layout/react-grid-layout) ⭐ 22,395 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-07 (👨‍💻 130 · 🔀 2.5K · 📦 18K · 📋 1.5K - 11% open · ⏱️ 15.02.2024):
 
   ```
   git clone https://github.com/react-grid-layout/react-grid-layout
@@ -877,13 +877,13 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 7 hidden projects...</summary>
 
-* <b><a href="https://github.com/golden-layout/golden-layout">golden-layout</a></b> (🥈29 ·  ⭐ 6.2K · 💀) - A multi window layout manager for webapps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/eiriklv/react-masonry-component">react-masonry-component</a></b> (🥈29 ·  ⭐ 1.4K · 💀) - A React.js component for using @desandros Masonry. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/xudafeng/autoresponsive-react">autoresponsive-react</a></b> (🥉21 ·  ⭐ 1.6K · 💤) - Auto Responsive Layout Library For React. <code>❗Unlicensed</code>
-* <b><a href="https://github.com/kettanaito/atomic-layout">atomic-layout</a></b> (🥉21 ·  ⭐ 1.1K · 💀) - Build declarative, responsive layouts in React using CSS Grid. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/AriTheElk/hedron">hedron</a></b> (🥉20 ·  ⭐ 860 · 💀) - A no-frills flexbox grid system for React, powered by styled-components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/paol-imi/muuri-react">muuri-react</a></b> (🥉19 ·  ⭐ 350 · 💀) - The layout engine for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/martinnov92/React-Splitters">React-Splitters</a></b> (🥉18 ·  ⭐ 160 · 💀) - React splitter component, written in TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[golden-layout](https://github.com/golden-layout/golden-layout) ⭐ 6,708 | 🐛 105 | 🌐 JavaScript | 📅 2026-01-25</b> (🥈29 ·  ⭐ 6.2K · 💀) - A multi window layout manager for webapps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) ⭐ 1,584 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-06</b> (🥉21 ·  ⭐ 1.6K · 💤) - Auto Responsive Layout Library For React. <code>❗Unlicensed</code>
+* <b>[react-masonry-component](https://github.com/eiriklv/react-masonry-component) ⭐ 1,469 | 🐛 61 | 🌐 JavaScript | 📅 2025-03-04</b> (🥈29 ·  ⭐ 1.4K · 💀) - A React.js component for using @desandros Masonry. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[atomic-layout](https://github.com/kettanaito/atomic-layout) ⭐ 1,138 | 🐛 33 | 🌐 TypeScript | 📅 2023-01-07</b> (🥉21 ·  ⭐ 1.1K · 💀) - Build declarative, responsive layouts in React using CSS Grid. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[hedron](https://github.com/AriTheElk/hedron) ⚠️ Archived</b> (🥉20 ·  ⭐ 860 · 💀) - A no-frills flexbox grid system for React, powered by styled-components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[muuri-react](https://github.com/paol-imi/muuri-react) ⭐ 368 | 🐛 33 | 🌐 TypeScript | 📅 2023-06-22</b> (🥉19 ·  ⭐ 350 · 💀) - The layout engine for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[React-Splitters](https://github.com/martinnov92/React-Splitters) ⚠️ Archived</b> (🥉18 ·  ⭐ 160 · 💀) - React splitter component, written in TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -896,7 +896,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/ag-grid/ag-grid">ag-Grid</a></b> (🥇44 ·  ⭐ 12K) - The best JavaScript Data Table for building Enterprise Applications... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ag-grid/ag-grid) ⭐ 15,560 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 180 · 🔀 1.8K · 📦 5.5K · 📋 6K - 1% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/ag-grid/ag-grid) ⭐ 15,561 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 180 · 🔀 1.8K · 📦 5.5K · 📋 6K - 1% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/ag-grid/ag-grid
@@ -909,7 +909,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/TanStack/table">react-table</a></b> (🥇41 ·  ⭐ 24K) - Headless UI for building powerful tables & datagrids for TS/JS -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/TanStack/table) ⭐ 28,371 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 420 · 🔀 3K · 📋 2.4K - 6% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/TanStack/table) ⭐ 28,375 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 420 · 🔀 3K · 📋 2.4K - 6% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/tannerlinsley/react-table
@@ -922,7 +922,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/mui/mui-x">material-ui-x</a></b> (🥇41 ·  ⭐ 3.9K) - MUI X: Build complex and data-rich applications using a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/mui/mui-x) ⭐ 5,838 | 🐛 1,585 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 360 · 🔀 1.2K · 📥 15K · 📦 110K · 📋 5.5K - 19% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/mui/mui-x) ⭐ 5,838 | 🐛 1,576 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 360 · 🔀 1.2K · 📥 15K · 📦 110K · 📋 5.5K - 19% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/mui-org/material-ui-x
@@ -974,7 +974,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/finos/perspective">Perspective</a></b> (🥈33 ·  ⭐ 7.7K) - A data visualization and analytics component, especially well-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/finos/perspective) ⭐ 11,130 | 🐛 60 | 🌐 Rust | 📅 2026-08-10 (👨‍💻 93 · 🔀 1K · 📥 2.9K · 📦 120 · 📋 760 - 13% open · ⏱️ 29.05.2024):
+* [GitHub](https://github.com/finos/perspective) ⭐ 11,131 | 🐛 60 | 🌐 Rust | 📅 2026-08-10 (👨‍💻 93 · 🔀 1K · 📥 2.9K · 📦 120 · 📋 760 - 13% open · ⏱️ 29.05.2024):
 
   ```
   git clone https://github.com/finos/perspective
@@ -995,7 +995,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/olifolkerd/tabulator">tabulator</a></b> (🥈33 ·  ⭐ 6.3K) - Interactive Tables and Data Grids for JavaScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/olifolkerd/tabulator) ⭐ 7,747 | 🐛 394 | 🌐 JavaScript | 📅 2026-08-19 (👨‍💻 110 · 🔀 780 · 📋 4.2K - 3% open · ⏱️ 28.04.2024):
+* [GitHub](https://github.com/olifolkerd/tabulator) ⭐ 7,748 | 🐛 394 | 🌐 JavaScript | 📅 2026-08-19 (👨‍💻 110 · 🔀 780 · 📋 4.2K - 3% open · ⏱️ 28.04.2024):
 
   ```
   git clone https://github.com/olifolkerd/tabulator
@@ -1125,7 +1125,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/jspreadsheet/ce">jspreadsheet</a></b> (🥉27 ·  ⭐ 6.6K) - Jspreadsheet is a lightweight vanilla javascript plugin to create.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/jspreadsheet/ce) ⭐ 7,217 | 🐛 151 | 🌐 JavaScript | 📅 2026-04-10 (👨‍💻 78 · 🔀 810 · 📦 3 · 📋 1.5K - 9% open · ⏱️ 24.04.2024):
+* [GitHub](https://github.com/jspreadsheet/ce) ⭐ 7,219 | 🐛 151 | 🌐 JavaScript | 📅 2026-04-10 (👨‍💻 78 · 🔀 810 · 📦 3 · 📋 1.5K - 9% open · ⏱️ 24.04.2024):
 
   ```
   git clone https://github.com/jspreadsheet/ce
@@ -1138,7 +1138,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/revolist/revogrid">RevoGrid</a></b> (🥉25 ·  ⭐ 2.7K) - Powerful virtual data grid smartsheet with advanced customization. Best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/revolist/revogrid) ⭐ 3,437 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 24 · 🔀 170 · 📋 300 - 52% open · ⏱️ 16.04.2024):
+* [GitHub](https://github.com/revolist/revogrid) ⭐ 3,437 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 24 · 🔀 170 · 📋 300 - 52% open · ⏱️ 16.04.2024):
 
   ```
   git clone https://github.com/revolist/revogrid
@@ -1177,24 +1177,24 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 18 hidden projects...</summary>
 
-* <b><a href="https://github.com/bvaughn/react-virtualized">react-virtualized</a></b> (🥇39 ·  ⭐ 26K · 💀) - React components for efficiently rendering large lists.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/handsontable/handsontable">Handsontable</a></b> (🥇39 ·  ⭐ 19K) - JavaScript data grid with a spreadsheet look & feel. Works with.. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
-* <b><a href="https://github.com/gregnb/mui-datatables">MUI-Datatables</a></b> (🥈32 ·  ⭐ 2.7K · 💀) - Datatables for React using Material-UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-* <b><a href="https://github.com/tabalinas/jsgrid">jsgrid</a></b> (🥈31 ·  ⭐ 1.5K · 💀) - Lightweight Grid jQuery Plugin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/mleibman/SlickGrid">mleibman/SlickGrid</a></b> (🥉30 ·  ⭐ 6.8K · 💀) - A lightning fast JavaScript grid/spreadsheet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/nadbm/react-datasheet">React-Datasheet</a></b> (🥉28 ·  ⭐ 5.4K · 💀) - Excel-like data grid (table) component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/react-bootstrap-table/react-bootstrap-table2">react-bootstrap-table2</a></b> (🥉27 ·  ⭐ 1.3K · 💀) - Next Generation of react-bootstrap-table. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code>
-* <b><a href="https://github.com/tonytomov/jqGrid">jqGrid</a></b> (🥉26 ·  ⭐ 2.8K) - jQuery grid plugin. <code>❗Unlicensed</code>
-* <b><a href="https://github.com/volosoft/jtable">jtable</a></b> (🥉26 ·  ⭐ 1.1K · 💀) - A JQuery plugin to create AJAX based CRUD tables. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/plotly/react-pivottable">react-pivottable</a></b> (🥉24 ·  ⭐ 970 · 💀) - React-based dragndrop pivot table with Plotly.js charts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/davidguttman/react-pivot">ReactPivot</a></b> (🥉22 ·  ⭐ 1K · 💀) - React-Pivot is a data-grid component with pivot-table-like.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/joaocarmo/react-smart-data-table">react-smart-data-table</a></b> (🥉19 ·  ⭐ 88 · 💤) - A smart data table component for React meant to be.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/nnajm/orb">orb</a></b> (🥉18 ·  ⭐ 560 · 💀) - Pivot table javascript library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/FancyGrid/FancyGrid">FancyGrid</a></b> (🥉17 ·  ⭐ 200 · 💀) - FancyGrid - JavaScript grid library with charts.. <code>❗Unlicensed</code>
-* <b><a href="https://github.com/paramquery/grid">grid</a></b> (🥉16 ·  ⭐ 540 · 💀) - jQuery grid plugin based on jQueryui widget design. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
-* <b><a href="https://github.com/githubocto/flat-ui">flat-ui</a></b> (🥉16 ·  ⭐ 370 · 💀) - Welcome friends! **flat-ui** is a React component that will render.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/webismymind/editablegrid">editablegrid</a></b> (🥉13 ·  ⭐ 800) - EditableGrid is an open source Javascript library aimed at.. <code>❗Unlicensed</code>
-* <b><a href="https://github.com/archit-p/editable-react-table">editable-react-table</a></b> (🥉9 ·  ⭐ 650) - React table built to resemble a database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,081 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-20</b> (🥇39 ·  ⭐ 26K · 💀) - React components for efficiently rendering large lists.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Handsontable](https://github.com/handsontable/handsontable) ⭐ 22,028 | 🐛 91 | 🌐 JavaScript | 📅 2026-08-24</b> (🥇39 ·  ⭐ 19K) - JavaScript data grid with a spreadsheet look & feel. Works with.. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+* <b>[mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) ⭐ 6,934 | 🐛 467 | 🌐 JavaScript | 📅 2023-02-26</b> (🥉30 ·  ⭐ 6.8K · 💀) - A lightning fast JavaScript grid/spreadsheet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[React-Datasheet](https://github.com/nadbm/react-datasheet) ⭐ 5,446 | 🐛 127 | 🌐 JavaScript | 📅 2023-03-01</b> (🥉28 ·  ⭐ 5.4K · 💀) - Excel-like data grid (table) component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[jqGrid](https://github.com/tonytomov/jqGrid) ⭐ 2,839 | 🐛 57 | 🌐 JavaScript | 📅 2026-07-10</b> (🥉26 ·  ⭐ 2.8K) - jQuery grid plugin. <code>❗Unlicensed</code>
+* <b>[MUI-Datatables](https://github.com/gregnb/mui-datatables) ⭐ 2,703 | 🐛 647 | 🌐 JavaScript | 📅 2024-05-13</b> (🥈32 ·  ⭐ 2.7K · 💀) - Datatables for React using Material-UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[jsgrid](https://github.com/tabalinas/jsgrid) ⭐ 1,520 | 🐛 376 | 🌐 JavaScript | 📅 2023-04-04</b> (🥈31 ·  ⭐ 1.5K · 💀) - Lightweight Grid jQuery Plugin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-bootstrap-table2](https://github.com/react-bootstrap-table/react-bootstrap-table2) ⭐ 1,258 | 🐛 542 | 🌐 JavaScript | 📅 2023-09-29</b> (🥉27 ·  ⭐ 1.3K · 💀) - Next Generation of react-bootstrap-table. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code>
+* <b>[jtable](https://github.com/volosoft/jtable) ⭐ 1,080 | 🐛 1,504 | 🌐 JavaScript | 📅 2021-11-19</b> (🥉26 ·  ⭐ 1.1K · 💀) - A JQuery plugin to create AJAX based CRUD tables. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[ReactPivot](https://github.com/davidguttman/react-pivot) ⭐ 1,078 | 🐛 33 | 🌐 JavaScript | 📅 2026-04-06</b> (🥉22 ·  ⭐ 1K · 💀) - React-Pivot is a data-grid component with pivot-table-like.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-pivottable](https://github.com/plotly/react-pivottable) ⭐ 1,065 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-13</b> (🥉24 ·  ⭐ 970 · 💀) - React-based dragndrop pivot table with Plotly.js charts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[editablegrid](https://github.com/webismymind/editablegrid) ⭐ 795 | 🐛 78 | 🌐 JavaScript | 📅 2026-01-28</b> (🥉13 ·  ⭐ 800) - EditableGrid is an open source Javascript library aimed at.. <code>❗Unlicensed</code>
+* <b>[editable-react-table](https://github.com/archit-p/editable-react-table) ⭐ 726 | 🐛 8 | 🌐 JavaScript | 📅 2023-12-22</b> (🥉9 ·  ⭐ 650) - React table built to resemble a database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[orb](https://github.com/nnajm/orb) ⭐ 553 | 🐛 70 | 🌐 JavaScript | 📅 2020-12-30</b> (🥉18 ·  ⭐ 560 · 💀) - Pivot table javascript library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[grid](https://github.com/paramquery/grid) ⭐ 545 | 🐛 84 | 🌐 JavaScript | 📅 2026-08-07</b> (🥉16 ·  ⭐ 540 · 💀) - jQuery grid plugin based on jQueryui widget design. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+* <b>[flat-ui](https://github.com/githubocto/flat-ui) ⚠️ Archived</b> (🥉16 ·  ⭐ 370 · 💀) - Welcome friends! **flat-ui** is a React component that will render.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[FancyGrid](https://github.com/FancyGrid/FancyGrid) ⭐ 215 | 🐛 40 | 🌐 JavaScript | 📅 2024-08-22</b> (🥉17 ·  ⭐ 200 · 💀) - FancyGrid - JavaScript grid library with charts.. <code>❗Unlicensed</code>
+* <b>[react-smart-data-table](https://github.com/joaocarmo/react-smart-data-table) ⭐ 87 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06</b> (🥉19 ·  ⭐ 88 · 💤) - A smart data table component for React meant to be.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -1207,7 +1207,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/react-hook-form/react-hook-form">react-hook-form</a></b> (🥇44 ·  ⭐ 40K) - React Hooks for form state management and validation (Web +.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/react-hook-form/react-hook-form) ⭐ 44,828 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 310 · 🔀 2K · 📦 780K · 📋 4.4K - 0% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/react-hook-form/react-hook-form) ⭐ 44,830 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 310 · 🔀 2K · 📦 780K · 📋 4.4K - 0% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/react-hook-form/react-hook-form
@@ -1220,7 +1220,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/Hacker0x01/react-datepicker">react-datepicker</a></b> (🥇43 ·  ⭐ 7.9K) - A simple and reusable datepicker component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Hacker0x01/react-datepicker) ⭐ 8,383 | 🐛 94 | 🌐 TypeScript | 📅 2026-04-02 (👨‍💻 460 · 🔀 2.2K · 📦 250K · 📋 2.2K - 14% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/Hacker0x01/react-datepicker) ⭐ 8,383 | 🐛 95 | 🌐 TypeScript | 📅 2026-04-02 (👨‍💻 460 · 🔀 2.2K · 📦 250K · 📋 2.2K - 14% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/Hacker0x01/react-datepicker
@@ -1233,7 +1233,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/jaredpalmer/formik">formik</a></b> (🥇42 ·  ⭐ 34K) - Build forms in React, without the tears. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/jaredpalmer/formik) ⭐ 34,329 | 🐛 839 | 🌐 TypeScript | 📅 2025-11-10 (👨‍💻 450 · 🔀 2.8K · 📦 600K · 📋 2.4K - 34% open · ⏱️ 24.04.2024):
+* [GitHub](https://github.com/jaredpalmer/formik) ⭐ 34,330 | 🐛 839 | 🌐 TypeScript | 📅 2025-11-10 (👨‍💻 450 · 🔀 2.8K · 📦 600K · 📋 2.4K - 34% open · ⏱️ 24.04.2024):
 
   ```
   git clone https://github.com/jaredpalmer/formik
@@ -1259,7 +1259,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/rjsf-team/react-jsonschema-form">react-jsonschema-form</a></b> (🥈38 ·  ⭐ 14K) - A React component for building Web forms from JSON.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/rjsf-team/react-jsonschema-form) ⭐ 15,874 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 340 · 🔀 2.2K · 📦 6.1K · 📋 2.1K - 13% open · ⏱️ 24.05.2024):
+* [GitHub](https://github.com/rjsf-team/react-jsonschema-form) ⭐ 15,873 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 340 · 🔀 2.2K · 📦 6.1K · 📋 2.1K - 13% open · ⏱️ 24.05.2024):
 
   ```
   git clone https://github.com/rjsf-team/react-jsonschema-form
@@ -1298,7 +1298,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/surveyjs/survey-library">survey-library</a></b> (🥈34 ·  ⭐ 4K) - Free JavaScript form builder library with integration for React,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/surveyjs/survey-library) ⭐ 4,850 | 🐛 495 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 160 · 🔀 780 · 📥 880 · 📦 10 · 📋 5.3K - 11% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/surveyjs/survey-library) ⭐ 4,850 | 🐛 497 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 160 · 🔀 780 · 📥 880 · 📦 10 · 📋 5.3K - 11% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/surveyjs/survey-library
@@ -1363,18 +1363,18 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 12 hidden projects...</summary>
 
-* <b><a href="https://github.com/arqex/react-datetime">react-datetime</a></b> (🥈34 ·  ⭐ 2K · 💀) - A lightweight but complete datetime picker react component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/react-dates/react-dates">react-dates</a></b> (🥉31 ·  ⭐ 12K · 💀) - An easily internationalizable, mobile-friendly datepicker library.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/unform/unform">unform</a></b> (🥉30 ·  ⭐ 4.5K · 💀) - Performance-focused API for React forms. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/haoxins/react-flatpickr">react-flatpickr</a></b> (🥉26 ·  ⭐ 590 · 💀) - flatpickr for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/formsy/formsy-material-ui">formsy-material-ui</a></b> (🥉24 ·  ⭐ 570 · 💀) - A Formsy compatibility wrapper for Material-UI form.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/hernansartorio/react-nice-dates">react-nice-dates</a></b> (🥉23 ·  ⭐ 1.1K · 💀) - A responsive, touch-friendly, and modular date picker.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/twisty/formsy-react-components">formsy-react-components</a></b> (🥉21 ·  ⭐ 290 · 💀) - Bootstrap components for a formsy-react form. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/mberneti/react-datepicker2">react-datepicker2</a></b> (🥉21 ·  ⭐ 230 · 💀) - react datepicker component.(include persian jalaali.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/antonfisher/react-simple-timefield">react-simple-timefield</a></b> (🥉21 ·  ⭐ 96 · 💀) - Simple React time input field. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/alexkuz/react-input-enhancements">react-input-enhancements</a></b> (🥉20 ·  ⭐ 1.4K · 💀) - Set of enhancements for input control. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/BelkaLab/react-yearly-calendar">react-yearly-calendar</a></b> (🥉16 ·  ⭐ 550 · 💀) - React.js Yearly Calendar Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/almogtavor/date-range-picker">date-range-picker</a></b> (🥉12 ·  ⭐ 100 · 💀) - Flexible React date range picker calendar with no.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-dates](https://github.com/react-dates/react-dates) ⭐ 12,178 | 🐛 607 | 🌐 JavaScript | 📅 2024-04-09</b> (🥉31 ·  ⭐ 12K · 💀) - An easily internationalizable, mobile-friendly datepicker library.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[unform](https://github.com/unform/unform) ⚠️ Archived</b> (🥉30 ·  ⭐ 4.5K · 💀) - Performance-focused API for React forms. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-datetime](https://github.com/arqex/react-datetime) ⭐ 2,004 | 🐛 182 | 🌐 JavaScript | 📅 2024-12-13</b> (🥈34 ·  ⭐ 2K · 💀) - A lightweight but complete datetime picker react component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) ⚠️ Archived</b> (🥉20 ·  ⭐ 1.4K · 💀) - Set of enhancements for input control. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-nice-dates](https://github.com/hernansartorio/react-nice-dates) ⭐ 1,098 | 🐛 56 | 🌐 JavaScript | 📅 2023-05-24</b> (🥉23 ·  ⭐ 1.1K · 💀) - A responsive, touch-friendly, and modular date picker.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-flatpickr](https://github.com/haoxins/react-flatpickr) ⭐ 622 | 🐛 10 | 🌐 TypeScript | 📅 2025-07-08</b> (🥉26 ·  ⭐ 590 · 💀) - flatpickr for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[formsy-material-ui](https://github.com/formsy/formsy-material-ui) ⭐ 567 | 🐛 40 | 🌐 TypeScript | 📅 2023-01-07</b> (🥉24 ·  ⭐ 570 · 💀) - A Formsy compatibility wrapper for Material-UI form.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) ⚠️ Archived</b> (🥉16 ·  ⭐ 550 · 💀) - React.js Yearly Calendar Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[formsy-react-components](https://github.com/twisty/formsy-react-components) ⭐ 287 | 🐛 18 | 🌐 TypeScript | 📅 2023-01-07</b> (🥉21 ·  ⭐ 290 · 💀) - Bootstrap components for a formsy-react form. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-datepicker2](https://github.com/mberneti/react-datepicker2) ⚠️ Archived</b> (🥉21 ·  ⭐ 230 · 💀) - react datepicker component.(include persian jalaali.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[date-range-picker](https://github.com/almogtavor/date-range-picker) ⭐ 104 | 🐛 7 | 🌐 JavaScript | 📅 2023-12-30</b> (🥉12 ·  ⭐ 100 · 💀) - Flexible React date range picker calendar with no.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) ⭐ 97 | 🐛 17 | 🌐 TypeScript | 📅 2023-01-26</b> (🥉21 ·  ⭐ 96 · 💀) - Simple React time input field. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -1398,7 +1398,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/i18next/react-i18next">react-i18next</a></b> (🥈40 ·  ⭐ 9K) - Internationalization for react done right. Using the i18next i18n.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/i18next/react-i18next) ⭐ 10,036 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-20 (👨‍💻 190 · 🔀 1K · 📦 220K · 📋 1.2K - 1% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/i18next/react-i18next) ⭐ 10,038 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-20 (👨‍💻 190 · 🔀 1K · 📦 220K · 📋 1.2K - 1% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/i18next/react-i18next
@@ -1456,7 +1456,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/reduxjs/react-redux">react-redux</a></b> (🥇47 ·  ⭐ 23K) - Official React bindings for Redux. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/reduxjs/react-redux) ⭐ 23,445 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 300 · 🔀 3.4K · 📦 3.8M · 📋 1.3K - 2% open · ⏱️ 09.05.2024):
+* [GitHub](https://github.com/reduxjs/react-redux) ⭐ 23,448 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 300 · 🔀 3.4K · 📦 3.8M · 📋 1.3K - 2% open · ⏱️ 09.05.2024):
 
   ```
   git clone https://github.com/reduxjs/react-redux
@@ -1469,7 +1469,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/immerjs/immer">immer</a></b> (🥇45 ·  ⭐ 27K) - Create the next immutable state by mutating the current one. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/immerjs/immer) ⭐ 28,979 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-19 (👨‍💻 200 · 🔀 840 · 📦 9.8M · 📋 660 - 4% open · ⏱️ 27.04.2024):
+* [GitHub](https://github.com/immerjs/immer) ⭐ 28,980 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-19 (👨‍💻 200 · 🔀 840 · 📦 9.8M · 📋 660 - 4% open · ⏱️ 27.04.2024):
 
   ```
   git clone https://github.com/immerjs/immer
@@ -1495,7 +1495,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/statelyai/xstate">xstate</a></b> (🥇43 ·  ⭐ 26K) - Actor-based state management & orchestration for complex app logic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/statelyai/xstate) ⭐ 30,051 | 🐛 125 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 360 · 🔀 1.2K · 📦 260K · 📋 1.4K - 9% open · ⏱️ 01.06.2024):
+* [GitHub](https://github.com/statelyai/xstate) ⭐ 30,053 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 360 · 🔀 1.2K · 📦 260K · 📋 1.4K - 9% open · ⏱️ 01.06.2024):
 
   ```
   git clone https://github.com/statelyai/xstate
@@ -1508,7 +1508,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/pmndrs/zustand">zustand</a></b> (🥈42 ·  ⭐ 44K) - Bear necessities for state management in React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pmndrs/zustand) ⭐ 58,596 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 230 · 🔀 1.3K · 📦 390K · 📋 660 - 1% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/pmndrs/zustand) ⭐ 58,600 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 230 · 🔀 1.3K · 📦 390K · 📋 660 - 1% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/pmndrs/zustand
@@ -1534,7 +1534,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/immutable-js/immutable-js">immutable-js</a></b> (🥈40 ·  ⭐ 33K) - Immutable persistent data collections for Javascript which increase.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/immutable-js/immutable-js) ⭐ 33,040 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-17 (👨‍💻 230 · 🔀 1.8K · 📦 5 · 📋 1.3K - 9% open · ⏱️ 13.05.2024):
+* [GitHub](https://github.com/immutable-js/immutable-js) ⭐ 33,041 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-17 (👨‍💻 230 · 🔀 1.8K · 📦 5 · 📋 1.3K - 9% open · ⏱️ 13.05.2024):
 
   ```
   git clone https://github.com/immutable-js/immutable-js
@@ -1547,7 +1547,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/pubkey/rxdb">rxdb</a></b> (🥈39 ·  ⭐ 21K) - A fast, local first, reactive Database for JavaScript Applications.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/pubkey/rxdb) ⭐ 23,361 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 240 · 🔀 1K · 📦 1.7K · 📋 710 - 2% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/pubkey/rxdb) ⭐ 23,363 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 240 · 🔀 1K · 📦 1.7K · 📋 710 - 2% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/pubkey/rxdb
@@ -1573,7 +1573,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/reduxjs/redux-toolkit">redux-toolkit</a></b> (🥈36 ·  ⭐ 10K) - The official, opinionated, batteries-included toolset for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/reduxjs/redux-toolkit) ⭐ 11,223 | 🐛 288 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 360 · 🔀 1.1K · 📦 19 · 📋 2.5K - 12% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/reduxjs/redux-toolkit) ⭐ 11,224 | 🐛 289 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 360 · 🔀 1.1K · 📦 19 · 📋 2.5K - 12% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/reduxjs/redux-toolkit
@@ -1677,19 +1677,19 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 13 hidden projects...</summary>
 
-* <b><a href="https://github.com/localForage/localForage">localForage</a></b> (🥈39 ·  ⭐ 24K · 💀) - Offline storage, improved. Wraps IndexedDB, WebSQL, or.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b><a href="https://github.com/remix-run/history">history</a></b> (🥈39 ·  ⭐ 8.3K · 💀) - Manage session history with JavaScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/final-form/react-final-form">react-final-form</a></b> (🥉32 ·  ⭐ 7.3K · 💀) - High performance subscription-based form state management.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/goatslacker/alt">alt</a></b> (🥉30 ·  ⭐ 3.5K · 💀) - Isomorphic flux implementation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/mobxjs/mobx-react">mobx-react</a></b> (🥉28 ·  ⭐ 4.9K · 💀) - React bindings for MobX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/cerebral/cerebral">cerebral</a></b> (🥉28 ·  ⭐ 2K · 💀) - Declarative state and side effects management for popular JavaScript.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/jamiebuilds/unstated-next">Unstated Next</a></b> (🥉26 ·  ⭐ 4.2K · 💀) - 200 bytes to never think about React state management.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/CharlesStover/reactn">reactn</a></b> (🥉25 ·  ⭐ 1.9K · 💀) - React, but with built-in global state management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/BinaryMuse/fluxxor">fluxxor</a></b> (🥉25 ·  ⭐ 1.7K · 💀) - Flux architecture tools for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/tshelburne/redux-batched-actions">redux-batched-actions</a></b> (🥉22 ·  ⭐ 1K · 💀) - redux higher order reducer + action to reduce actions.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/Yomguithereal/baobab-react">baobab-react</a></b> (🥉21 ·  ⭐ 310 · 💀) - React integration for Baobab. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/teafuljs/teaful">teaful</a></b> (🥉17 ·  ⭐ 710 · 💀) - Tiny, easy and powerful React state management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/noahgrant/resourcerer">resourcerer</a></b> (🥉14 ·  ⭐ 80) - Declarative data-fetching and caching framework for REST APIs with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[localForage](https://github.com/localForage/localForage) ⭐ 25,807 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30</b> (🥈39 ·  ⭐ 24K · 💀) - Offline storage, improved. Wraps IndexedDB, WebSQL, or.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+* <b>[history](https://github.com/remix-run/history) ⭐ 8,302 | 🐛 125 | 🌐 JavaScript | 📅 2024-07-07</b> (🥈39 ·  ⭐ 8.3K · 💀) - Manage session history with JavaScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,439 | 🐛 377 | 🌐 JavaScript | 📅 2026-05-30</b> (🥉32 ·  ⭐ 7.3K · 💀) - High performance subscription-based form state management.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[mobx-react](https://github.com/mobxjs/mobx-react) ⚠️ Archived</b> (🥉28 ·  ⭐ 4.9K · 💀) - React bindings for MobX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Unstated Next](https://github.com/jamiebuilds/unstated-next) ⭐ 4,186 | 🐛 51 | 🌐 TypeScript | 📅 2022-02-10</b> (🥉26 ·  ⭐ 4.2K · 💀) - 200 bytes to never think about React state management.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[alt](https://github.com/goatslacker/alt) ⭐ 3,427 | 🐛 124 | 🌐 JavaScript | 📅 2023-03-28</b> (🥉30 ·  ⭐ 3.5K · 💀) - Isomorphic flux implementation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[cerebral](https://github.com/cerebral/cerebral) ⭐ 1,996 | 🐛 7 | 🌐 JavaScript | 📅 2026-03-20</b> (🥉28 ·  ⭐ 2K · 💀) - Declarative state and side effects management for popular JavaScript.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[reactn](https://github.com/CharlesStover/reactn) ⚠️ Archived</b> (🥉25 ·  ⭐ 1.9K · 💀) - React, but with built-in global state management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[fluxxor](https://github.com/BinaryMuse/fluxxor) ⭐ 1,683 | 🐛 38 | 🌐 JavaScript | 📅 2020-10-19</b> (🥉25 ·  ⭐ 1.7K · 💀) - Flux architecture tools for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) ⭐ 1,036 | 🐛 11 | 🌐 JavaScript | 📅 2024-03-27</b> (🥉22 ·  ⭐ 1K · 💀) - redux higher order reducer + action to reduce actions.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[teaful](https://github.com/teafuljs/teaful) ⭐ 712 | 🐛 18 | 🌐 TypeScript | 📅 2026-04-09</b> (🥉17 ·  ⭐ 710 · 💀) - Tiny, easy and powerful React state management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[baobab-react](https://github.com/Yomguithereal/baobab-react) ⭐ 308 | 🐛 29 | 🌐 JavaScript | 📅 2021-05-06</b> (🥉21 ·  ⭐ 310 · 💀) - React integration for Baobab. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[resourcerer](https://github.com/noahgrant/resourcerer) ⭐ 85 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-16</b> (🥉14 ·  ⭐ 80) - Declarative data-fetching and caching framework for REST APIs with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -1700,7 +1700,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/remix-run/react-router">react-router</a></b> (🥇48 ·  ⭐ 52K) - Declarative routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/remix-run/react-router) ⭐ 56,572 | 🐛 170 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 970 · 🔀 10K · 📦 8.1M · 📋 7.4K - 1% open · ⏱️ 02.06.2024):
+* [GitHub](https://github.com/remix-run/react-router) ⭐ 56,572 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 970 · 🔀 10K · 📦 8.1M · 📋 7.4K - 1% open · ⏱️ 02.06.2024):
 
   ```
   git clone https://github.com/remix-run/react-router
@@ -1713,7 +1713,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/remix-run/react-router">remix-run/react-router</a></b> (🥇48 ·  ⭐ 52K) - Declarative routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/remix-run/react-router) ⭐ 56,572 | 🐛 170 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 970 · 🔀 10K · 📦 8.1M · 📋 7.4K - 1% open · ⏱️ 02.06.2024):
+* [GitHub](https://github.com/remix-run/react-router) ⭐ 56,572 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 970 · 🔀 10K · 📦 8.1M · 📋 7.4K - 1% open · ⏱️ 02.06.2024):
 
   ```
   git clone https://github.com/remix-run/react-router
@@ -1765,13 +1765,13 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 7 hidden projects...</summary>
 
-* <b><a href="https://github.com/reach/router">router</a></b> (🥈33 ·  ⭐ 6.9K · 💀) - Next generation Routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/acdlite/redux-router">redux-router</a></b> (🥈28 ·  ⭐ 2.3K · 💀) - Redux bindings for React Router keep your router state inside.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/frontarm/navi">navi</a></b> (🥉26 ·  ⭐ 2.1K · 💀) - Declarative, asynchronous routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/taion/react-router-scroll">react-router-scroll</a></b> (🥉24 ·  ⭐ 840 · 💀) - React Router scroll management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/STRML/react-router-component">react-router-component</a></b> (🥉22 ·  ⭐ 880 · 💀) - Declarative router component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/robbestad/react-breadcrumbs">react-breadcrumbs</a></b> (🥉22 ·  ⭐ 410 · 💀) - Automatic breadcrumbs for React-Router. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
-* <b><a href="https://github.com/pshrmn/curi">curi</a></b> (🥉18 ·  ⭐ 270 · 💀) - A JavaScript router for single-page applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[router](https://github.com/reach/router) ⭐ 6,826 | 🐛 173 | 🌐 JavaScript | 📅 2022-12-08</b> (🥈33 ·  ⭐ 6.9K · 💀) - Next generation Routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[redux-router](https://github.com/acdlite/redux-router) ⭐ 2,282 | 🐛 31 | 🌐 JavaScript | 📅 2021-07-07</b> (🥈28 ·  ⭐ 2.3K · 💀) - Redux bindings for React Router keep your router state inside.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[navi](https://github.com/frontarm/navi) ⭐ 2,046 | 🐛 43 | 🌐 TypeScript | 📅 2024-07-01</b> (🥉26 ·  ⭐ 2.1K · 💀) - Declarative, asynchronous routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-router-component](https://github.com/STRML/react-router-component) ⭐ 868 | 🐛 41 | 🌐 JavaScript | 📅 2026-04-09</b> (🥉22 ·  ⭐ 880 · 💀) - Declarative router component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-router-scroll](https://github.com/taion/react-router-scroll) ⭐ 831 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-06</b> (🥉24 ·  ⭐ 840 · 💀) - React Router scroll management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-breadcrumbs](https://github.com/robbestad/react-breadcrumbs) ⭐ 406 | 🐛 44 | 🌐 JavaScript | 📅 2023-01-04</b> (🥉22 ·  ⭐ 410 · 💀) - Automatic breadcrumbs for React-Router. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+* <b>[curi](https://github.com/pshrmn/curi) ⭐ 269 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-07</b> (🥉18 ·  ⭐ 270 · 💀) - A JavaScript router for single-page applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -1782,7 +1782,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/pmndrs/react-spring">react-spring</a></b> (🥇41 ·  ⭐ 28K) - A spring physics based React animation library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pmndrs/react-spring) ⭐ 29,135 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 190 · 🔀 1.2K · 📦 160K · 📋 1.2K - 9% open · ⏱️ 26.05.2024):
+* [GitHub](https://github.com/pmndrs/react-spring) ⭐ 29,136 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 190 · 🔀 1.2K · 📦 160K · 📋 1.2K - 9% open · ⏱️ 26.05.2024):
 
   ```
   git clone https://github.com/pmndrs/react-spring
@@ -1795,7 +1795,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/framer/motion">motion</a></b> (🥇41 ·  ⭐ 22K) - Open source, production-ready animation and gesture library for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/framer/motion) ⭐ 33,331 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-20 (👨‍💻 190 · 🔀 740 · 📦 3 · 📋 1.6K - 13% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/framer/motion) ⭐ 33,343 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-20 (👨‍💻 190 · 🔀 740 · 📦 3 · 📋 1.6K - 13% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/framer/motion
@@ -1808,7 +1808,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/tsparticles/tsparticles">tsparticles</a></b> (🥈36 ·  ⭐ 7.2K) - tsParticles - Easily create highly customizable JavaScript particles.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tsparticles/tsparticles) ⭐ 8,960 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 88 · 🔀 800 · 📥 510 · 📦 32K · 📋 410 - 2% open · ⏱️ 12.05.2024):
+* [GitHub](https://github.com/tsparticles/tsparticles) ⭐ 8,961 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 88 · 🔀 800 · 📥 510 · 📦 32K · 📋 410 - 2% open · ⏱️ 12.05.2024):
 
   ```
   git clone https://github.com/matteobruni/tsparticles
@@ -1821,7 +1821,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/mkosir/react-parallax-tilt">react-parallax-tilt</a></b> (🥉29 ·  ⭐ 930) - Easily apply tilt hover effect on React components -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mkosir/react-parallax-tilt) ⭐ 1,078 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 15 · 🔀 110 · 📦 25K · ⏱️ 25.05.2024):
+* [GitHub](https://github.com/mkosir/react-parallax-tilt) ⭐ 1,078 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 15 · 🔀 110 · 📦 25K · ⏱️ 25.05.2024):
 
   ```
   git clone https://github.com/mkosir/react-parallax-tilt
@@ -1834,14 +1834,14 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 8 hidden projects...</summary>
 
-* <b><a href="https://github.com/chenglou/react-motion">react-motion</a></b> (🥈35 ·  ⭐ 22K · 💀) - A spring that solves your animation problems. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/joshwcomeau/react-flip-move">react-flip-move</a></b> (🥈31 ·  ⭐ 4K · 💀) - Effortless animation between DOM changes (eg. list.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/sghall/react-move">React-Move</a></b> (🥉29 ·  ⭐ 6.6K · 💀) - React Move | Beautiful, data-driven animations for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/maisano/react-router-transition">react-router-transition</a></b> (🥉26 ·  ⭐ 2.6K · 💀) - painless transitions built for react-router, powered.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/plus1tv/react-anime">react-anime</a></b> (🥉25 ·  ⭐ 1.5K · 💀) - ()\*: A super easy animation library for React!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/lindelof/particles-bg">particles-bg</a></b> (🥉18 ·  ⭐ 640 · 💀) - React particles animation background component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/luukdv/gooey-react">gooey-react</a></b> (🥉16 ·  ⭐ 640 · 💀) - The gooey effect for React, used for shape blobbing / metaballs.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/teodosii/react-tweenful">react-tweenful</a></b> (🥉9 ·  ⭐ 86 · 💀) - Animation engine designed for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-motion](https://github.com/chenglou/react-motion) ⭐ 21,913 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05</b> (🥈35 ·  ⭐ 22K · 💀) - A spring that solves your animation problems. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[React-Move](https://github.com/sghall/react-move) ⭐ 6,556 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07</b> (🥉29 ·  ⭐ 6.6K · 💀) - React Move | Beautiful, data-driven animations for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-flip-move](https://github.com/joshwcomeau/react-flip-move) ⭐ 4,135 | 🐛 35 | 🌐 JavaScript | 📅 2022-12-06</b> (🥈31 ·  ⭐ 4K · 💀) - Effortless animation between DOM changes (eg. list.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-router-transition](https://github.com/maisano/react-router-transition) ⭐ 2,577 | 🐛 28 | 🌐 JavaScript | 📅 2021-04-30</b> (🥉26 ·  ⭐ 2.6K · 💀) - painless transitions built for react-router, powered.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-anime](https://github.com/plus1tv/react-anime) ⭐ 1,562 | 🐛 27 | 🌐 TypeScript | 📅 2023-02-27</b> (🥉25 ·  ⭐ 1.5K · 💀) - ()\*: A super easy animation library for React!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[gooey-react](https://github.com/luukdv/gooey-react) ⭐ 676 | 🐛 0 | 🌐 TypeScript | 📅 2023-02-03</b> (🥉16 ·  ⭐ 640 · 💀) - The gooey effect for React, used for shape blobbing / metaballs.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[particles-bg](https://github.com/lindelof/particles-bg) ⭐ 669 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02</b> (🥉18 ·  ⭐ 640 · 💀) - React particles animation background component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-tweenful](https://github.com/teodosii/react-tweenful) ⭐ 85 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-03</b> (🥉9 ·  ⭐ 86 · 💀) - Animation engine designed for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -1854,7 +1854,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/mrdoob/three.js">three.js</a></b> (🥇51 ·  ⭐ 100K · 📈) - JavaScript 3D Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mrdoob/three.js) ⭐ 114,732 | 🐛 379 | 🌐 JavaScript | 📅 2026-08-23 (👨‍💻 2.3K · 🔀 35K · 📦 330K · 📋 12K - 3% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/mrdoob/three.js) ⭐ 114,746 | 🐛 376 | 🌐 JavaScript | 📅 2026-08-24 (👨‍💻 2.3K · 🔀 35K · 📦 330K · 📋 12K - 3% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/mrdoob/three.js
@@ -1867,7 +1867,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/chartjs/Chart.js">Chart.js</a></b> (🥇47 ·  ⭐ 64K) - Simple HTML5 Charts using the canvas tag. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,659 | 🐛 579 | 🌐 JavaScript | 📅 2026-05-27 (👨‍💻 500 · 🔀 12K · 📥 13M · 📦 960K · 📋 7.1K - 5% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,660 | 🐛 579 | 🌐 JavaScript | 📅 2026-05-27 (👨‍💻 500 · 🔀 12K · 📥 13M · 📦 960K · 📋 7.1K - 5% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/chartjs/Chart.js
@@ -1880,7 +1880,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/d3/d3">d3</a></b> (🥇46 ·  ⭐ 110K) - Bring data to life with SVG, Canvas and HTML. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-* [GitHub](https://github.com/d3/d3) ⭐ 113,542 | 🐛 20 | 🌐 Shell | 📅 2026-05-28 (👨‍💻 150 · 🔀 23K · 📥 740K · 📦 370K · 📋 2.2K - 0% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/d3/d3) ⭐ 113,544 | 🐛 20 | 🌐 Shell | 📅 2026-05-28 (👨‍💻 150 · 🔀 23K · 📥 740K · 📦 370K · 📋 2.2K - 0% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/d3/d3
@@ -1893,7 +1893,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/mermaid-js/mermaid">mermaid</a></b> (🥇45 ·  ⭐ 68K) - Generation of diagrams like flowcharts or sequence diagrams from text in a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mermaid-js/mermaid) ⭐ 89,911 | 🐛 1,723 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 630 · 🔀 5.9K · 📦 48K · 📋 2.9K - 33% open · ⏱️ 24.05.2024):
+* [GitHub](https://github.com/mermaid-js/mermaid) ⭐ 89,918 | 🐛 1,720 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 630 · 🔀 5.9K · 📦 48K · 📋 2.9K - 33% open · ⏱️ 24.05.2024):
 
   ```
   git clone https://github.com/mermaid-js/mermaid
@@ -1906,7 +1906,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/recharts/recharts">Recharts</a></b> (🥇45 ·  ⭐ 23K) - Redefined chart library built with React and D3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/recharts/recharts) ⭐ 27,515 | 🐛 434 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 330 · 🔀 1.7K · 📦 240K · 📋 3K - 17% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/recharts/recharts) ⭐ 27,517 | 🐛 434 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 330 · 🔀 1.7K · 📦 240K · 📋 3K - 17% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/recharts/recharts
@@ -1919,7 +1919,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/apache/echarts">echarts</a></b> (🥈40 ·  ⭐ 59K) - Apache ECharts is a powerful, interactive charting and data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apache/echarts) ⭐ 67,130 | 🐛 1,542 | 🌐 TypeScript | 📅 2026-08-04 (👨‍💻 270 · 🔀 20K · 📦 270K · 📋 18K - 12% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/apache/echarts) ⭐ 67,137 | 🐛 1,542 | 🌐 TypeScript | 📅 2026-08-04 (👨‍💻 270 · 🔀 20K · 📦 270K · 📋 18K - 12% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/apache/echarts
@@ -1945,7 +1945,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/pmndrs/react-three-fiber">react-three-fiber</a></b> (🥈39 ·  ⭐ 26K) - A React renderer for Three.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pmndrs/react-three-fiber) ⭐ 31,779 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 200 · 🔀 1.5K · 📦 26K · 📋 990 - 5% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/pmndrs/react-three-fiber) ⭐ 31,784 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 200 · 🔀 1.5K · 📦 26K · 📋 990 - 5% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/pmndrs/react-three-fiber
@@ -1971,7 +1971,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/plouc/nivo">nivo</a></b> (🥈38 ·  ⭐ 13K) - nivo provides a rich set of dataviz components, built on top of the awesome d3.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/plouc/nivo) ⭐ 14,087 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-21 (👨‍💻 210 · 🔀 1K · 📦 1.9K · 📋 1.7K - 6% open · ⏱️ 12.05.2024):
+* [GitHub](https://github.com/plouc/nivo) ⭐ 14,088 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-21 (👨‍💻 210 · 🔀 1K · 📦 1.9K · 📋 1.7K - 6% open · ⏱️ 12.05.2024):
 
   ```
   git clone https://github.com/plouc/nivo
@@ -1984,7 +1984,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/airbnb/visx">visx</a></b> (🥈36 ·  ⭐ 19K) - visx | visualization components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/airbnb/visx) ⭐ 21,019 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-22 (👨‍💻 170 · 🔀 690 · 📦 2.5K · 📋 790 - 15% open · ⏱️ 29.05.2024):
+* [GitHub](https://github.com/airbnb/visx) ⭐ 21,020 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-22 (👨‍💻 170 · 🔀 690 · 📦 2.5K · 📋 790 - 15% open · ⏱️ 29.05.2024):
 
   ```
   git clone https://github.com/airbnb/visx
@@ -2101,7 +2101,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/frappe/charts">charts</a></b> (🥉29 ·  ⭐ 15K · 💤) - Simple, responsive, modern SVG Charts with zero dependencies. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/frappe/charts) ⭐ 15,080 | 🐛 145 | 🌐 JavaScript | 📅 2025-07-02 (👨‍💻 55 · 🔀 720 · 📦 6 · 📋 300 - 48% open · ⏱️ 27.09.2023):
+* [GitHub](https://github.com/frappe/charts) ⭐ 15,080 | 🐛 146 | 🌐 JavaScript | 📅 2025-07-02 (👨‍💻 55 · 🔀 720 · 📦 6 · 📋 300 - 48% open · ⏱️ 27.09.2023):
 
   ```
   git clone https://github.com/frappe/charts
@@ -2114,7 +2114,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/projectstorm/react-diagrams">react-diagrams</a></b> (🥉29 ·  ⭐ 8.4K) - a super simple, no-nonsense diagramming library written in react.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/projectstorm/react-diagrams) ⭐ 9,420 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03 (👨‍💻 95 · 🔀 1.2K · 📦 3 · 📋 810 - 38% open · ⏱️ 19.02.2024):
+* [GitHub](https://github.com/projectstorm/react-diagrams) ⭐ 9,421 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03 (👨‍💻 95 · 🔀 1.2K · 📦 3 · 📋 810 - 38% open · ⏱️ 19.02.2024):
 
   ```
   git clone https://github.com/projectstorm/react-diagrams
@@ -2140,7 +2140,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/nteract/semiotic">Semiotic</a></b> (🥉29 ·  ⭐ 2.4K) - A data visualization framework combining React & D3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/nteract/semiotic) ⭐ 2,691 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 31 · 🔀 130 · 📦 420 · 📋 460 - 8% open · ⏱️ 09.04.2024):
+* [GitHub](https://github.com/nteract/semiotic) ⭐ 2,691 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 31 · 🔀 130 · 📦 420 · 📋 460 - 8% open · ⏱️ 09.04.2024):
 
   ```
   git clone https://github.com/nteract/semiotic
@@ -2179,18 +2179,18 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 12 hidden projects...</summary>
 
-* <b><a href="https://github.com/elastic/elastic-charts">elastic-charts</a></b> (🥉32 ·  ⭐ 360) - Elastic Charts library. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
-* <b><a href="https://github.com/kirjs/react-highcharts">react-highcharts</a></b> (🥉30 ·  ⭐ 1.3K · 💀) - React wrapper for Highcharts library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/borisyankov/react-sparklines">react-sparklines</a></b> (🥉29 ·  ⭐ 2.8K · 💀) - Beautiful and expressive Sparklines React component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/viserjs/viser">Viser</a></b> (🥉27 ·  ⭐ 1.6K · 💀) - viser is a toolkit fit for data vis engineer. <https://viserjs.gitee.io/>. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/esnet/react-timeseries-charts">react-timeseries-charts</a></b> (🥉26 ·  ⭐ 850 · 💀) - Declarative and modular timeseries charting.. <code><a href="https://tldrlegal.com/search?q=BSD-3-Clause-LBNL">❗️BSD-3-Clause-LBNL</a></code>
-* <b><a href="https://github.com/syncfusion/ej2-react-ui-components">ej2-react-ui-components</a></b> (🥉26 ·  ⭐ 330) - Syncfusion React UI components library offer more.. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
-* <b><a href="https://github.com/alibaba/GGEditor">GGEditor</a></b> (🥉25 ·  ⭐ 3.4K · 💀) - A visual graph editor based on G6 and React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/fraserxu/react-chartist">react-chartist</a></b> (🥉24 ·  ⭐ 530 · 💀) - React component for Chartist.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/rumble-charts/rumble-charts">rumble-charts</a></b> (🥉21 ·  ⭐ 350 · 💀) - React components for building composable and flexible charts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/dunnock/react-sigma">react-sigma</a></b> (🥉21 ·  ⭐ 260 · 💀) - Lightweight React library for drawing network graphs built on top.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/kis/chartify">chartify</a></b> (🥉17 ·  ⭐ 690 · 💀) - React.js plugin for building charts using CSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/99ff00/react-charty">react-charty</a></b> (🥉12 ·  ⭐ 71 · 💀) - Data Visualization Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[GGEditor](https://github.com/alibaba/GGEditor) ⭐ 3,410 | 🐛 278 | 🌐 TypeScript | 📅 2020-09-10</b> (🥉25 ·  ⭐ 3.4K · 💀) - A visual graph editor based on G6 and React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-sparklines](https://github.com/borisyankov/react-sparklines) ⭐ 2,850 | 🐛 63 | 🌐 JavaScript | 📅 2024-09-21</b> (🥉29 ·  ⭐ 2.8K · 💀) - Beautiful and expressive Sparklines React component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-highcharts](https://github.com/kirjs/react-highcharts) ⭐ 1,248 | 🐛 63 | 🌐 JavaScript | 📅 2022-12-07</b> (🥉30 ·  ⭐ 1.3K · 💀) - React wrapper for Highcharts library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) ⭐ 876 | 🐛 126 | 🌐 JavaScript | 📅 2023-09-18</b> (🥉26 ·  ⭐ 850 · 💀) - Declarative and modular timeseries charting.. <code><a href="https://tldrlegal.com/search?q=BSD-3-Clause-LBNL">❗️BSD-3-Clause-LBNL</a></code>
+* <b>[react-chartist](https://github.com/fraserxu/react-chartist) ⭐ 523 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-04</b> (🥉24 ·  ⭐ 530 · 💀) - React component for Chartist.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[ej2-react-ui-components](https://github.com/syncfusion/ej2-react-ui-components) ⭐ 403 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-18</b> (🥉26 ·  ⭐ 330) - Syncfusion React UI components library offer more.. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+* <b>[elastic-charts](https://github.com/elastic/elastic-charts) ⭐ 399 | 🐛 380 | 🌐 TypeScript | 📅 2026-08-24</b> (🥉32 ·  ⭐ 360) - Elastic Charts library. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+* <b>[rumble-charts](https://github.com/rumble-charts/rumble-charts) ⭐ 343 | 🐛 2 | 🌐 TypeScript | 📅 2023-01-07</b> (🥉21 ·  ⭐ 350 · 💀) - React components for building composable and flexible charts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-sigma](https://github.com/dunnock/react-sigma) ⭐ 264 | 🐛 62 | 🌐 JavaScript | 📅 2023-01-04</b> (🥉21 ·  ⭐ 260 · 💀) - Lightweight React library for drawing network graphs built on top.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-charty](https://github.com/99ff00/react-charty) ⭐ 73 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10</b> (🥉12 ·  ⭐ 71 · 💀) - Data Visualization Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Viser](https://github.com/viserjs/viser)</b> (🥉27 ·  ⭐ 1.6K · 💀) - viser is a toolkit fit for data vis engineer. <https://viserjs.gitee.io/>. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[chartify](https://github.com/kis/chartify)</b> (🥉17 ·  ⭐ 690 · 💀) - React.js plugin for building charts using CSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -2214,7 +2214,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/TanStack/query">react-query</a></b> (🥈43 ·  ⭐ 40K) - Powerful asynchronous state management, server-state utilities and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/TanStack/query) ⭐ 50,192 | 🐛 125 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 760 · 🔀 2.7K · 📦 2K · 📋 1.8K - 2% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/TanStack/query) ⭐ 50,197 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 760 · 🔀 2.7K · 📦 2K · 📋 1.8K - 2% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/tannerlinsley/react-query
@@ -2227,7 +2227,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/vercel/swr">swr</a></b> (🥈41 ·  ⭐ 30K) - React Hooks for Data Fetching. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vercel/swr) ⭐ 32,467 | 🐛 214 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 180 · 🔀 1.2K · 📦 280K · 📋 910 - 13% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/vercel/swr) ⭐ 32,468 | 🐛 214 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 180 · 🔀 1.2K · 📦 280K · 📋 910 - 13% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/vercel/swr
@@ -2240,7 +2240,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/facebook/relay">relay</a></b> (🥉35 ·  ⭐ 18K) - Relay is a JavaScript framework for building data-driven React applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/facebook/relay) ⭐ 18,955 | 🐛 871 | 🌐 Rust | 📅 2026-08-21 (👨‍💻 880 · 🔀 1.8K · 📦 3 · 📋 2.4K - 28% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/facebook/relay) ⭐ 18,955 | 🐛 871 | 🌐 Rust | 📅 2026-08-24 (👨‍💻 880 · 🔀 1.8K · 📦 3 · 📋 2.4K - 28% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/facebook/relay
@@ -2279,7 +2279,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b><a href="https://github.com/contiamo/restful-react">restful-react</a></b> (🥉24 ·  ⭐ 1.9K · 💀) - A consistent, declarative way of interacting with RESTful.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[restful-react](https://github.com/contiamo/restful-react) ⚠️ Archived</b> (🥉24 ·  ⭐ 1.9K · 💀) - A consistent, declarative way of interacting with RESTful.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -2292,7 +2292,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/fkhadra/react-toastify">React-Toastify</a></b> (🥇39 ·  ⭐ 12K) - React notification made easy !. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/fkhadra/react-toastify) ⭐ 13,436 | 🐛 103 | 🌐 TypeScript | 📅 2026-04-19 (👨‍💻 95 · 🔀 670 · 📦 770K · 📋 800 - 14% open · ⏱️ 15.05.2024):
+* [GitHub](https://github.com/fkhadra/react-toastify) ⭐ 13,435 | 🐛 103 | 🌐 TypeScript | 📅 2026-04-19 (👨‍💻 95 · 🔀 670 · 📦 770K · 📋 800 - 14% open · ⏱️ 15.05.2024):
 
   ```
   git clone https://github.com/fkhadra/react-toastify
@@ -2305,7 +2305,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/timolins/react-hot-toast">React Hot Toast</a></b> (🥈35 ·  ⭐ 9.3K) - Smoking Hot React Notifications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/timolins/react-hot-toast) ⭐ 10,969 | 🐛 143 | 🌐 TypeScript | 📅 2025-08-16 (👨‍💻 26 · 🔀 310 · 📦 290K · 📋 260 - 52% open · ⏱️ 22.01.2024):
+* [GitHub](https://github.com/timolins/react-hot-toast) ⭐ 10,970 | 🐛 143 | 🌐 TypeScript | 📅 2025-08-16 (👨‍💻 26 · 🔀 310 · 📦 290K · 📋 260 - 52% open · ⏱️ 22.01.2024):
 
   ```
   git clone https://github.com/timolins/react-hot-toast
@@ -2344,11 +2344,11 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 5 hidden projects...</summary>
 
-* <b><a href="https://github.com/jossmac/react-toast-notifications">react-toast-notifications</a></b> (🥈26 ·  ⭐ 2.2K · 💀) - A toast notification system for react. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/teodosii/react-notifications-component">react-notifications-component</a></b> (🥈26 ·  ⭐ 1.3K · 💀) - Delightful and highly customisable React Component to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/Cogoport/cogo-toast">cogo-toast</a></b> (🥉20 ·  ⭐ 670 · 💀) - Beautiful, Zero Configuration, Toast Messages for React. Only \~.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/moharnadreza/react-toast">react-toast</a></b> (🥉17 ·  ⭐ 72 · 💀) - Minimal toast notifications for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/alexpermiakov/simple-react-notifications">simple-react-notifications</a></b> (🥉14 ·  ⭐ 60 · 💀) - Tiny React.js notification library (1kb gzip). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-toast-notifications](https://github.com/jossmac/react-toast-notifications) ⭐ 2,161 | 🐛 30 | 🌐 JavaScript | 📅 2023-12-04</b> (🥈26 ·  ⭐ 2.2K · 💀) - A toast notification system for react. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-notifications-component](https://github.com/teodosii/react-notifications-component) ⭐ 1,280 | 🐛 18 | 🌐 TypeScript | 📅 2023-08-28</b> (🥈26 ·  ⭐ 1.3K · 💀) - Delightful and highly customisable React Component to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[cogo-toast](https://github.com/Cogoport/cogo-toast) ⚠️ Archived</b> (🥉20 ·  ⭐ 670 · 💀) - Beautiful, Zero Configuration, Toast Messages for React. Only \~.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-toast](https://github.com/moharnadreza/react-toast) ⭐ 84 | 🐛 2 | 🌐 TypeScript | 📅 2023-04-20</b> (🥉17 ·  ⭐ 72 · 💀) - Minimal toast notifications for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[simple-react-notifications](https://github.com/alexpermiakov/simple-react-notifications)</b> (🥉14 ·  ⭐ 60 · 💀) - Tiny React.js notification library (1kb gzip). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -2361,7 +2361,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/transloadit/uppy">uppy</a></b> (🥇41 ·  ⭐ 28K) - The next open source file uploader for web browsers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/transloadit/uppy) ⭐ 30,927 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 430 · 🔀 2K · 📦 24K · 📋 2.3K - 7% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/transloadit/uppy) ⭐ 30,931 | 🐛 193 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 430 · 🔀 2K · 📦 24K · 📋 2.3K - 7% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/transloadit/uppy
@@ -2426,11 +2426,11 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 5 hidden projects...</summary>
 
-* <b><a href="https://github.com/react-dropzone/react-dropzone">React Dropzone</a></b> (🥈36 ·  ⭐ 10K · 💀) - Simple HTML5 drag-drop zone with React.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/react-csv/react-csv">react-csv</a></b> (🥉31 ·  ⭐ 1.1K · 💀) - React components to build CSV files on the fly basing on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/Yuvaleros/material-ui-dropzone">material-ui-dropzone</a></b> (🥉27 ·  ⭐ 480 · 💀) - A Material-UI file upload dropzone. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-* <b><a href="https://github.com/pqina/react-filepond">React FilePond</a></b> (🥉26 ·  ⭐ 1.8K · 💀) - A handy FilePond adapter component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/securedeveloper/react-data-export">React-Data-Export</a></b> (🥉23 ·  ⭐ 180 · 💀) - Export dataset in react. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[React Dropzone](https://github.com/react-dropzone/react-dropzone) ⭐ 11,013 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-23</b> (🥈36 ·  ⭐ 10K · 💀) - Simple HTML5 drag-drop zone with React.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[React FilePond](https://github.com/pqina/react-filepond) ⭐ 1,987 | 🐛 38 | 🌐 JavaScript | 📅 2026-07-13</b> (🥉26 ·  ⭐ 1.8K · 💀) - A handy FilePond adapter component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-csv](https://github.com/react-csv/react-csv) ⭐ 1,184 | 🐛 135 | 🌐 JavaScript | 📅 2024-04-03</b> (🥉31 ·  ⭐ 1.1K · 💀) - React components to build CSV files on the fly basing on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[material-ui-dropzone](https://github.com/Yuvaleros/material-ui-dropzone) ⭐ 479 | 🐛 108 | 🌐 JavaScript | 📅 2024-03-13</b> (🥉27 ·  ⭐ 480 · 💀) - A Material-UI file upload dropzone. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[React-Data-Export](https://github.com/securedeveloper/react-data-export) ⭐ 175 | 🐛 78 | 🌐 JavaScript | 📅 2023-08-17</b> (🥉23 ·  ⭐ 180 · 💀) - Export dataset in react. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -2469,7 +2469,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/ueberdosis/tiptap">tiptap</a></b> (🥇35 ·  ⭐ 24K) - The headless rich text editor framework for web artisans. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ueberdosis/tiptap) ⭐ 38,137 | 🐛 850 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 320 · 🔀 2K · 📦 4.8K · 📋 2.7K - 20% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/ueberdosis/tiptap) ⭐ 38,144 | 🐛 861 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 320 · 🔀 2K · 📦 4.8K · 📋 2.7K - 20% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/ueberdosis/tiptap
@@ -2495,7 +2495,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/codex-team/editor.js">editor.js</a></b> (🥈34 ·  ⭐ 27K) - A block-style editor with clean JSON output. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/codex-team/editor.js) ⭐ 31,904 | 🐛 702 | 🌐 TypeScript | 📅 2026-08-04 (👨‍💻 54 · 🔀 2K · 📥 13K · 📋 1.5K - 41% open · ⏱️ 23.05.2024):
+* [GitHub](https://github.com/codex-team/editor.js) ⭐ 31,902 | 🐛 702 | 🌐 TypeScript | 📅 2026-08-04 (👨‍💻 54 · 🔀 2K · 📥 13K · 📋 1.5K - 41% open · ⏱️ 23.05.2024):
 
   ```
   git clone https://github.com/codex-team/editor.js
@@ -2755,23 +2755,23 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 17 hidden projects...</summary>
 
-* <b><a href="https://github.com/tinymce/tinymce">tinymce</a></b> (🥇40 ·  ⭐ 15K) - The worlds #1 JavaScript library for rich text.. <code><a href="https://tldrlegal.com/search?q=CNRI-Python-GPL-Compatible">❗️CNRI-Python-GPL-Compatible</a></code>
-* <b><a href="https://github.com/facebookarchive/draft-js">Draft JS</a></b> (🥇39 ·  ⭐ 23K · 💀) - A React framework for building text editors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/zenoamaro/react-quill">react-quill</a></b> (🥈34 ·  ⭐ 6.5K · 💀) - A Quill component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/ckeditor/ckeditor5-react">ckeditor5-react</a></b> (🥈31 ·  ⭐ 410) - Official CKEditor 5 React component. <code><a href="https://tldrlegal.com/search?q=CNRI-Python-GPL-Compatible">❗️CNRI-Python-GPL-Compatible</a></code>
-* <b><a href="https://github.com/sstur/react-rte">react-rte</a></b> (🥈30 ·  ⭐ 2.9K · 💀) - Pure React rich text WYSIWYG editor based on draft-js. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
-* <b><a href="https://github.com/andrerpena/react-mde">react-mde</a></b> (🥈29 ·  ⭐ 1.4K · 💀) - React Markdown Editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/react-page/react-page">ReactPage</a></b> (🥉28 ·  ⭐ 9.4K · 💀) - Next-gen, highly customizable content editor for the browser -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/react-simple-code-editor/react-simple-code-editor">react-simple-code-editor</a></b> (🥉28 ·  ⭐ 1.5K · 💀) - Simple no-frills code editor with syntax highlighting. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/ricardo-ch/react-easy-crop">react-easy-crop</a></b> (🥉27 ·  ⭐ 2.2K · 💀) - Ricardo fork of <https://valentinh.github.io/react-easy->.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/HarryChen0506/react-markdown-editor-lite">react-markdown-editor-lite</a></b> (🥉27 ·  ⭐ 1K · 💀) - a light-weight Markdown editor based on React... <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/RIP21/react-simplemde-editor">react-simplemde-editor</a></b> (🥉26 ·  ⭐ 760 · 💀) - React wrapper for simplemde (easymde) markdown editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/kazzkiq/CodeFlask">CodeFlask</a></b> (🥉25 ·  ⭐ 1.1K · 💀) - A micro code-editor for awesome web pages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/ckeditor/ckeditor4-react">ckeditor4-react</a></b> (🥉24 ·  ⭐ 94) - Official CKEditor 4 React component. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
-* <b><a href="https://github.com/leejaen/react-lz-editor">react-lz-editor</a></b> (🥉22 ·  ⭐ 950 · 💀) - A multilingual react rich-text editor component includes.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/RD17/react-trumbowyg">react-trumbowyg</a></b> (🥉17 ·  ⭐ 140 · 💀) - React wrapper for lightweight WYSIWYG editor Trumbowyg. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/fritx/react-editor">react-editor</a></b> (🥉14 ·  ⭐ 55 · 💀) - Pure Rich-text Editor with TS & React-hooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/jsmmth/react-avatar-generator">react-avatar-generator</a></b> (🥉12 ·  ⭐ 66 · 💀) - Generate fun kaleidoscope for user avatars. <code>❗Unlicensed</code>
+* <b>[Draft JS](https://github.com/facebookarchive/draft-js) ⚠️ Archived</b> (🥇39 ·  ⭐ 23K · 💀) - A React framework for building text editors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[tinymce](https://github.com/tinymce/tinymce) ⭐ 16,278 | 🐛 411 | 🌐 TypeScript | 📅 2026-08-17</b> (🥇40 ·  ⭐ 15K) - The worlds #1 JavaScript library for rich text.. <code><a href="https://tldrlegal.com/search?q=CNRI-Python-GPL-Compatible">❗️CNRI-Python-GPL-Compatible</a></code>
+* <b>[ReactPage](https://github.com/react-page/react-page) ⭐ 9,544 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-28</b> (🥉28 ·  ⭐ 9.4K · 💀) - Next-gen, highly customizable content editor for the browser -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-quill](https://github.com/zenoamaro/react-quill) ⭐ 7,011 | 🐛 433 | 🌐 JavaScript | 📅 2025-02-22</b> (🥈34 ·  ⭐ 6.5K · 💀) - A Quill component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-rte](https://github.com/sstur/react-rte) ⭐ 2,863 | 🐛 205 | 🌐 JavaScript | 📅 2023-05-17</b> (🥈30 ·  ⭐ 2.9K · 💀) - Pure React rich text WYSIWYG editor based on draft-js. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+* <b>[react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) ⭐ 2,772 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-11</b> (🥉27 ·  ⭐ 2.2K · 💀) - Ricardo fork of <https://valentinh.github.io/react-easy->.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) ⭐ 1,732 | 🐛 45 | 🌐 TypeScript | 📅 2024-07-04</b> (🥉28 ·  ⭐ 1.5K · 💀) - Simple no-frills code editor with syntax highlighting. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-mde](https://github.com/andrerpena/react-mde) ⭐ 1,438 | 🐛 2 | 📅 2025-08-05</b> (🥈29 ·  ⭐ 1.4K · 💀) - React Markdown Editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite) ⭐ 1,135 | 🐛 54 | 🌐 TypeScript | 📅 2026-01-21</b> (🥉27 ·  ⭐ 1K · 💀) - a light-weight Markdown editor based on React... <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[CodeFlask](https://github.com/kazzkiq/CodeFlask) ⭐ 1,116 | 🐛 35 | 🌐 JavaScript | 📅 2023-09-17</b> (🥉25 ·  ⭐ 1.1K · 💀) - A micro code-editor for awesome web pages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-lz-editor](https://github.com/leejaen/react-lz-editor) ⭐ 947 | 🐛 102 | 🌐 JavaScript | 📅 2022-12-06</b> (🥉22 ·  ⭐ 950 · 💀) - A multilingual react rich-text editor component includes.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor) ⭐ 776 | 🐛 11 | 🌐 TypeScript | 📅 2023-10-07</b> (🥉26 ·  ⭐ 760 · 💀) - React wrapper for simplemde (easymde) markdown editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) ⭐ 467 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-07</b> (🥈31 ·  ⭐ 410) - Official CKEditor 5 React component. <code><a href="https://tldrlegal.com/search?q=CNRI-Python-GPL-Compatible">❗️CNRI-Python-GPL-Compatible</a></code>
+* <b>[react-trumbowyg](https://github.com/RD17/react-trumbowyg) ⭐ 147 | 🐛 18 | 🌐 JavaScript | 📅 2021-11-09</b> (🥉17 ·  ⭐ 140 · 💀) - React wrapper for lightweight WYSIWYG editor Trumbowyg. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) ⭐ 105 | 🐛 13 | 🌐 TypeScript | 📅 2026-07-09</b> (🥉24 ·  ⭐ 94) - Official CKEditor 4 React component. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+* <b>[react-avatar-generator](https://github.com/jsmmth/react-avatar-generator) ⭐ 75 | 🐛 13 | 🌐 JavaScript | 📅 2022-12-03</b> (🥉12 ·  ⭐ 66 · 💀) - Generate fun kaleidoscope for user avatars. <code>❗Unlicensed</code>
+* <b>[react-editor](https://github.com/fritx/react-editor) ⭐ 55 | 🐛 3 | 🌐 TypeScript | 📅 2022-08-15</b> (🥉14 ·  ⭐ 55 · 💀) - Pure Rich-text Editor with TS & React-hooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -2795,7 +2795,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/SortableJS/Sortable">Sortable</a></b> (🥈38 ·  ⭐ 29K) - Reorderable drag-and-drop lists for modern browsers and touch devices. No.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/SortableJS/Sortable) ⭐ 31,169 | 🐛 524 | 🌐 JavaScript | 📅 2026-03-24 (👨‍💻 180 · 🔀 3.7K · 📦 3 · 📋 1.8K - 25% open · ⏱️ 22.03.2024):
+* [GitHub](https://github.com/SortableJS/Sortable) ⭐ 31,170 | 🐛 524 | 🌐 JavaScript | 📅 2026-03-24 (👨‍💻 180 · 🔀 3.7K · 📦 3 · 📋 1.8K - 25% open · ⏱️ 22.03.2024):
 
   ```
   git clone https://github.com/SortableJS/Sortable
@@ -2808,7 +2808,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/react-grid-layout/react-draggable">react-draggable</a></b> (🥈36 ·  ⭐ 8.9K · 💤) - React draggable component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/react-grid-layout/react-draggable) ⭐ 9,289 | 🐛 210 | 🌐 JavaScript | 📅 2026-08-11 (👨‍💻 72 · 🔀 1K · 📦 150K · 📋 530 - 43% open · ⏱️ 27.09.2023):
+* [GitHub](https://github.com/react-grid-layout/react-draggable) ⭐ 9,290 | 🐛 210 | 🌐 JavaScript | 📅 2026-08-11 (👨‍💻 72 · 🔀 1K · 📦 150K · 📋 530 - 43% open · ⏱️ 27.09.2023):
 
   ```
   git clone https://github.com/react-grid-layout/react-draggable
@@ -2834,7 +2834,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/clauderic/dnd-kit">dnd-kit</a></b> (🥉33 ·  ⭐ 12K) - The modern, lightweight, performant, accessible and extensible drag & drop.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/clauderic/dnd-kit) ⭐ 17,562 | 🐛 127 | 🌐 TypeScript | 📅 2026-07-13 (👨‍💻 41 · 🔀 600 · 📦 60K · 📋 880 - 47% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/clauderic/dnd-kit) ⭐ 17,565 | 🐛 127 | 🌐 TypeScript | 📅 2026-07-13 (👨‍💻 41 · 🔀 600 · 📦 60K · 📋 880 - 47% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/clauderic/dnd-kit
@@ -2860,12 +2860,12 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 6 hidden projects...</summary>
 
-* <b><a href="https://github.com/react-dnd/react-dnd">react-dnd</a></b> (🥇40 ·  ⭐ 21K · 💀) - Drag and Drop for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/haltu/muuri">muuri</a></b> (🥉31 ·  ⭐ 11K · 💀) - Infinite responsive, sortable, filterable and draggable layouts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/frontend-collective/react-sortable-tree">react-sortable-tree</a></b> (🥉30 ·  ⭐ 4.9K · 💀) - Drag-and-drop sortable component for nested data and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/danielstocks/react-sortable">react-sortable</a></b> (🥉25 ·  ⭐ 640 · 💀) - A sortable list component built with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/bevacqua/react-dragula">react-dragula</a></b> (🥉22 ·  ⭐ 990 · 💀) - Drag and drop so simple it hurts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/bokuweb/react-sortable-pane">react-sortable-pane</a></b> (🥉22 ·  ⭐ 650 · 💀) - A sortable and resizable pane component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-dnd](https://github.com/react-dnd/react-dnd) ⭐ 21,637 | 🐛 475 | 🌐 TypeScript | 📅 2025-07-06</b> (🥇40 ·  ⭐ 21K · 💀) - Drag and Drop for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[muuri](https://github.com/haltu/muuri) ⭐ 10,944 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-25</b> (🥉31 ·  ⭐ 11K · 💀) - Infinite responsive, sortable, filterable and draggable layouts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) ⭐ 4,971 | 🐛 351 | 🌐 JavaScript | 📅 2026-02-03</b> (🥉30 ·  ⭐ 4.9K · 💀) - Drag-and-drop sortable component for nested data and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-dragula](https://github.com/bevacqua/react-dragula) ⭐ 997 | 🐛 25 | 🌐 JavaScript | 📅 2020-09-09</b> (🥉22 ·  ⭐ 990 · 💀) - Drag and drop so simple it hurts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) ⭐ 651 | 🐛 35 | 🌐 TypeScript | 📅 2026-05-06</b> (🥉22 ·  ⭐ 650 · 💀) - A sortable and resizable pane component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-sortable](https://github.com/danielstocks/react-sortable) ⭐ 630 | 🐛 3 | 🌐 JavaScript | 📅 2020-02-03</b> (🥉25 ·  ⭐ 640 · 💀) - A sortable list component built with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -2891,7 +2891,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/storybookjs/storybook">Storybook</a></b> (🥇52 ·  ⭐ 83K) - Storybook is a frontend workshop for building UI components and pages.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/storybookjs/storybook) ⭐ 90,911 | 🐛 1,797 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 2.3K · 🔀 9.1K · 📦 280K · 📋 13K - 15% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/storybookjs/storybook) ⭐ 90,915 | 🐛 1,790 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 2.3K · 🔀 9.1K · 📦 280K · 📋 13K - 15% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/storybookjs/storybook
@@ -2904,7 +2904,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/vitejs/vite">vite</a></b> (🥇48 ·  ⭐ 65K) - Next generation frontend tooling. Its fast!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vitejs/vite) ⭐ 82,499 | 🐛 745 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 980 · 🔀 5.8K · 📦 4.8M · 📋 7.2K - 8% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/vitejs/vite) ⭐ 82,507 | 🐛 750 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 980 · 🔀 5.8K · 📦 4.8M · 📋 7.2K - 8% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/vitejs/vite
@@ -2930,7 +2930,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/evanw/esbuild">esbuild</a></b> (🥈45 ·  ⭐ 37K) - An extremely fast bundler for the web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/evanw/esbuild) ⭐ 40,015 | 🐛 605 | 🌐 Go | 📅 2026-08-09 (👨‍💻 110 · 🔀 1.1K · 📦 5.5M · 📋 3.4K - 12% open · ⏱️ 25.05.2024):
+* [GitHub](https://github.com/evanw/esbuild) ⭐ 40,016 | 🐛 605 | 🌐 Go | 📅 2026-08-09 (👨‍💻 110 · 🔀 1.1K · 📦 5.5M · 📋 3.4K - 12% open · ⏱️ 25.05.2024):
 
   ```
   git clone https://github.com/evanw/esbuild
@@ -2947,7 +2947,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/parcel-bundler/parcel">parcel</a></b> (🥈43 ·  ⭐ 43K) - The zero configuration build tool for the web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/parcel-bundler/parcel) ⭐ 44,019 | 🐛 601 | 🌐 JavaScript | 📅 2026-08-22 (👨‍💻 430 · 🔀 2.3K · 📦 260K · 📋 5.4K - 13% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/parcel-bundler/parcel) ⭐ 44,019 | 🐛 602 | 🌐 JavaScript | 📅 2026-08-22 (👨‍💻 430 · 🔀 2.3K · 📦 260K · 📋 5.4K - 13% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/parcel-bundler/parcel
@@ -2977,7 +2977,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/facebook/create-react-app">create-react-app</a></b> (🥈40 ·  ⭐ 100K · 💤) - Set up a modern web app by running one command. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/facebook/create-react-app) ⭐ 103,285 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 (👨‍💻 940 · 🔀 27K · 📦 13M · 📋 8.7K - 25% open · ⏱️ 14.06.2023):
+* [GitHub](https://github.com/facebook/create-react-app) ⭐ 103,286 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 (👨‍💻 940 · 🔀 27K · 📦 13M · 📋 8.7K - 25% open · ⏱️ 14.06.2023):
 
   ```
   git clone https://github.com/facebook/create-react-app
@@ -2990,7 +2990,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/teambit/bit">Bit</a></b> (🥈36 ·  ⭐ 18K) - Build, distribute, and collaborate on components. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/teambit/bit) ⭐ 18,460 | 🐛 90 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 85 · 🔀 910 · 📥 8.8K · 📦 6 · 📋 1.9K - 2% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/teambit/bit) ⭐ 18,460 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 85 · 🔀 910 · 📥 8.8K · 📦 6 · 📋 1.9K - 2% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/teambit/bit
@@ -3003,7 +3003,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/thebuilder/react-intersection-observer">react-intersection-observer</a></b> (🥈36 ·  ⭐ 4.9K) - React implementation of the Intersection Observer API.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,538 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 52 · 🔀 180 · 📦 170K · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,538 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 52 · 🔀 180 · 📦 170K · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/thebuilder/react-intersection-observer
@@ -3081,7 +3081,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/electron-react-boilerplate/electron-react-boilerplate">electron-react-boilerplate</a></b> (🥉32 ·  ⭐ 23K · 💤) - A Foundation for Scalable Cross-Platform Apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/electron-react-boilerplate/electron-react-boilerplate) ⭐ 24,251 | 🐛 190 | 🌐 TypeScript | 📅 2026-04-29 (👨‍💻 170 · 🔀 3.7K · 📥 7.1M · 📦 6 · 📋 1.9K - 6% open · ⏱️ 16.09.2023):
+* [GitHub](https://github.com/electron-react-boilerplate/electron-react-boilerplate) ⭐ 24,252 | 🐛 190 | 🌐 TypeScript | 📅 2026-04-29 (👨‍💻 170 · 🔀 3.7K · 📥 7.1M · 📦 6 · 📋 1.9K - 6% open · ⏱️ 16.09.2023):
 
   ```
   git clone https://github.com/electron-react-boilerplate/electron-react-boilerplate
@@ -3094,7 +3094,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/infinitered/reactotron">Reactotron</a></b> (🥉32 ·  ⭐ 15K) - A desktop app for inspecting your React JS and React Native projects... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/infinitered/reactotron) ⭐ 15,580 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 150 · 🔀 940 · 📥 32K · 📦 420 · 📋 590 - 26% open · ⏱️ 15.05.2024):
+* [GitHub](https://github.com/infinitered/reactotron) ⭐ 15,581 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 150 · 🔀 940 · 📥 32K · 📦 420 · 📋 590 - 26% open · ⏱️ 15.05.2024):
 
   ```
   git clone https://github.com/infinitered/reactotron
@@ -3181,14 +3181,14 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 8 hidden projects...</summary>
 
-* <b><a href="https://github.com/gaearon/react-hot-loader">react-hot-loader</a></b> (🥈38 ·  ⭐ 12K · 💀) - Tweak React components in real time. (Deprecated: use Fast.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/doczjs/docz">docz</a></b> (🥈34 ·  ⭐ 24K · 💀) - It has never been so easy to document your things!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/jamiebuilds/react-loadable">react-loadable</a></b> (🥉32 ·  ⭐ 17K · 💀) - A higher order component for loading components with promises. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/react-boilerplate/react-boilerplate">react-boilerplate</a></b> (🥉27 ·  ⭐ 29K · 💀) - A highly scalable, offline-first foundation with the best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/react-theming/storybook-addon-material-ui">Storybook Addon Material-UI</a></b> (🥉26 ·  ⭐ 570 · 💀) - Addon for storybook wich wrap material-ui components.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-* <b><a href="https://github.com/moroshko/react-scanner">react-scanner</a></b> (🥉21 ·  ⭐ 560 · 💀) - Extract React components and props usage from code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/rvpanoz/luna">Luna</a></b> (🥉15 ·  ⭐ 1K · 💀) - Manage npm dependencies through a modern UI. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
-* <b><a href="https://github.com/bareynol/mui-theme-creator">Material-UI Theme Creator</a></b> (🥉8 ·  ⭐ 440 · 💀) - A tool to help design and customize themes for the.. <code><a href="https://tldrlegal.com/search?q=0BSD">❗️0BSD</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) ⭐ 29,493 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23</b> (🥉27 ·  ⭐ 29K · 💀) - A highly scalable, offline-first foundation with the best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[docz](https://github.com/doczjs/docz) ⚠️ Archived</b> (🥈34 ·  ⭐ 24K · 💀) - It has never been so easy to document your things!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-loadable](https://github.com/jamiebuilds/react-loadable) ⭐ 16,507 | 🐛 34 | 🌐 JavaScript | 📅 2024-07-10</b> (🥉32 ·  ⭐ 17K · 💀) - A higher order component for loading components with promises. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-hot-loader](https://github.com/gaearon/react-hot-loader) ⭐ 12,166 | 🐛 462 | 🌐 JavaScript | 📅 2023-02-10</b> (🥈38 ·  ⭐ 12K · 💀) - Tweak React components in real time. (Deprecated: use Fast.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Luna](https://github.com/rvpanoz/luna) ⭐ 1,005 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-01</b> (🥉15 ·  ⭐ 1K · 💀) - Manage npm dependencies through a modern UI. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+* <b>[react-scanner](https://github.com/moroshko/react-scanner) ⭐ 657 | 🐛 28 | 🌐 JavaScript | 📅 2026-04-20</b> (🥉21 ·  ⭐ 560 · 💀) - Extract React components and props usage from code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Storybook Addon Material-UI](https://github.com/react-theming/storybook-addon-material-ui) ⭐ 568 | 🐛 18 | 🌐 JavaScript | 📅 2022-07-13</b> (🥉26 ·  ⭐ 570 · 💀) - Addon for storybook wich wrap material-ui components.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[Material-UI Theme Creator](https://github.com/bareynol/mui-theme-creator) ⭐ 459 | 🐛 23 | 🌐 JavaScript | 📅 2023-10-25</b> (🥉8 ·  ⭐ 440 · 💀) - A tool to help design and customize themes for the.. <code><a href="https://tldrlegal.com/search?q=0BSD">❗️0BSD</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 
 </details>
 <br>
@@ -3201,7 +3201,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/tauri-apps/tauri">Tauri</a></b> (🥇39 ·  ⭐ 79K) - Build smaller, faster, and more secure desktop applications with a web.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/tauri-apps/tauri) ⭐ 110,508 | 🐛 1,440 | 🌐 Rust | 📅 2026-08-21 (👨‍💻 370 · 🔀 2.3K · 📥 110K · 📦 630 · 📋 4.1K - 20% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/tauri-apps/tauri) ⭐ 110,520 | 🐛 1,440 | 🌐 Rust | 📅 2026-08-21 (👨‍💻 370 · 🔀 2.3K · 📥 110K · 📦 630 · 📋 4.1K - 20% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/tauri-apps/tauri
@@ -3218,7 +3218,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/electron/electron">Electron</a></b> (🥉34 ·  ⭐ 110K · 📉) - Build cross-platform desktop apps with JavaScript, HTML, and CSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/electron/electron) ⭐ 122,674 | 🐛 785 | 🌐 C++ | 📅 2026-08-24 (👨‍💻 1.3K · 🔀 15K):
+* [GitHub](https://github.com/electron/electron) ⭐ 122,687 | 🐛 785 | 🌐 C++ | 📅 2026-08-24 (👨‍💻 1.3K · 🔀 15K):
 
   ```
   git clone https://github.com/electron/electron
@@ -3237,7 +3237,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/axios/axios">axios</a></b> (🥇51 ·  ⭐ 100K) - Promise based HTTP client for the browser and node.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/axios/axios) ⭐ 109,200 | 🐛 77 | 🌐 JavaScript | 📅 2026-08-22 (👨‍💻 460 · 🔀 11K · 📦 13M · 📋 4.7K - 15% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/axios/axios) ⭐ 109,202 | 🐛 78 | 🌐 JavaScript | 📅 2026-08-24 (👨‍💻 460 · 🔀 11K · 📦 13M · 📋 4.7K - 15% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/axios/axios
@@ -3250,7 +3250,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/date-fns/date-fns">date-fns</a></b> (🥈47 ·  ⭐ 34K) - Modern JavaScript date utility library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/date-fns/date-fns) ⭐ 36,640 | 🐛 995 | 🌐 TypeScript | 📅 2026-08-10 (👨‍💻 410 · 🔀 1.7K · 📦 3.1M · 📋 2K - 34% open · ⏱️ 13.05.2024):
+* [GitHub](https://github.com/date-fns/date-fns) ⭐ 36,641 | 🐛 995 | 🌐 TypeScript | 📅 2026-08-10 (👨‍💻 410 · 🔀 1.7K · 📦 3.1M · 📋 2K - 34% open · ⏱️ 13.05.2024):
 
   ```
   git clone https://github.com/date-fns/date-fns
@@ -3263,7 +3263,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/lodash/lodash">lodash</a></b> (🥈45 ·  ⭐ 59K) - A modern JavaScript utility library delivering modularity, performance, &.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/lodash/lodash) ⭐ 61,292 | 🐛 106 | 🌐 JavaScript | 📅 2026-07-03 (👨‍💻 330 · 🔀 7K · 📦 29M · 📋 4.3K - 1% open · ⏱️ 16.04.2024):
+* [GitHub](https://github.com/lodash/lodash) ⭐ 61,291 | 🐛 106 | 🌐 JavaScript | 📅 2026-07-03 (👨‍💻 330 · 🔀 7K · 📦 29M · 📋 4.3K - 1% open · ⏱️ 16.04.2024):
 
   ```
   git clone https://github.com/lodash/lodash
@@ -3276,7 +3276,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/winstonjs/winston">winston</a></b> (🥉44 ·  ⭐ 22K) - A logger for just about everything. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/winstonjs/winston) ⭐ 24,505 | 🐛 529 | 🌐 JavaScript | 📅 2026-07-20 (👨‍💻 400 · 🔀 1.8K · 📦 910K · 📋 1.5K - 33% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/winstonjs/winston) ⭐ 24,506 | 🐛 529 | 🌐 JavaScript | 📅 2026-07-20 (👨‍💻 400 · 🔀 1.8K · 📦 910K · 📋 1.5K - 33% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/winstonjs/winston
@@ -3347,7 +3347,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/jestjs/jest">jest</a></b> (🥇48 ·  ⭐ 44K) - Delightful JavaScript Testing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/jestjs/jest) ⭐ 45,470 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 1.7K · 🔀 6.4K · 📦 13M · 📋 7.8K - 3% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/jestjs/jest) ⭐ 45,471 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 1.7K · 🔀 6.4K · 📦 13M · 📋 7.8K - 3% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/facebook/jest
@@ -3360,7 +3360,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/cypress-io/cypress">cypress</a></b> (🥈47 ·  ⭐ 46K) - Fast, easy and reliable testing for anything that runs in a browser. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/cypress-io/cypress) ⭐ 50,993 | 🐛 1,060 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 500 · 🔀 3.1K · 📥 700 · 📦 1.3M · 📋 14K - 10% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/cypress-io/cypress) ⭐ 50,996 | 🐛 1,061 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 500 · 🔀 3.1K · 📥 700 · 📦 1.3M · 📋 14K - 10% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/cypress-io/cypress
@@ -3373,7 +3373,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/enzymejs/enzyme">enzyme</a></b> (🥈41 ·  ⭐ 20K) - JavaScript Testing utilities for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/enzymejs/enzyme) ⭐ 19,825 | 🐛 282 | 🌐 JavaScript | 📅 2025-10-22 (👨‍💻 400 · 🔀 2K · 📦 560K · 📋 1.8K - 15% open · ⏱️ 23.02.2024):
+* [GitHub](https://github.com/enzymejs/enzyme) ⭐ 19,826 | 🐛 282 | 🌐 JavaScript | 📅 2025-10-22 (👨‍💻 400 · 🔀 2K · 📦 560K · 📋 1.8K - 15% open · ⏱️ 23.02.2024):
 
   ```
   git clone https://github.com/enzymejs/enzyme
@@ -3386,7 +3386,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/testing-library/react-testing-library">react-testing-library</a></b> (🥉36 ·  ⭐ 19K) - Simple and complete React DOM testing utilities that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/testing-library/react-testing-library) ⭐ 19,647 | 🐛 83 | 🌐 JavaScript | 📅 2026-04-02 (👨‍💻 180 · 🔀 1.1K · 📦 27K · 📋 780 - 5% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/testing-library/react-testing-library) ⭐ 19,648 | 🐛 83 | 🌐 JavaScript | 📅 2026-04-02 (👨‍💻 180 · 🔀 1.1K · 📦 27K · 📋 780 - 5% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/testing-library/react-testing-library
@@ -3399,8 +3399,8 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-* <b><a href="https://github.com/testing-library/react-hooks-testing-library">react-hooks-testing-library</a></b> (🥉33 ·  ⭐ 5.2K · 💀) - Simple and complete React hooks testing utilities.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/Raathigesh/majestic">majestic</a></b> (🥉27 ·  ⭐ 7.5K · 💀) - Zero config GUI for Jest. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[majestic](https://github.com/Raathigesh/majestic) ⭐ 7,452 | 🐛 50 | 🌐 TypeScript | 📅 2022-05-03</b> (🥉27 ·  ⭐ 7.5K · 💀) - Zero config GUI for Jest. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) ⭐ 5,259 | 🐛 44 | 🌐 TypeScript | 📅 2024-01-30</b> (🥉33 ·  ⭐ 5.2K · 💀) - Simple and complete React hooks testing utilities.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -3413,7 +3413,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/marmelab/react-admin">React Admin</a></b> (🥇42 ·  ⭐ 24K) - A frontend Framework for building data-driven applications.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/marmelab/react-admin) ⭐ 26,910 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-09 (👨‍💻 690 · 🔀 5.2K · 📦 20K · 📋 4.5K - 2% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/marmelab/react-admin) ⭐ 26,911 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-09 (👨‍💻 690 · 🔀 5.2K · 📦 20K · 📋 4.5K - 2% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/marmelab/react-admin
@@ -3426,7 +3426,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/ant-design/ant-design-pro">Ant Design Pro</a></b> (🥇35 ·  ⭐ 36K) - Use Ant Design like a Pro!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ant-design/ant-design-pro) ⭐ 38,689 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 340 · 🔀 8.1K · 📦 2.7K · 📋 9.6K - 0% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/ant-design/ant-design-pro) ⭐ 38,695 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 340 · 🔀 8.1K · 📦 2.7K · 📋 9.6K - 0% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/ant-design/ant-design-pro
@@ -3510,8 +3510,8 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-* <b><a href="https://github.com/dunky11/react-saas-template">React SaaS Template</a></b> (🥉16 ·  ⭐ 1.9K · 💀) - Template for building an SaaS / admin website using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/creativetimofficial/notus-react">Notus React</a></b> (🥉14 ·  ⭐ 760 · 💀) - Notus React: Free Tailwind CSS UI Kit and Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[React SaaS Template](https://github.com/dunky11/react-saas-template) ⭐ 1,962 | 🐛 21 | 🌐 JavaScript | 📅 2024-05-04</b> (🥉16 ·  ⭐ 1.9K · 💀) - Template for building an SaaS / admin website using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Notus React](https://github.com/creativetimofficial/notus-react) ⭐ 885 | 🐛 11 | 🌐 JavaScript | 📅 2024-07-24</b> (🥉14 ·  ⭐ 760 · 💀) - Notus React: Free Tailwind CSS UI Kit and Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -3550,7 +3550,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/xyflow/xyflow">React Flow</a></b> (🥇40 ·  ⭐ 22K) - React Flow |Svelte Flow - Powerful open source libraries for building.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/xyflow/xyflow) ⭐ 38,108 | 🐛 130 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 100 · 🔀 1.5K · 📥 52 · 📦 5.2K · 📋 1.8K - 8% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/xyflow/xyflow) ⭐ 38,119 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 100 · 🔀 1.5K · 📥 52 · 📦 5.2K · 📋 1.8K - 8% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/wbkd/react-flow
@@ -3576,7 +3576,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/gpbl/react-day-picker">react-day-picker</a></b> (🥇39 ·  ⭐ 5.8K) - DayPicker is a customizable date picker component for React... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/gpbl/react-day-picker) ⭐ 6,846 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 160 · 🔀 700 · 📦 69K · 📋 840 - 1% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/gpbl/react-day-picker) ⭐ 6,847 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-22 (👨‍💻 160 · 🔀 700 · 📦 69K · 📋 840 - 1% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/gpbl/react-day-picker
@@ -3615,7 +3615,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/wojtekmaj/react-calendar">react-calendar</a></b> (🥈37 ·  ⭐ 3.4K) - Ultimate calendar for your React app. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/wojtekmaj/react-calendar) ⭐ 3,788 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 40 · 🔀 490 · 📦 84K · 📋 550 - 6% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/wojtekmaj/react-calendar) ⭐ 3,788 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 40 · 🔀 490 · 📦 84K · 📋 550 - 6% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/wojtekmaj/react-calendar
@@ -3667,7 +3667,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/sachinchoolur/lightGallery">lightGallery</a></b> (🥈35 ·  ⭐ 6.3K) - A customizable, modular, responsive, lightbox gallery plugin. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/sachinchoolur/lightGallery) ⭐ 7,048 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-07 (👨‍💻 73 · 🔀 1.3K · 📥 590 · 📦 11K · 📋 1.3K - 3% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/sachinchoolur/lightGallery) ⭐ 7,050 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-07 (👨‍💻 73 · 🔀 1.3K · 📥 590 · 📦 11K · 📋 1.3K - 3% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/sachinchoolur/lightGallery
@@ -3680,7 +3680,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/remarkjs/react-markdown">react-markdown</a></b> (🥈34 ·  ⭐ 12K) - Markdown component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/remarkjs/react-markdown) ⭐ 15,861 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-21 (👨‍💻 68 · 🔀 850 · 📦 270K · 📋 650 - 0% open · ⏱️ 25.03.2024):
+* [GitHub](https://github.com/remarkjs/react-markdown) ⭐ 15,862 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-21 (👨‍💻 68 · 🔀 850 · 📦 270K · 📋 650 - 0% open · ⏱️ 25.03.2024):
 
   ```
   git clone https://github.com/remarkjs/react-markdown
@@ -3706,7 +3706,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/danilowoz/react-content-loader">react-content-loader</a></b> (🥉33 ·  ⭐ 13K) - SVG-Powered component to easily create skeleton loadings. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/danilowoz/react-content-loader) ⭐ 14,002 | 🐛 21 | 🌐 TypeScript | 📅 2026-01-22 (👨‍💻 49 · 🔀 410 · 📦 48K · 📋 140 - 10% open · ⏱️ 08.03.2024):
+* [GitHub](https://github.com/danilowoz/react-content-loader) ⭐ 14,003 | 🐛 21 | 🌐 TypeScript | 📅 2026-01-22 (👨‍💻 49 · 🔀 410 · 📦 48K · 📋 140 - 10% open · ⏱️ 08.03.2024):
 
   ```
   git clone https://github.com/danilowoz/react-content-loader
@@ -3823,21 +3823,21 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 15 hidden projects...</summary>
 
-* <b><a href="https://github.com/DevExpress/DevExtreme">DevExtreme</a></b> (🥈38 ·  ⭐ 1.8K) - HTML5 JavaScript Component Suite for Responsive Web Development. <code><a href="https://tldrlegal.com/search?q=Aladdin">❗️Aladdin</a></code>
-* <b><a href="https://github.com/algolia/react-instantsearch">react-instantsearch</a></b> (🥈34 ·  ⭐ 3.6K · 💀) - Lightning-fast search for React and React Native.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/leandrowd/react-responsive-carousel">react-responsive-carousel</a></b> (🥈34 ·  ⭐ 2.6K · 💀) - React.js Responsive Carousel (with Swipe). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/google-map-react/google-map-react">google-map-react</a></b> (🥉33 ·  ⭐ 6.3K · 💀) - Google map library for react that allows rendering.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/PaulLeCam/react-leaflet">react-leaflet</a></b> (🥉33 ·  ⭐ 5K) - React components for Leaflet maps. <code><a href="https://tldrlegal.com/search?q=Hippocratic-2.1">❗️Hippocratic-2.1</a></code>
-* <b><a href="https://github.com/AdeleD/react-paginate">react-paginate</a></b> (🥉33 ·  ⭐ 2.7K · 💀) - A ReactJS component that creates a pagination. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/moroshko/react-autosuggest">react-autosuggest</a></b> (🥉32 ·  ⭐ 6K · 💀) - WAI-ARIA compliant React autosuggest component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/tomkp/react-split-pane">react-split-pane</a></b> (🥉32 ·  ⭐ 3.2K · 💀) - React split-pane component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/tjallingt/react-youtube">react-youtube</a></b> (🥉31 ·  ⭐ 1.8K · 💀) - react.js powered YouTube player component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/nkbt/react-copy-to-clipboard">react-copy-to-clipboard</a></b> (🥉30 ·  ⭐ 2.3K · 💀) - Copy-to-clipboard React component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/lovasoa/react-contenteditable">react-contenteditable</a></b> (🥉29 ·  ⭐ 1.6K · 💀) - React component for a div with editable contents. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b><a href="https://github.com/TeamWertarbyte/material-ui-chip-input">material-ui-chip-input</a></b> (🥉28 ·  ⭐ 740 · 💀) - A chip input field using Material-UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-* <b><a href="https://github.com/MrBlenny/react-flow-chart">React Flow Chart</a></b> (🥉27 ·  ⭐ 1.5K · 💀) - A flexible, stateless, declarative flow chart library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/mozilla-frontend-infra/react-lazylog">React Lazylog</a></b> (🥉23 ·  ⭐ 290 · 💀) - React Lazy Logviewer. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
-* <b><a href="https://github.com/RaoHai/react-ansi">React Ansi</a></b> (🥉13 ·  ⭐ 42 · 💀) - A foldable and searchable ansi log viewer for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[google-map-react](https://github.com/google-map-react/google-map-react) ⭐ 6,477 | 🐛 157 | 🌐 JavaScript | 📅 2026-02-17</b> (🥉33 ·  ⭐ 6.3K · 💀) - Google map library for react that allows rendering.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-autosuggest](https://github.com/moroshko/react-autosuggest) ⭐ 5,940 | 🐛 259 | 🌐 JavaScript | 📅 2024-11-19</b> (🥉32 ·  ⭐ 6K · 💀) - WAI-ARIA compliant React autosuggest component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-leaflet](https://github.com/PaulLeCam/react-leaflet) ⭐ 5,596 | 🐛 48 | 🌐 TypeScript | 📅 2025-12-31</b> (🥉33 ·  ⭐ 5K) - React components for Leaflet maps. <code><a href="https://tldrlegal.com/search?q=Hippocratic-2.1">❗️Hippocratic-2.1</a></code>
+* <b>[react-split-pane](https://github.com/tomkp/react-split-pane) ⭐ 3,393 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-07</b> (🥉32 ·  ⭐ 3.2K · 💀) - React split-pane component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-paginate](https://github.com/AdeleD/react-paginate) ⭐ 2,767 | 🐛 70 | 🌐 JavaScript | 📅 2025-01-28</b> (🥉33 ·  ⭐ 2.7K · 💀) - A ReactJS component that creates a pagination. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) ⭐ 2,675 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-03</b> (🥈34 ·  ⭐ 2.6K · 💀) - React.js Responsive Carousel (with Swipe). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) ⭐ 2,371 | 🐛 14 | 🌐 JavaScript | 📅 2026-03-07</b> (🥉30 ·  ⭐ 2.3K · 💀) - Copy-to-clipboard React component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-instantsearch](https://github.com/algolia/react-instantsearch) ⚠️ Archived</b> (🥈34 ·  ⭐ 3.6K · 💀) - Lightning-fast search for React and React Native.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[DevExtreme](https://github.com/DevExpress/DevExtreme) ⭐ 1,913 | 🐛 46 | 🌐 TypeScript | 📅 2026-08-24</b> (🥈38 ·  ⭐ 1.8K) - HTML5 JavaScript Component Suite for Responsive Web Development. <code><a href="https://tldrlegal.com/search?q=Aladdin">❗️Aladdin</a></code>
+* <b>[react-youtube](https://github.com/tjallingt/react-youtube) ⭐ 1,903 | 🐛 83 | 🌐 TypeScript | 📅 2023-12-19</b> (🥉31 ·  ⭐ 1.8K · 💀) - react.js powered YouTube player component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[react-contenteditable](https://github.com/lovasoa/react-contenteditable) ⭐ 1,674 | 🐛 48 | 🌐 TypeScript | 📅 2023-03-15</b> (🥉29 ·  ⭐ 1.6K · 💀) - React component for a div with editable contents. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+* <b>[React Flow Chart](https://github.com/MrBlenny/react-flow-chart) ⭐ 1,554 | 🐛 99 | 🌐 TypeScript | 📅 2022-12-30</b> (🥉27 ·  ⭐ 1.5K · 💀) - A flexible, stateless, declarative flow chart library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[material-ui-chip-input](https://github.com/TeamWertarbyte/material-ui-chip-input) ⚠️ Archived</b> (🥉28 ·  ⭐ 740 · 💀) - A chip input field using Material-UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[React Lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) ⚠️ Archived</b> (🥉23 ·  ⭐ 290 · 💀) - React Lazy Logviewer. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+* <b>[React Ansi](https://github.com/RaoHai/react-ansi) ⭐ 44 | 🐛 18 | 🌐 TypeScript | 📅 2024-10-22</b> (🥉13 ·  ⭐ 42 · 💀) - A foldable and searchable ansi log viewer for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -3848,7 +3848,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 <details><summary><b><a href="https://github.com/preactjs/preact">preact</a></b> (🥇45 ·  ⭐ 36K) - Fast 3kB React alternative with the same modern API. Components & Virtual.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/preactjs/preact) ⭐ 38,831 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-23 (👨‍💻 330 · 🔀 1.9K · 📥 1.6K · 📦 550K · 📋 1.9K - 11% open · ⏱️ 02.06.2024):
+* [GitHub](https://github.com/preactjs/preact) ⭐ 38,831 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-24 (👨‍💻 330 · 🔀 1.9K · 📥 1.6K · 📦 550K · 📋 1.9K - 11% open · ⏱️ 02.06.2024):
 
   ```
   git clone https://github.com/preactjs/preact
@@ -3861,7 +3861,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/streamich/react-use">react-use</a></b> (🥇41 ·  ⭐ 41K) - React Hooks. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
-* [GitHub](https://github.com/streamich/react-use) ⭐ 44,023 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10 (👨‍💻 190 · 🔀 3.1K · 📦 90K · 📋 820 - 70% open · ⏱️ 22.01.2024):
+* [GitHub](https://github.com/streamich/react-use) ⭐ 44,021 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10 (👨‍💻 190 · 🔀 3.1K · 📦 90K · 📋 820 - 70% open · ⏱️ 22.01.2024):
 
   ```
   git clone https://github.com/streamich/react-use
@@ -3887,7 +3887,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/microsoft/FluidFramework">FluidFramework</a></b> (🥈35 ·  ⭐ 4.6K) - Library for building distributed, real-time collaborative web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/FluidFramework) ⭐ 4,944 | 🐛 202 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 260 · 🔀 520 · 📥 1.5K · 📦 440 · 📋 3.4K - 4% open · ⏱️ 06.06.2024):
+* [GitHub](https://github.com/microsoft/FluidFramework) ⭐ 4,944 | 🐛 205 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 260 · 🔀 520 · 📥 1.5K · 📦 440 · 📋 3.4K - 4% open · ⏱️ 06.06.2024):
 
   ```
   git clone https://github.com/microsoft/FluidFramework
@@ -3913,7 +3913,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/diegomura/react-pdf">diegomura/react-pdf</a></b> (🥉33 ·  ⭐ 14K) - Create PDF files using React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/diegomura/react-pdf) ⭐ 16,754 | 🐛 308 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 120 · 🔀 1.1K · 📦 7 · 📋 1.8K - 27% open · ⏱️ 17.05.2024):
+* [GitHub](https://github.com/diegomura/react-pdf) ⭐ 16,756 | 🐛 308 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 120 · 🔀 1.1K · 📦 7 · 📋 1.8K - 27% open · ⏱️ 17.05.2024):
 
   ```
   git clone https://github.com/diegomura/react-pdf
@@ -3939,7 +3939,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/liveblocks/liveblocks">liveblocks</a></b> (🥉33 ·  ⭐ 3.1K) - Liveblocks is a platform to ship collaborative features like.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/liveblocks/liveblocks) ⭐ 4,692 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-23 (👨‍💻 29 · 🔀 240 · 📦 2.5K · 📋 260 - 29% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/liveblocks/liveblocks) ⭐ 4,692 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 29 · 🔀 240 · 📦 2.5K · 📋 260 - 29% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/liveblocks/liveblocks
@@ -3978,7 +3978,7 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary><b><a href="https://github.com/alan2207/bulletproof-react">bulletproof-react</a></b> (🥉22 ·  ⭐ 25K) - A simple, scalable, and powerful architecture for building.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/alan2207/bulletproof-react) ⭐ 35,744 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-14 (👨‍💻 39 · 🔀 2.3K · 📦 1 · 📋 91 - 27% open · ⏱️ 23.05.2024):
+* [GitHub](https://github.com/alan2207/bulletproof-react) ⭐ 35,745 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-14 (👨‍💻 39 · 🔀 2.3K · 📦 1 · 📋 91 - 27% open · ⏱️ 23.05.2024):
 
   ```
   git clone https://github.com/alan2207/bulletproof-react
@@ -4000,11 +4000,11 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 </details>
 <details><summary>Show 5 hidden projects...</summary>
 
-* <b><a href="https://github.com/remotion-dev/remotion">Remotion</a></b> (🥈39 ·  ⭐ 19K) - Make videos programmatically with React. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
-* <b><a href="https://github.com/nfl/react-helmet">react-helmet</a></b> (🥈36 ·  ⭐ 17K · 💀) - A document head manager for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/ngokevin/aframe">aframe</a></b> (🥉29 ·  ⭐ 16K · 💀) - Building Blocks for the VR Web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/plouc/mozaik">mozaik</a></b> (🥉22 ·  ⭐ 3.6K · 💀) - Mozak is a tool based on nodejs / react / redux / nivo / d3 to easily.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b><a href="https://github.com/xobserve/xo">datav</a></b> (🥉20 ·  ⭐ 3.7K) - Observe any stack, any service and any data, using any UI.. <code>❗Unlicensed</code>
+* <b>[Remotion](https://github.com/remotion-dev/remotion) ⭐ 57,242 | 🐛 179 | 🌐 TypeScript | 📅 2026-08-24</b> (🥈39 ·  ⭐ 19K) - Make videos programmatically with React. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+* <b>[react-helmet](https://github.com/nfl/react-helmet) ⭐ 17,462 | 🐛 219 | 🌐 JavaScript | 📅 2023-07-18</b> (🥈36 ·  ⭐ 17K · 💀) - A document head manager for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[datav](https://github.com/xobserve/xo) ⭐ 3,966 | 🐛 46 | 🌐 TypeScript | 📅 2025-03-04</b> (🥉20 ·  ⭐ 3.7K) - Observe any stack, any service and any data, using any UI.. <code>❗Unlicensed</code>
+* <b>[mozaik](https://github.com/plouc/mozaik) ⭐ 3,599 | 🐛 135 | 🌐 JavaScript | 📅 2023-01-12</b> (🥉22 ·  ⭐ 3.6K · 💀) - Mozak is a tool based on nodejs / react / redux / nivo / d3 to easily.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[aframe](https://github.com/ngokevin/aframe) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-07</b> (🥉29 ·  ⭐ 16K · 💀) - Building Blocks for the VR Web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 
@@ -4012,8 +4012,8 @@ This curated list contains 430 awesome open-source projects with a total of 5M s
 
 ## Related Resources
 
-* [**Awesome React**](https://github.com/enaqx/awesome-react) ⭐ 74,379 | 🐛 82 | 📅 2026-08-20: A collection of awesome things regarding React ecosystem.
-* [**Front-End-Checklist**](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,621 | 🐛 6 | 🌐 MDX | 📅 2026-08-14: The perfect Front-End Checklist for modern websites and meticulous developers.
+* [**Awesome React**](https://github.com/enaqx/awesome-react) ⭐ 74,383 | 🐛 82 | 📅 2026-08-20: A collection of awesome things regarding React ecosystem.
+* [**Front-End-Checklist**](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,663 | 🐛 7 | 🌐 MDX | 📅 2026-08-14: The perfect Front-End Checklist for modern websites and meticulous developers.
 * [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 
 ## Contribution
