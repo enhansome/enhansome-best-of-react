@@ -12,11 +12,12 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:09:16Z",
+            "last_commit": "2026-08-28T02:03:40Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98947
-          }
+            "stars": 98953
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Material-UI (🥇52 · ⭐ 92K) - MaterialUI: Ready-to-use foundational React components, free.. MIT"
@@ -33,11 +34,12 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:56:07Z",
+            "last_commit": "2026-08-28T15:21:33Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99222
-          }
+            "stars": 99243
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Ant Design (🥇51 · ⭐ 91K) - An enterprise-class UI design language and React UI library. MIT"
@@ -54,11 +56,12 @@
             "archived": false,
             "id": 15480067,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:28:22Z",
+            "last_commit": "2026-08-28T06:52:18Z",
             "owner": "react-bootstrap",
             "repo": "react-bootstrap",
             "stars": 22610
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Bootstrap React (🥇45 · ⭐ 22K) - Bootstrap components built with React. MIT"
@@ -78,8 +81,9 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50061
-          }
+            "stars": 50063
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "bulma (🥇43 · ⭐ 49K) - Modern CSS framework based on Flexbox. MIT"
@@ -96,11 +100,12 @@
             "archived": false,
             "id": 60537144,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:17:29Z",
+            "last_commit": "2026-08-28T13:11:26Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20233
-          }
+            "stars": 20231
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "fluentui (🥇43 · ⭐ 18K) - Fluent UI web represents a collection of utilities, React components, and.. MIT"
@@ -117,11 +122,12 @@
             "archived": false,
             "id": 71939872,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:58:45Z",
+            "last_commit": "2026-08-28T10:59:02Z",
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22015
-          }
+            "stars": 22019
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Blueprint (🥈41 · ⭐ 20K) - A React-based UI toolkit for the web. Apache-2"
@@ -138,11 +144,12 @@
             "archived": false,
             "id": 76666208,
             "language": "CSS",
-            "last_commit": "2026-08-27T14:22:23Z",
+            "last_commit": "2026-08-27T22:12:49Z",
             "owner": "primefaces",
             "repo": "primereact",
             "stars": 8319
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "primereact (🥈41 · ⭐ 6K) - The Most Complete React UI Component Library. MIT"
@@ -163,7 +170,8 @@
             "owner": "ant-design",
             "repo": "ant-design-mobile",
             "stars": 12041
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "ant-design-mobile (🥈40 · ⭐ 11K) - Essential UI blocks for building mobile web apps. MIT"
@@ -184,7 +192,8 @@
             "owner": "reactstrap",
             "repo": "reactstrap",
             "stars": 10512
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "reactstrap (🥈40 · ⭐ 11K) - Simple React Bootstrap 5 components. MIT"
@@ -201,11 +210,12 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:20:46Z",
+            "last_commit": "2026-08-28T15:59:58Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9387
-          }
+            "stars": 9390
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "carbon (🥈40 · ⭐ 7.5K) - A design system built by IBM. Apache-2"
@@ -225,8 +235,9 @@
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6174
-          }
+            "stars": 6173
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "polaris-react (🥈40 · ⭐ 5.7K) - Shopifys design system to help us work together to build a great.. MIT"
@@ -243,11 +254,12 @@
             "archived": false,
             "id": 202890778,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:07:26Z",
+            "last_commit": "2026-08-28T16:51:02Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40599
-          }
+            "stars": 40597
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "chakra-ui (🥈39 · ⭐ 37K) - Simple, Modular & Accessible UI Components for your React Applications. MIT"
@@ -267,8 +279,9 @@
             "last_commit": "2024-11-22T09:09:59Z",
             "owner": "Semantic-Org",
             "repo": "Semantic-UI-React",
-            "stars": 13211
-          }
+            "stars": 13210
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Semantic UI React (🥈39 · ⭐ 13K) - The official Semantic-UI-React integration. MIT"
@@ -285,11 +298,12 @@
             "archived": false,
             "id": 208362715,
             "language": null,
-            "last_commit": "2026-08-27T02:14:43Z",
+            "last_commit": "2026-08-28T16:48:38Z",
             "owner": "adobe",
             "repo": "react-spectrum",
-            "stars": 15820
-          }
+            "stars": 15825
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-spectrum (🥈38 · ⭐ 12K) - A collection of libraries and tools that help you build.. Apache-2"
@@ -306,11 +320,12 @@
             "archived": false,
             "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T22:36:10Z",
+            "last_commit": "2026-08-28T16:45:01Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8352
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Grommet (🥈38 · ⭐ 8.3K) - a react-based framework that provides accessibility, modularity,.. Apache-2"
@@ -331,7 +346,8 @@
             "owner": "rsuite",
             "repo": "rsuite",
             "stars": 8696
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Suite (🥈37 · ⭐ 8.2K) - A suite of React components . MIT"
@@ -348,11 +364,12 @@
             "archived": false,
             "id": 104133653,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:14:31Z",
+            "last_commit": "2026-08-28T06:07:07Z",
             "owner": "ariakit",
             "repo": "ariakit",
             "stars": 8607
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "reakit (🥈35 · ⭐ 7.7K) - Toolkit for building accessible web apps with React. MIT"
@@ -373,7 +390,8 @@
             "owner": "system-ui",
             "repo": "theme-ui",
             "stars": 5397
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "theme-ui (🥈35 · ⭐ 5.2K) - Build consistent, themeable React apps based on constraint-based design.. MIT"
@@ -393,8 +411,9 @@
             "last_commit": "2026-04-13T16:12:31Z",
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28724
-          }
+            "stars": 28726
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "headlessui (🥉34 · ⭐ 25K) - Completely unstyled, fully accessible UI components, designed to.. MIT"
@@ -414,8 +433,9 @@
             "last_commit": "2026-08-21T06:59:09Z",
             "owner": "DouyinFE",
             "repo": "semi-design",
-            "stars": 10322
-          }
+            "stars": 10328
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "semi-design (🥉34 · ⭐ 8K) - A modern, comprehensive, flexible design system and React UI library... MIT"
@@ -432,11 +452,12 @@
             "archived": false,
             "id": 121814210,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:49:23Z",
+            "last_commit": "2026-08-28T14:21:12Z",
             "owner": "primer",
             "repo": "react",
-            "stars": 3892
-          }
+            "stars": 3893
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "components (🥉34 · ⭐ 3K) - An implementation of GitHubs Primer Design System using React. MIT"
@@ -456,8 +477,9 @@
             "last_commit": "2026-08-22T17:15:58Z",
             "owner": "mantinedev",
             "repo": "mantine",
-            "stars": 31621
-          }
+            "stars": 31631
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "mantine (🥉32 · ⭐ 25K) - A fully featured React components library. MIT"
@@ -478,7 +500,8 @@
             "owner": "pinterest",
             "repo": "gestalt",
             "stars": 4369
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "gestalt (🥉32 · ⭐ 4.2K) - A set of React UI components that supports Pinterests design language. Apache-2"
@@ -498,8 +521,9 @@
             "last_commit": "2026-08-24T17:18:23Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3785
-          }
+            "stars": 3786
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "ring-ui (🥉32 · ⭐ 3.6K) - A collection of JetBrains Web UI components. Apache-2"
@@ -516,11 +540,12 @@
             "archived": false,
             "id": 119811010,
             "language": "Astro",
-            "last_commit": "2026-08-27T10:03:45Z",
+            "last_commit": "2026-08-28T16:52:22Z",
             "owner": "tabler",
             "repo": "tabler",
-            "stars": 41567
-          }
+            "stars": 41572
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "tabler (🥉31 · ⭐ 37K) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap. MIT"
@@ -541,7 +566,8 @@
             "owner": "coreui",
             "repo": "coreui-react",
             "stars": 714
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "coreui-react (🥉31 · ⭐ 650) - CoreUI React.js UI Components. CoreUI for React.js replaces and.. MIT"
@@ -562,7 +588,8 @@
             "owner": "kiwicom",
             "repo": "orbit",
             "stars": 1438
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "orbit (🥉30 · ⭐ 1.4K) - React components of open-source Orbit design system by Kiwi.com. MIT"
@@ -583,7 +610,8 @@
             "owner": "couds",
             "repo": "react-bulma-components",
             "stars": 1200
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-bulma-components (🥉30 · ⭐ 1.2K) - React components for Bulma framework. MIT"
@@ -603,8 +631,9 @@
             "last_commit": "2026-08-08T16:39:51Z",
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19214
-          }
+            "stars": 19218
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Radix Primitives (🥉29 · ⭐ 15K) - Radix Primitives is an open-source UI component library for.. MIT"
@@ -625,7 +654,8 @@
             "owner": "segmentio",
             "repo": "evergreen",
             "stars": 12424
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Evergreen (🥉28 · ⭐ 12K · 💤) - Evergreen React UI Framework by Segment. MIT"
@@ -646,7 +676,8 @@
             "owner": "uber",
             "repo": "baseweb",
             "stars": 9003
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "baseweb (🥉28 · ⭐ 8.6K) - A React Component library implementing the Base design language. MIT"
@@ -663,11 +694,12 @@
             "archived": false,
             "id": 142552216,
             "language": "TypeScript",
-            "last_commit": "2026-07-15T07:13:47Z",
+            "last_commit": "2026-08-28T07:21:02Z",
             "owner": "sheinsight",
             "repo": "shineout",
             "stars": 940
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "shineout (🥉26 · ⭐ 910) - React. MIT"
@@ -688,7 +720,8 @@
             "owner": "alibaba",
             "repo": "ChatUI",
             "stars": 4446
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "ChatUI (🥉24 · ⭐ 2.5K · 💤) - The UI design language and React library for Conversational UI. MIT"
@@ -709,7 +742,8 @@
             "owner": "pivotal-cf",
             "repo": "pivotal-ui",
             "stars": 639
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "pivotal-ui (🥉24 · ⭐ 640) - Pivotals design system & component library. MIT"
@@ -730,7 +764,8 @@
             "owner": "proksh",
             "repo": "atomize",
             "stars": 1764
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "atomize (🥉22 · ⭐ 1.7K · 💤) - Design System for developers build on styled-components & React JS. MIT"
@@ -751,7 +786,8 @@
             "owner": "march08",
             "repo": "dashboard-ui-kit",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "dashboard-ui-kit (🥉17 · ⭐ 200) - React UI components for rapid development. MIT"
@@ -771,8 +807,9 @@
             "last_commit": "2024-11-27T21:01:48Z",
             "owner": "Semantic-Org",
             "repo": "Semantic-UI",
-            "stars": 51028
-          }
+            "stars": 51027
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -787,7 +824,8 @@
             "owner": "rebassjs",
             "repo": "rebass",
             "stars": 7904
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -798,11 +836,12 @@
             "archived": false,
             "id": 107422373,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:31:06Z",
+            "last_commit": "2026-08-28T14:19:28Z",
             "owner": "elastic",
             "repo": "eui",
             "stars": 6345
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -817,7 +856,8 @@
             "owner": "geist-org",
             "repo": "geist-ui",
             "stars": 4554
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -832,7 +872,8 @@
             "owner": "tabler",
             "repo": "tabler-react",
             "stars": 2299
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -847,7 +888,8 @@
             "owner": "supabase",
             "repo": "ui",
             "stars": 1639
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -862,7 +904,8 @@
             "owner": "jxom",
             "repo": "bumbag-ui",
             "stars": 1016
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -877,7 +920,8 @@
             "owner": "DesignRevision",
             "repo": "shards-react",
             "stars": 762
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -892,7 +936,8 @@
             "owner": "digiaonline",
             "repo": "react-foundation",
             "stars": 594
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -907,7 +952,8 @@
             "owner": "fluent-org",
             "repo": "fluent-windows",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -922,7 +968,8 @@
             "owner": "fibo",
             "repo": "trunx",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 11 hidden projects..."
@@ -939,11 +986,12 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:25:23Z",
+            "last_commit": "2026-08-28T16:29:23Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141960
-          }
+            "stars": 141972
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Next.js (🥇55 · ⭐ 120K) - The React Framework. MIT"
@@ -960,11 +1008,12 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:47:01Z",
+            "last_commit": "2026-08-28T03:41:15Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
-          }
+            "stars": 55940
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Gatsby (🥈46 · ⭐ 55K) - The best React-based framework with performance, scalability and security.. MIT"
@@ -981,11 +1030,12 @@
             "archived": false,
             "id": 149026292,
             "language": "Rust",
-            "last_commit": "2026-08-27T15:14:27Z",
+            "last_commit": "2026-08-28T16:32:23Z",
             "owner": "cube-js",
             "repo": "cube",
-            "stars": 20720
-          }
+            "stars": 20732
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "cube.js (🥈41 · ⭐ 17K) - Cube The Semantic Layer for Building Data Applications. Apache-2"
@@ -1002,11 +1052,12 @@
             "archived": false,
             "id": 111667959,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T02:31:27Z",
+            "last_commit": "2026-08-27T18:23:04Z",
             "owner": "umijs",
             "repo": "umi",
             "stars": 16040
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "umi (🥈41 · ⭐ 15K) - A framework in react community. MIT"
@@ -1026,8 +1077,9 @@
             "last_commit": "2026-08-09T18:23:08Z",
             "owner": "redwoodjs",
             "repo": "graphql",
-            "stars": 17606
-          }
+            "stars": 17607
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "redwood (🥉40 · ⭐ 17K) - The App Framework for Startups. MIT"
@@ -1048,7 +1100,8 @@
             "owner": "blitz-js",
             "repo": "blitz",
             "stars": 14129
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "blitz (🥉33 · ⭐ 13K) - The Missing Fullstack Toolkit for Next.js. MIT"
@@ -1068,8 +1121,9 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97356
-          }
+            "stars": 97369
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Tailwind CSS (🥇49 · ⭐ 79K) - A utility-first CSS framework for rapid UI development. MIT"
@@ -1089,8 +1143,9 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41125
-          }
+            "stars": 41126
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Styled Components (🥇46 · ⭐ 40K · 📈) - Visual primitives for the component age. Use the best.. MIT"
@@ -1107,11 +1162,12 @@
             "archived": false,
             "id": 92570536,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:27:16Z",
+            "last_commit": "2026-08-28T09:30:54Z",
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18018
-          }
+            "stars": 18019
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "emotion (🥈40 · ⭐ 17K) - CSS-in-JS library designed for high performance style composition. MIT"
@@ -1132,7 +1188,8 @@
             "owner": "styled-components",
             "repo": "polished",
             "stars": 7663
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "polished (🥈38 · ⭐ 7.6K) - A lightweight toolset for writing styles in JavaScript. MIT"
@@ -1153,7 +1210,8 @@
             "owner": "cssinjs",
             "repo": "jss",
             "stars": 7056
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "jss (🥈36 · ⭐ 7.1K) - JSS is an authoring tool for CSS which uses JavaScript as a host language. MIT"
@@ -1173,8 +1231,9 @@
             "last_commit": "2026-08-27T02:56:47Z",
             "owner": "vanilla-extract-css",
             "repo": "vanilla-extract",
-            "stars": 10416
-          }
+            "stars": 10418
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "vanilla-extract (🥈35 · ⭐ 9.3K) - Zero-runtime Stylesheets-in-TypeScript. MIT"
@@ -1195,7 +1254,8 @@
             "owner": "yocontra",
             "repo": "react-responsive",
             "stars": 7171
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-responsive (🥈33 · ⭐ 7K) - CSS media queries in react - for responsive design, and more. MIT"
@@ -1216,7 +1276,8 @@
             "owner": "ben-rogerson",
             "repo": "twin.macro",
             "stars": 8027
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "twin.macro (🥉32 · ⭐ 7.8K) - Twin blends the magic of Tailwind with the flexibility of css-in-js.. MIT"
@@ -1236,8 +1297,9 @@
             "last_commit": "2026-08-10T18:34:26Z",
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12345
-          }
+            "stars": 12346
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "linaria (🥉31 · ⭐ 11K) - Zero-runtime CSS in JS library. MIT"
@@ -1258,7 +1320,8 @@
             "owner": "stitchesjs",
             "repo": "stitches",
             "stars": 7778
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "stitches (🥉31 · ⭐ 7.7K · 💤) - [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR,.. MIT"
@@ -1279,7 +1342,8 @@
             "owner": "react-container-query",
             "repo": "react-container-query",
             "stars": 888
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-container-query (🥉26 · ⭐ 890 · 💤) - Modular responsive component. MIT"
@@ -1300,7 +1364,8 @@
             "owner": "styletron",
             "repo": "styletron",
             "stars": 3309
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "styletron (🥉25 · ⭐ 3.3K · 💤) - Toolkit for component-oriented styling. MIT"
@@ -1321,7 +1386,8 @@
             "owner": "FormidableLabs",
             "repo": "radium",
             "stars": 7337
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1402,8 @@
             "owner": "Khan",
             "repo": "aphrodite",
             "stars": 5339
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1418,8 @@
             "owner": "robinweser",
             "repo": "inline-style-prefixer",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1434,8 @@
             "owner": "aesthetic-suite",
             "repo": "framework",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 4 hidden projects..."
@@ -1386,8 +1455,9 @@
             "last_commit": "2026-08-07T14:05:10Z",
             "owner": "react-grid-layout",
             "repo": "react-grid-layout",
-            "stars": 22399
-          }
+            "stars": 22400
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-grid-layout (🥇37 · ⭐ 20K) - A draggable and resizable grid layout with responsive.. MIT"
@@ -1408,7 +1478,8 @@
             "owner": "floating-ui",
             "repo": "react-popper",
             "stars": 2488
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-popper (🥇34 · ⭐ 2.5K) - Official React library to use Popper, the positioning library. MIT"
@@ -1429,7 +1500,8 @@
             "owner": "aeagle",
             "repo": "react-spaces",
             "stars": 1314
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-spaces (🥈26 · ⭐ 1.3K) - React components that allow you to divide a page or container into.. MIT"
@@ -1450,7 +1522,8 @@
             "owner": "leefsmp",
             "repo": "Re-Flex",
             "stars": 663
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Re-Flex (🥉25 · ⭐ 620) - Resizable Flex layout container components for advanced React web.. MIT"
@@ -1471,7 +1544,8 @@
             "owner": "golden-layout",
             "repo": "golden-layout",
             "stars": 6708
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1560,8 @@
             "owner": "xudafeng",
             "repo": "autoresponsive-react",
             "stars": 1584
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1576,8 @@
             "owner": "eiriklv",
             "repo": "react-masonry-component",
             "stars": 1469
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1592,8 @@
             "owner": "kettanaito",
             "repo": "atomic-layout",
             "stars": 1138
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1608,8 @@
             "owner": "ariamckinley",
             "repo": "hedron",
             "stars": 862
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1624,8 @@
             "owner": "paol-imi",
             "repo": "muuri-react",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1640,8 @@
             "owner": "martinnov92",
             "repo": "React-Splitters",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 7 hidden projects..."
@@ -1578,11 +1658,12 @@
             "archived": false,
             "id": 28407613,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:11:58Z",
+            "last_commit": "2026-08-28T16:21:22Z",
             "owner": "ag-grid",
             "repo": "ag-grid",
-            "stars": 15568
-          }
+            "stars": 15570
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "ag-Grid (🥇44 · ⭐ 12K) - The best JavaScript Data Table for building Enterprise Applications... MIT"
@@ -1599,11 +1680,12 @@
             "archived": false,
             "id": 71487058,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:32:45Z",
+            "last_commit": "2026-08-28T16:15:06Z",
             "owner": "TanStack",
             "repo": "table",
-            "stars": 28385
-          }
+            "stars": 28389
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-table (🥇41 · ⭐ 24K) - Headless UI for building powerful tables & datagrids for TS/JS -.. MIT"
@@ -1620,11 +1702,12 @@
             "archived": false,
             "id": 260240241,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:43:22Z",
+            "last_commit": "2026-08-28T15:10:23Z",
             "owner": "mui",
             "repo": "mui-x",
             "stars": 5838
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "material-ui-x (🥇41 · ⭐ 3.9K) - MUI X: Build complex and data-rich applications using a.. MIT"
@@ -1641,11 +1724,12 @@
             "archived": false,
             "id": 31764022,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:42:15Z",
+            "last_commit": "2026-08-28T16:02:21Z",
             "owner": "Comcast",
             "repo": "react-data-grid",
-            "stars": 7669
-          }
+            "stars": 7670
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-data-grid (🥈36 · ⭐ 6.7K) - Feature-rich and customizable data grid React component. MIT"
@@ -1666,7 +1750,8 @@
             "owner": "bvaughn",
             "repo": "react-window",
             "stars": 17207
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-window (🥈35 · ⭐ 15K · 💤) - React components for efficiently rendering large lists and.. MIT"
@@ -1687,7 +1772,8 @@
             "owner": "mbrn",
             "repo": "material-table",
             "stars": 3484
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "material-table (🥈34 · ⭐ 3.5K · 💤) - Datatable for React based on material-uis table with.. MIT"
@@ -1707,8 +1793,9 @@
             "last_commit": "2026-08-26T21:31:56Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11135
-          }
+            "stars": 11138
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Perspective (🥈33 · ⭐ 7.7K) - A data visualization and analytics component, especially well-.. Apache-2"
@@ -1725,11 +1812,12 @@
             "archived": false,
             "id": 44867148,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T15:26:12Z",
+            "last_commit": "2026-08-28T13:44:29Z",
             "owner": "tabulator-tables",
             "repo": "tabulator",
-            "stars": 7751
-          }
+            "stars": 7750
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "tabulator (🥈33 · ⭐ 6.3K) - Interactive Tables and Data Grids for JavaScript. MIT"
@@ -1749,8 +1837,9 @@
             "last_commit": "2026-08-19T23:27:34Z",
             "owner": "jbetancur",
             "repo": "react-data-table-component",
-            "stars": 2230
-          }
+            "stars": 2231
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Data Table (🥈33 · ⭐ 2K) - A responsive table library with built-in sorting,.. Apache-2"
@@ -1767,11 +1856,12 @@
             "archived": false,
             "id": 31990747,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:39:10Z",
+            "last_commit": "2026-08-28T03:38:14Z",
             "owner": "6pac",
             "repo": "SlickGrid",
             "stars": 2064
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "SlickGrid (🥈32 · ⭐ 1.8K) - A lightning fast JavaScript grid/spreadsheet. MIT"
@@ -1792,7 +1882,8 @@
             "owner": "schrodinger",
             "repo": "fixed-data-table-2",
             "stars": 1302
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "fixed-data-table-2 (🥈32 · ⭐ 1.3K) - A React table component designed to allow presenting.. BSD-3"
@@ -1813,7 +1904,8 @@
             "owner": "grid-js",
             "repo": "gridjs",
             "stars": 4689
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "gridjs (🥈31 · ⭐ 4.3K · 📉) - Advanced table plugin. MIT"
@@ -1833,8 +1925,9 @@
             "last_commit": "2026-01-21T19:14:18Z",
             "owner": "glideapps",
             "repo": "glide-data-grid",
-            "stars": 5319
-          }
+            "stars": 5320
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "glide-data-grid (🥉28 · ⭐ 3.5K) - Glide Data Grid is a no compromise, outrageously react fast.. MIT"
@@ -1855,7 +1948,8 @@
             "owner": "Autodesk",
             "repo": "react-base-table",
             "stars": 1537
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-base-table (🥉28 · ⭐ 1.5K) - A react table component to display large datasets with high.. MIT"
@@ -1876,7 +1970,8 @@
             "owner": "iddan",
             "repo": "react-spreadsheet",
             "stars": 1595
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Spreadsheet (🥉28 · ⭐ 1.2K) - Simple, customizable yet performant spreadsheet for React. MIT"
@@ -1897,7 +1992,8 @@
             "owner": "komarovalexander",
             "repo": "ka-table",
             "stars": 851
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "ka-table (🥉28 · ⭐ 720) - Lightweight MIT React Table component with Sorting, Filtering, Grouping,.. MIT"
@@ -1918,7 +2014,8 @@
             "owner": "rsuite",
             "repo": "rsuite-table",
             "stars": 739
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "rsuite-table (🥉28 · ⭐ 700) - A React table component. MIT"
@@ -1939,7 +2036,8 @@
             "owner": "jspreadsheet",
             "repo": "ce",
             "stars": 7220
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "jspreadsheet (🥉27 · ⭐ 6.6K) - Jspreadsheet is a lightweight vanilla javascript plugin to create.. MIT"
@@ -1960,7 +2058,8 @@
             "owner": "revolist",
             "repo": "revogrid",
             "stars": 3439
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "RevoGrid (🥉25 · ⭐ 2.7K) - Powerful virtual data grid smartsheet with advanced customization. Best.. MIT"
@@ -1981,7 +2080,8 @@
             "owner": "frappe",
             "repo": "datatable",
             "stars": 1331
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "datatable (🥉24 · ⭐ 980) - The Missing Javascript Datatable for the Web. MIT"
@@ -2001,8 +2101,9 @@
             "last_commit": "2025-01-20T21:42:24Z",
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27080
-          }
+            "stars": 27081
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2013,11 +2114,12 @@
             "archived": false,
             "id": 1790564,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:27:28Z",
+            "last_commit": "2026-08-28T16:00:37Z",
             "owner": "handsontable",
             "repo": "handsontable",
             "stars": 22030
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2032,7 +2134,8 @@
             "owner": "mleibman",
             "repo": "SlickGrid",
             "stars": 6934
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2047,7 +2150,8 @@
             "owner": "nadbm",
             "repo": "react-datasheet",
             "stars": 5446
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2062,7 +2166,8 @@
             "owner": "tonytomov",
             "repo": "jqGrid",
             "stars": 2838
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2077,7 +2182,8 @@
             "owner": "gregnb",
             "repo": "mui-datatables",
             "stars": 2703
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2092,7 +2198,8 @@
             "owner": "tabalinas",
             "repo": "jsgrid",
             "stars": 1519
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2107,7 +2214,8 @@
             "owner": "react-bootstrap-table",
             "repo": "react-bootstrap-table2",
             "stars": 1257
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2122,7 +2230,8 @@
             "owner": "volosoft",
             "repo": "jtable",
             "stars": 1080
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2137,7 +2246,8 @@
             "owner": "davidguttman",
             "repo": "react-pivot",
             "stars": 1078
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2152,7 +2262,8 @@
             "owner": "plotly",
             "repo": "react-pivottable",
             "stars": 1065
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2167,7 +2278,8 @@
             "owner": "webismymind",
             "repo": "editablegrid",
             "stars": 795
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2182,7 +2294,8 @@
             "owner": "archit-p",
             "repo": "editable-react-table",
             "stars": 726
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2197,7 +2310,8 @@
             "owner": "nnajm",
             "repo": "orb",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2212,7 +2326,8 @@
             "owner": "paramquery",
             "repo": "grid",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2227,7 +2342,8 @@
             "owner": "githubocto",
             "repo": "flat-ui",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2242,7 +2358,8 @@
             "owner": "FancyGrid",
             "repo": "FancyGrid",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2257,7 +2374,8 @@
             "owner": "joaocarmo",
             "repo": "react-smart-data-table",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 18 hidden projects..."
@@ -2274,11 +2392,12 @@
             "archived": false,
             "id": 174038031,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T09:59:39Z",
+            "last_commit": "2026-08-28T09:39:34Z",
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44840
-          }
+            "stars": 44842
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-hook-form (🥇44 · ⭐ 40K) - React Hooks for form state management and validation (Web +.. MIT"
@@ -2298,8 +2417,9 @@
             "last_commit": "2026-04-02T08:36:28Z",
             "owner": "Hacker0x01",
             "repo": "react-datepicker",
-            "stars": 8384
-          }
+            "stars": 8385
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-datepicker (🥇43 · ⭐ 7.9K) - A simple and reusable datepicker component for React. MIT"
@@ -2319,8 +2439,9 @@
             "last_commit": "2025-11-10T17:02:06Z",
             "owner": "jaredpalmer",
             "repo": "formik",
-            "stars": 34330
-          }
+            "stars": 34329
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "formik (🥇42 · ⭐ 34K) - Build forms in React, without the tears. Apache-2"
@@ -2340,8 +2461,9 @@
             "last_commit": "2026-07-16T13:58:10Z",
             "owner": "JedWatson",
             "repo": "react-select",
-            "stars": 28036
-          }
+            "stars": 28035
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-select (🥈41 · ⭐ 27K · 💤) - The Select Component for React.js. MIT"
@@ -2358,11 +2480,12 @@
             "archived": false,
             "id": 48117679,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:39:15Z",
+            "last_commit": "2026-08-27T17:10:54Z",
             "owner": "rjsf-team",
             "repo": "react-jsonschema-form",
             "stars": 15877
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-jsonschema-form (🥈38 · ⭐ 14K) - A React component for building Web forms from JSON.. Apache-2"
@@ -2383,7 +2506,8 @@
             "owner": "downshift-js",
             "repo": "downshift",
             "stars": 12307
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "downshift (🥈38 · ⭐ 12K) - A set of primitives to build simple, flexible, WAI-ARIA compliant React.. MIT"
@@ -2404,7 +2528,8 @@
             "owner": "nosir",
             "repo": "cleave.js",
             "stars": 17859
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "cleave.js (🥈35 · ⭐ 18K · 💤) - Format input text content when you are typing... Apache-2"
@@ -2421,11 +2546,12 @@
             "archived": false,
             "id": 40705341,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:54:23Z",
+            "last_commit": "2026-08-28T11:10:17Z",
             "owner": "surveyjs",
             "repo": "survey-library",
-            "stars": 4858
-          }
+            "stars": 4859
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "survey-library (🥈34 · ⭐ 4K) - Free JavaScript form builder library with integration for React,.. MIT"
@@ -2446,7 +2572,8 @@
             "owner": "wojtekmaj",
             "repo": "react-date-picker",
             "stars": 1354
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-date-picker (🥈34 · ⭐ 1.2K) - A date picker for your React app. MIT"
@@ -2467,7 +2594,8 @@
             "owner": "hypeserver",
             "repo": "react-date-range",
             "stars": 2618
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-date-range (🥉33 · ⭐ 2.6K) - A React component for choosing dates and date ranges. MIT"
@@ -2488,7 +2616,8 @@
             "owner": "jquense",
             "repo": "react-widgets",
             "stars": 2361
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-widgets (🥉31 · ⭐ 2.3K · 💤) - Polished, feature rich, accessible form inputs built with.. MIT"
@@ -2509,7 +2638,8 @@
             "owner": "ndom91",
             "repo": "react-timezone-select",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-timezone-select (🥉26 · ⭐ 200) - An extremely usable and dynamic React timezone selector. MIT"
@@ -2529,8 +2659,9 @@
             "last_commit": "2024-04-09T04:36:15Z",
             "owner": "react-dates",
             "repo": "react-dates",
-            "stars": 12178
-          }
+            "stars": 12177
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2545,7 +2676,8 @@
             "owner": "unform",
             "repo": "unform",
             "stars": 4403
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2560,7 +2692,8 @@
             "owner": "arqex",
             "repo": "react-datetime",
             "stars": 2004
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2575,7 +2708,8 @@
             "owner": "alexkuz",
             "repo": "react-input-enhancements",
             "stars": 1361
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2590,7 +2724,8 @@
             "owner": "hernansartorio",
             "repo": "react-nice-dates",
             "stars": 1098
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2605,7 +2740,8 @@
             "owner": "haoxins",
             "repo": "react-flatpickr",
             "stars": 622
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2620,7 +2756,8 @@
             "owner": "formsy",
             "repo": "formsy-material-ui",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2635,7 +2772,8 @@
             "owner": "BelkaLab",
             "repo": "react-yearly-calendar",
             "stars": 546
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2650,7 +2788,8 @@
             "owner": "twisty",
             "repo": "formsy-react-components",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2665,7 +2804,8 @@
             "owner": "mberneti",
             "repo": "react-datepicker2",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2680,7 +2820,8 @@
             "owner": "almogtavor",
             "repo": "date-range-picker",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -2695,7 +2836,8 @@
             "owner": "antonfisher",
             "repo": "react-simple-timefield",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 12 hidden projects..."
@@ -2712,11 +2854,12 @@
             "archived": false,
             "id": 19117456,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:16:37Z",
+            "last_commit": "2026-08-28T00:15:34Z",
             "owner": "formatjs",
             "repo": "formatjs",
-            "stars": 14744
-          }
+            "stars": 14745
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "formatjs (🥇43 · ⭐ 14K) - The monorepo home to all of the FormatJS related libraries, most.. BSD-3"
@@ -2736,8 +2879,9 @@
             "last_commit": "2026-08-20T10:22:58Z",
             "owner": "i18next",
             "repo": "react-i18next",
-            "stars": 10040
-          }
+            "stars": 10039
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-i18next (🥈40 · ⭐ 9K) - Internationalization for react done right. Using the i18next i18n.. MIT"
@@ -2757,8 +2901,9 @@
             "last_commit": "2026-08-14T09:54:25Z",
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5858
-          }
+            "stars": 5861
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "js-lingui (🥉36 · ⭐ 4.3K) - A readable, automated, and optimized (3 kb) internationalization for.. MIT"
@@ -2779,7 +2924,8 @@
             "owner": "DoneDeal0",
             "repo": "Talkr",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "talkr (🥉18 · ⭐ 240) - Talkr is the lightest i18n provider for React applications. It supports.. ISC"
@@ -2799,8 +2945,9 @@
             "last_commit": "2026-08-20T02:41:39Z",
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61508
-          }
+            "stars": 61509
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "redux (🥇48 · ⭐ 61K · 📉) - A JS library for predictable global state management. MIT"
@@ -2820,8 +2967,9 @@
             "last_commit": "2026-08-27T04:06:50Z",
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23447
-          }
+            "stars": 23448
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-redux (🥇47 · ⭐ 23K) - Official React bindings for Redux. MIT"
@@ -2841,8 +2989,9 @@
             "last_commit": "2026-08-19T07:57:23Z",
             "owner": "immerjs",
             "repo": "immer",
-            "stars": 28980
-          }
+            "stars": 28981
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "immer (🥇45 · ⭐ 27K) - Create the next immutable state by mutating the current one. MIT"
@@ -2863,7 +3012,8 @@
             "owner": "mobxjs",
             "repo": "mobx",
             "stars": 28206
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "mobx (🥇43 · ⭐ 27K) - Simple, scalable state management. MIT"
@@ -2880,11 +3030,12 @@
             "archived": false,
             "id": 42455934,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:51:57Z",
+            "last_commit": "2026-08-28T04:25:23Z",
             "owner": "statelyai",
             "repo": "xstate",
-            "stars": 30065
-          }
+            "stars": 30069
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "xstate (🥇43 · ⭐ 26K) - Actor-based state management & orchestration for complex app logic. MIT"
@@ -2904,8 +3055,9 @@
             "last_commit": "2026-08-24T23:48:49Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58616
-          }
+            "stars": 58624
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "zustand (🥈42 · ⭐ 44K) - Bear necessities for state management in React. MIT"
@@ -2925,8 +3077,9 @@
             "last_commit": "2026-08-22T02:10:49Z",
             "owner": "reduxjs",
             "repo": "reselect",
-            "stars": 19018
-          }
+            "stars": 19019
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "reselect (🥈42 · ⭐ 19K) - Selector library for Redux. MIT"
@@ -2946,8 +3099,9 @@
             "last_commit": "2026-08-27T12:12:31Z",
             "owner": "immutable-js",
             "repo": "immutable-js",
-            "stars": 33041
-          }
+            "stars": 33040
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "immutable-js (🥈40 · ⭐ 33K) - Immutable persistent data collections for Javascript which increase.. MIT"
@@ -2964,11 +3118,12 @@
             "archived": false,
             "id": 75425073,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:42:57Z",
+            "last_commit": "2026-08-27T17:09:40Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23369
-          }
+            "stars": 23370
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "rxdb (🥈39 · ⭐ 21K) - A fast, local first, reactive Database for JavaScript Applications.. Apache-2"
@@ -2989,7 +3144,8 @@
             "owner": "facebookexperimental",
             "repo": "Recoil",
             "stars": 19431
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Recoil (🥈37 · ⭐ 19K · 💤) - Recoil is an experimental state management library for React apps. It.. MIT"
@@ -3009,8 +3165,9 @@
             "last_commit": "2026-08-24T03:29:12Z",
             "owner": "reduxjs",
             "repo": "redux-toolkit",
-            "stars": 11224
-          }
+            "stars": 11225
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "redux-toolkit (🥈36 · ⭐ 10K) - The official, opinionated, batteries-included toolset for.. MIT"
@@ -3031,7 +3188,8 @@
             "owner": "effector",
             "repo": "effector",
             "stars": 4849
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "effector (🥉34 · ⭐ 4.5K) - Business logic with ease. MIT"
@@ -3052,7 +3210,8 @@
             "owner": "ctrlplusb",
             "repo": "easy-peasy",
             "stars": 5039
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "easy-peasy (🥉31 · ⭐ 5K · 💤) - Vegetarian friendly state for React. MIT"
@@ -3073,7 +3232,8 @@
             "owner": "keajs",
             "repo": "kea",
             "stars": 1993
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "kea (🥉28 · ⭐ 1.9K) - Batteries Included State Management for React. MIT"
@@ -3094,7 +3254,8 @@
             "owner": "avkonst",
             "repo": "hookstate",
             "stars": 1652
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "hookstate (🥉27 · ⭐ 1.6K · 💤) - The simple but very powerful and incredibly fast state management.. MIT"
@@ -3115,7 +3276,8 @@
             "owner": "yahoo",
             "repo": "fluxible",
             "stars": 1795
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "fluxible (🥉26 · ⭐ 1.8K) - A pluggable container for universal flux applications. BSD-3"
@@ -3136,7 +3298,8 @@
             "owner": "yahoo",
             "repo": "react-i13n",
             "stars": 383
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-i13n (🥉23 · ⭐ 380) - A performant, scalable and pluggable approach to instrumenting your.. BSD-3"
@@ -3157,7 +3320,8 @@
             "owner": "Mojang",
             "repo": "ore-ui",
             "stars": 601
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "ore-ui (🥉21 · ⭐ 380) - Building blocks to construct game UIs using web tech. MIT"
@@ -3178,7 +3342,8 @@
             "owner": "localForage",
             "repo": "localForage",
             "stars": 25809
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3192,8 +3357,9 @@
             "last_commit": "2024-07-07T03:25:42Z",
             "owner": "remix-run",
             "repo": "history",
-            "stars": 8302
-          }
+            "stars": 8301
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3208,7 +3374,8 @@
             "owner": "final-form",
             "repo": "react-final-form",
             "stars": 7440
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3223,7 +3390,8 @@
             "owner": "mobxjs",
             "repo": "mobx-react",
             "stars": 4818
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3238,7 +3406,8 @@
             "owner": "jamiebuilds",
             "repo": "unstated-next",
             "stars": 4186
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3253,7 +3422,8 @@
             "owner": "goatslacker",
             "repo": "alt",
             "stars": 3427
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3268,7 +3438,8 @@
             "owner": "cerebral",
             "repo": "cerebral",
             "stars": 1996
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3283,7 +3454,8 @@
             "owner": "CharlesStover",
             "repo": "reactn",
             "stars": 1868
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3298,7 +3470,8 @@
             "owner": "BinaryMuse",
             "repo": "fluxxor",
             "stars": 1683
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3313,7 +3486,8 @@
             "owner": "tshelburne",
             "repo": "redux-batched-actions",
             "stars": 1036
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3328,7 +3502,8 @@
             "owner": "teafuljs",
             "repo": "teaful",
             "stars": 712
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3343,7 +3518,8 @@
             "owner": "Yomguithereal",
             "repo": "baobab-react",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3358,7 +3534,8 @@
             "owner": "noahgrant",
             "repo": "resourcerer",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 13 hidden projects..."
@@ -3375,11 +3552,12 @@
             "archived": false,
             "id": 19872456,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T17:28:12Z",
+            "last_commit": "2026-08-28T14:44:11Z",
             "owner": "remix-run",
             "repo": "react-router",
-            "stars": 56574
-          }
+            "stars": 56576
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-router (🥇48 · ⭐ 52K) - Declarative routing for React. MIT"
@@ -3396,11 +3574,12 @@
             "archived": false,
             "id": 19872456,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T17:28:12Z",
+            "last_commit": "2026-08-28T14:44:11Z",
             "owner": "remix-run",
             "repo": "react-router",
-            "stars": 56574
-          }
+            "stars": 56576
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "remix-run/react-router (🥇48 · ⭐ 52K) - Declarative routing for React. MIT"
@@ -3420,8 +3599,9 @@
             "last_commit": "2026-08-21T16:12:40Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7868
-          }
+            "stars": 7867
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "wouter (🥈32 · ⭐ 6.3K) - A minimalist-friendly ~2.1KB routing for React and Preact. Unlicense"
@@ -3442,7 +3622,8 @@
             "owner": "kriasoft",
             "repo": "universal-router",
             "stars": 1784
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "universal-router (🥈28 · ⭐ 1.7K · 💤) - A simple middleware-style router for isomorphic.. MIT"
@@ -3463,7 +3644,8 @@
             "owner": "salvoravida",
             "repo": "redux-first-history",
             "stars": 454
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "redux-first-history (🥉23 · ⭐ 440) - Redux history binding support react-router - @reach/router.. MIT"
@@ -3484,7 +3666,8 @@
             "owner": "reach",
             "repo": "router",
             "stars": 6826
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3499,7 +3682,8 @@
             "owner": "acdlite",
             "repo": "redux-router",
             "stars": 2280
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3514,7 +3698,8 @@
             "owner": "frontarm",
             "repo": "navi",
             "stars": 2046
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3529,7 +3714,8 @@
             "owner": "STRML",
             "repo": "react-router-component",
             "stars": 868
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3544,7 +3730,8 @@
             "owner": "taion",
             "repo": "react-router-scroll",
             "stars": 831
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3559,7 +3746,8 @@
             "owner": "robbestad",
             "repo": "react-breadcrumbs",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3574,7 +3762,8 @@
             "owner": "pshrmn",
             "repo": "curi",
             "stars": 269
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 7 hidden projects..."
@@ -3594,8 +3783,9 @@
             "last_commit": "2026-08-26T18:36:07Z",
             "owner": "pmndrs",
             "repo": "react-spring",
-            "stars": 29140
-          }
+            "stars": 29141
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-spring (🥇41 · ⭐ 28K) - A spring physics based React animation library. MIT"
@@ -3615,8 +3805,9 @@
             "last_commit": "2026-08-26T11:26:28Z",
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33383
-          }
+            "stars": 33392
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "motion (🥇41 · ⭐ 22K) - Open source, production-ready animation and gesture library for React. MIT"
@@ -3636,8 +3827,9 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8966
-          }
+            "stars": 8972
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "tsparticles (🥈36 · ⭐ 7.2K) - tsParticles - Easily create highly customizable JavaScript particles.. MIT"
@@ -3658,7 +3850,8 @@
             "owner": "mkosir",
             "repo": "react-parallax-tilt",
             "stars": 1078
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-parallax-tilt (🥉29 · ⭐ 930) - Easily apply tilt hover effect on React components -.. MIT"
@@ -3678,8 +3871,9 @@
             "last_commit": "2024-01-05T12:11:49Z",
             "owner": "chenglou",
             "repo": "react-motion",
-            "stars": 21914
-          }
+            "stars": 21913
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3694,7 +3888,8 @@
             "owner": "sghall",
             "repo": "react-move",
             "stars": 6556
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3708,8 +3903,9 @@
             "last_commit": "2022-12-06T19:59:41Z",
             "owner": "joshwcomeau",
             "repo": "react-flip-move",
-            "stars": 4135
-          }
+            "stars": 4136
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3724,7 +3920,8 @@
             "owner": "maisano",
             "repo": "react-router-transition",
             "stars": 2577
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3739,7 +3936,8 @@
             "owner": "plus1tv",
             "repo": "react-anime",
             "stars": 1563
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3754,7 +3952,8 @@
             "owner": "luukdv",
             "repo": "gooey-react",
             "stars": 676
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3769,7 +3968,8 @@
             "owner": "lindelof",
             "repo": "particles-bg",
             "stars": 669
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -3784,7 +3984,8 @@
             "owner": "teodosii",
             "repo": "react-tweenful",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 8 hidden projects..."
@@ -3801,11 +4002,12 @@
             "archived": false,
             "id": 576201,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:26:39Z",
+            "last_commit": "2026-08-28T02:46:54Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114848
-          }
+            "stars": 114886
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "three.js (🥇51 · ⭐ 100K · 📈) - JavaScript 3D Library. MIT"
@@ -3825,8 +4027,9 @@
             "last_commit": "2026-05-27T21:17:31Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67668
-          }
+            "stars": 67669
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Chart.js (🥇47 · ⭐ 64K) - Simple HTML5 Charts using the canvas tag. MIT"
@@ -3846,8 +4049,9 @@
             "last_commit": "2026-05-28T14:43:01Z",
             "owner": "d3",
             "repo": "d3",
-            "stars": 113567
-          }
+            "stars": 113574
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "d3 (🥇46 · ⭐ 110K) - Bring data to life with SVG, Canvas and HTML. ISC"
@@ -3864,11 +4068,12 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:20:28Z",
+            "last_commit": "2026-08-28T15:21:49Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89967
-          }
+            "stars": 89974
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "mermaid (🥇45 · ⭐ 68K) - Generation of diagrams like flowcharts or sequence diagrams from text in a.. MIT"
@@ -3885,11 +4090,12 @@
             "archived": false,
             "id": 40345658,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:05:05Z",
+            "last_commit": "2026-08-28T13:57:10Z",
             "owner": "recharts",
             "repo": "recharts",
-            "stars": 27517
-          }
+            "stars": 27522
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Recharts (🥇45 · ⭐ 23K) - Redefined chart library built with React and D3. MIT"
@@ -3909,8 +4115,9 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67162
-          }
+            "stars": 67173
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "echarts (🥈40 · ⭐ 59K) - Apache ECharts is a powerful, interactive charting and data.. Apache-2"
@@ -3930,8 +4137,9 @@
             "last_commit": "2025-12-19T23:11:18Z",
             "owner": "FormidableLabs",
             "repo": "victory",
-            "stars": 11242
-          }
+            "stars": 11243
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Victory (🥈40 · ⭐ 11K) - A collection of composable React components for building interactive data.. MIT"
@@ -3948,11 +4156,12 @@
             "archived": false,
             "id": 172521926,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:35:15Z",
+            "last_commit": "2026-08-28T15:28:41Z",
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 31805
-          }
+            "stars": 31817
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-three-fiber (🥈39 · ⭐ 26K) - A React renderer for Three.js. MIT"
@@ -3972,8 +4181,9 @@
             "last_commit": "2026-08-27T12:34:44Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15139
-          }
+            "stars": 15142
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "apexcharts.js (🥈39 · ⭐ 14K) - Interactive JavaScript Charts built on SVG. MIT"
@@ -3993,8 +4203,9 @@
             "last_commit": "2026-07-21T02:46:40Z",
             "owner": "plouc",
             "repo": "nivo",
-            "stars": 14091
-          }
+            "stars": 14092
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "nivo (🥈38 · ⭐ 13K) - nivo provides a rich set of dataviz components, built on top of the awesome d3.. MIT"
@@ -4014,8 +4225,9 @@
             "last_commit": "2026-06-22T14:25:22Z",
             "owner": "airbnb",
             "repo": "visx",
-            "stars": 21025
-          }
+            "stars": 21027
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "visx (🥈36 · ⭐ 19K) - visx | visualization components. MIT"
@@ -4035,8 +4247,9 @@
             "last_commit": "2026-08-26T23:54:53Z",
             "owner": "reactchartjs",
             "repo": "react-chartjs-2",
-            "stars": 6939
-          }
+            "stars": 6941
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Chartjs 2 (🥈36 · ⭐ 6.4K · 💤) - React components for Chart.js, the most popular charting.. MIT"
@@ -4057,7 +4270,8 @@
             "owner": "ant-design",
             "repo": "ant-design-charts",
             "stars": 2234
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "ant-design-charts (🥈35 · ⭐ 1.8K) - A React Chart Library. MIT"
@@ -4077,8 +4291,9 @@
             "last_commit": "2024-12-18T22:24:34Z",
             "owner": "uber",
             "repo": "react-vis",
-            "stars": 8787
-          }
+            "stars": 8789
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-vis (🥈33 · ⭐ 8.7K · 💤) - Data Visualization Components. MIT"
@@ -4099,7 +4314,8 @@
             "owner": "rakannimer",
             "repo": "react-google-charts",
             "stars": 1722
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-google-charts (🥈33 · ⭐ 1.6K · 💤) - A thin, typed, React wrapper over Google Charts.. MIT"
@@ -4120,7 +4336,8 @@
             "owner": "hustcc",
             "repo": "echarts-for-react",
             "stars": 5006
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "echarts-for-react (🥉32 · ⭐ 4.4K) - Apache ECharts components for React wrapper. Apache echarts.. MIT"
@@ -4141,7 +4358,8 @@
             "owner": "apexcharts",
             "repo": "react-apexcharts",
             "stars": 1402
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React ApexCharts (🥉32 · ⭐ 1.3K) - React Component for ApexCharts. MIT"
@@ -4162,7 +4380,8 @@
             "owner": "carbon-design-system",
             "repo": "carbon-charts",
             "stars": 1049
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "carbon-charts (🥉32 · ⭐ 870) - Robust dataviz framework implemented using D3 & typescript. Apache-2"
@@ -4183,7 +4402,8 @@
             "owner": "alibaba",
             "repo": "BizCharts",
             "stars": 6188
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "BizCharts (🥉30 · ⭐ 6.1K · 💤) - Powerful data visualization library based on G2 and React. MIT"
@@ -4204,7 +4424,8 @@
             "owner": "frappe",
             "repo": "charts",
             "stars": 15079
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "charts (🥉29 · ⭐ 15K · 💤) - Simple, responsive, modern SVG Charts with zero dependencies. MIT"
@@ -4224,8 +4445,9 @@
             "last_commit": "2025-04-03T17:33:25Z",
             "owner": "projectstorm",
             "repo": "react-diagrams",
-            "stars": 9425
-          }
+            "stars": 9426
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-diagrams (🥉29 · ⭐ 8.4K) - a super simple, no-nonsense diagramming library written in react.. MIT"
@@ -4246,7 +4468,8 @@
             "owner": "wa0x6e",
             "repo": "cal-heatmap",
             "stars": 3134
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "cal-heatmap (🥉29 · ⭐ 2.6K · 📉) - Cal-Heatmap is a javascript charting library to create a time-.. MIT"
@@ -4267,7 +4490,8 @@
             "owner": "nteract",
             "repo": "semiotic",
             "stars": 2691
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Semiotic (🥉29 · ⭐ 2.4K) - A data visualization framework combining React & D3. Apache-2"
@@ -4288,7 +4512,8 @@
             "owner": "reaviz",
             "repo": "reaviz",
             "stars": 1249
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Reaviz (🥉28 · ⭐ 930) - Data visualization library for React. Maintained by @goodcodeus. Apache-2"
@@ -4308,8 +4533,9 @@
             "last_commit": "2024-10-19T21:55:00Z",
             "owner": "jerosoler",
             "repo": "Drawflow",
-            "stars": 6107
-          }
+            "stars": 6108
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Drawflow (🥉27 · ⭐ 4.3K) - Simple flow library. MIT"
@@ -4330,7 +4556,8 @@
             "owner": "alibaba",
             "repo": "GGEditor",
             "stars": 3410
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4345,7 +4572,8 @@
             "owner": "borisyankov",
             "repo": "react-sparklines",
             "stars": 2850
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4360,7 +4588,8 @@
             "owner": "kirjs",
             "repo": "react-highcharts",
             "stars": 1248
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4375,7 +4604,8 @@
             "owner": "esnet",
             "repo": "react-timeseries-charts",
             "stars": 876
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4390,7 +4620,8 @@
             "owner": "fraserxu",
             "repo": "react-chartist",
             "stars": 523
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4405,7 +4636,8 @@
             "owner": "syncfusion",
             "repo": "ej2-react-ui-components",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4420,7 +4652,8 @@
             "owner": "elastic",
             "repo": "elastic-charts",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4435,7 +4668,8 @@
             "owner": "rumble-charts",
             "repo": "rumble-charts",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4450,7 +4684,8 @@
             "owner": "dunnock",
             "repo": "react-sigma",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4465,7 +4700,8 @@
             "owner": "99ff00",
             "repo": "react-charty",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 12 hidden projects..."
@@ -4486,7 +4722,8 @@
             "owner": "apollographql",
             "repo": "apollo-client",
             "stars": 19812
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "apollo-client (🥇45 · ⭐ 19K) - A fully-featured, production ready caching GraphQL client for.. MIT"
@@ -4503,11 +4740,12 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:05:28Z",
+            "last_commit": "2026-08-28T06:58:32Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50215
-          }
+            "stars": 50223
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-query (🥈43 · ⭐ 40K) - Powerful asynchronous state management, server-state utilities and.. MIT"
@@ -4527,8 +4765,9 @@
             "last_commit": "2026-08-23T11:35:07Z",
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32475
-          }
+            "stars": 32476
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "swr (🥈41 · ⭐ 30K) - React Hooks for Data Fetching. MIT"
@@ -4545,11 +4784,12 @@
             "archived": false,
             "id": 40508605,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:59:17Z",
+            "last_commit": "2026-08-28T04:04:09Z",
             "owner": "facebook",
             "repo": "relay",
             "stars": 18958
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "relay (🥉35 · ⭐ 18K) - Relay is a JavaScript framework for building data-driven React applications. MIT"
@@ -4566,11 +4806,12 @@
             "archived": false,
             "id": 345475832,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:06:35Z",
+            "last_commit": "2026-08-28T09:39:47Z",
             "owner": "unjs",
             "repo": "unstorage",
             "stars": 2638
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "unstorage (🥉35 · ⭐ 1.6K) - Unstorage provides an async Key-Value storage API with conventional.. MIT"
@@ -4591,7 +4832,8 @@
             "owner": "heroku",
             "repo": "react-refetch",
             "stars": 3401
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-refetch (🥉26 · ⭐ 3.4K) - A simple, declarative, and composable way to fetch data for React.. MIT"
@@ -4612,7 +4854,8 @@
             "owner": "contiamo",
             "repo": "restful-react",
             "stars": 1853
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 1 hidden projects..."
@@ -4633,7 +4876,8 @@
             "owner": "fkhadra",
             "repo": "react-toastify",
             "stars": 13436
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React-Toastify (🥇39 · ⭐ 12K) - React notification made easy !. MIT"
@@ -4653,8 +4897,9 @@
             "last_commit": "2025-08-16T12:19:29Z",
             "owner": "timolins",
             "repo": "react-hot-toast",
-            "stars": 10969
-          }
+            "stars": 10972
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Hot Toast (🥈35 · ⭐ 9.3K) - Smoking Hot React Notifications. MIT"
@@ -4675,7 +4920,8 @@
             "owner": "iamhosseindhv",
             "repo": "notistack",
             "stars": 4076
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Notistack (🥈32 · ⭐ 3.8K · 💤) - Highly customizable notification snackbars (toasts) that can.. MIT"
@@ -4692,11 +4938,12 @@
             "archived": false,
             "id": 56515832,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:52:01Z",
+            "last_commit": "2026-08-28T08:04:15Z",
             "owner": "LouisBarranqueiro",
             "repo": "reapop",
             "stars": 1561
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "reapop (🥉24 · ⭐ 1.5K) - A simple and customizable React notifications system. MIT"
@@ -4717,7 +4964,8 @@
             "owner": "jossmac",
             "repo": "react-toast-notifications",
             "stars": 2161
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4732,7 +4980,8 @@
             "owner": "teodosii",
             "repo": "react-notifications-component",
             "stars": 1280
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4747,7 +4996,8 @@
             "owner": "Cogoport",
             "repo": "cogo-toast",
             "stars": 672
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4762,7 +5012,8 @@
             "owner": "moharnadreza",
             "repo": "react-toast",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 5 hidden projects..."
@@ -4779,11 +5030,12 @@
             "archived": false,
             "id": 46273445,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:07:35Z",
+            "last_commit": "2026-08-28T15:33:03Z",
             "owner": "transloadit",
             "repo": "uppy",
-            "stars": 30935
-          }
+            "stars": 30938
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "uppy (🥇41 · ⭐ 28K) - The next open source file uploader for web browsers. MIT"
@@ -4803,8 +5055,9 @@
             "last_commit": "2024-04-18T08:06:46Z",
             "owner": "SheetJS",
             "repo": "sheetjs",
-            "stars": 36333
-          }
+            "stars": 36332
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "SheetJS (🥈40 · ⭐ 35K) - SheetJS Spreadsheet Data Toolkit -- New home.. Apache-2"
@@ -4825,7 +5078,8 @@
             "owner": "mac-s-g",
             "repo": "react-json-view",
             "stars": 3660
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-json-view (🥈32 · ⭐ 3.4K · 💤) - JSON viewer for react. MIT"
@@ -4846,7 +5100,8 @@
             "owner": "rpldy",
             "repo": "react-uploady",
             "stars": 1247
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-uploady (🥉25 · ⭐ 1.1K) - Modern file uploading - components & hooks for React. MIT"
@@ -4867,7 +5122,8 @@
             "owner": "plangrid",
             "repo": "react-file-viewer",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-file-viewer (🥉24 · ⭐ 510) - Extendable file viewer for web. MIT"
@@ -4888,7 +5144,8 @@
             "owner": "react-dropzone",
             "repo": "react-dropzone",
             "stars": 11013
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4903,7 +5160,8 @@
             "owner": "pqina",
             "repo": "react-filepond",
             "stars": 1987
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4918,7 +5176,8 @@
             "owner": "react-csv",
             "repo": "react-csv",
             "stars": 1184
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4933,7 +5192,8 @@
             "owner": "Yuvaleros",
             "repo": "material-ui-dropzone",
             "stars": 479
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -4948,7 +5208,8 @@
             "owner": "securedeveloper",
             "repo": "react-data-export",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 5 hidden projects..."
@@ -4968,8 +5229,9 @@
             "last_commit": "2026-08-26T06:35:54Z",
             "owner": "ianstormtaylor",
             "repo": "slate",
-            "stars": 31748
-          }
+            "stars": 31749
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Slate (🥇41 · ⭐ 29K) - A completely customizable framework for building rich text editors... MIT"
@@ -4986,11 +5248,12 @@
             "archived": false,
             "id": 27292141,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T01:52:39Z",
+            "last_commit": "2026-08-28T01:52:50Z",
             "owner": "securingsincity",
             "repo": "react-ace",
             "stars": 4205
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Ace (🥇36 · ⭐ 4K) - React Ace Component. MIT"
@@ -5007,11 +5270,12 @@
             "archived": false,
             "id": 145464445,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:30:14Z",
+            "last_commit": "2026-08-28T16:41:48Z",
             "owner": "ueberdosis",
             "repo": "tiptap",
-            "stars": 38181
-          }
+            "stars": 38191
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "tiptap (🥇35 · ⭐ 24K) - The headless rich text editor framework for web artisans. MIT"
@@ -5032,7 +5296,8 @@
             "owner": "xdan",
             "repo": "jodit",
             "stars": 1955
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "jodit (🥇35 · ⭐ 1.6K) - Jodit - Best WYSIWYG Editor for You. MIT"
@@ -5052,8 +5317,9 @@
             "last_commit": "2026-08-04T11:55:32Z",
             "owner": "codex-team",
             "repo": "editor.js",
-            "stars": 31911
-          }
+            "stars": 31912
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "editor.js (🥈34 · ⭐ 27K) - A block-style editor with clean JSON output. Apache-2"
@@ -5073,8 +5339,9 @@
             "last_commit": "2024-12-01T09:52:19Z",
             "owner": "jpuri",
             "repo": "react-draft-wysiwyg",
-            "stars": 6466
-          }
+            "stars": 6467
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-draft-wysiwyg (🥈34 · ⭐ 6.4K · 💤) - A Wysiwyg editor build on top of ReactJS and DraftJS... MIT"
@@ -5095,7 +5362,8 @@
             "owner": "dominictobias",
             "repo": "react-image-crop",
             "stars": 4103
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-image-crop (🥈33 · ⭐ 3.8K) - A responsive image cropping tool for React. ISC"
@@ -5116,7 +5384,8 @@
             "owner": "react-monaco-editor",
             "repo": "react-monaco-editor",
             "stars": 4209
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-monaco-editor (🥈33 · ⭐ 3.7K) - Monaco Editor for React. MIT"
@@ -5136,8 +5405,9 @@
             "last_commit": "2026-07-08T16:38:31Z",
             "owner": "uiwjs",
             "repo": "react-codemirror",
-            "stars": 2249
-          }
+            "stars": 2252
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-codemirror (🥈33 · ⭐ 1.5K) - CodeMirror 6 component for React. @codemirror.. MIT"
@@ -5158,7 +5428,8 @@
             "owner": "uiwjs",
             "repo": "react-md-editor",
             "stars": 2921
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-md-editor (🥈30 · ⭐ 2K) - A simple markdown editor with preview, implemented with React.js.. MIT"
@@ -5179,7 +5450,8 @@
             "owner": "unlayer",
             "repo": "react-email-editor",
             "stars": 5211
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Email Editor (🥈29 · ⭐ 4.4K) - Drag-n-Drop Email Editor Component for React.js. MIT"
@@ -5199,8 +5471,9 @@
             "last_commit": "2026-04-20T22:20:02Z",
             "owner": "suren-atoyan",
             "repo": "monaco-react",
-            "stars": 4736
-          }
+            "stars": 4737
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Monaco React (🥈29 · ⭐ 3.5K) - Monaco Editor for React - use the monaco-editor in any React.. MIT"
@@ -5221,7 +5494,8 @@
             "owner": "uber",
             "repo": "react-digraph",
             "stars": 2642
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-digraph (🥈29 · ⭐ 2.6K · 💤) - A library for creating directed graph editors. MIT"
@@ -5242,7 +5516,8 @@
             "owner": "Ionaru",
             "repo": "easy-markdown-editor",
             "stars": 3068
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "easy-markdown-editor (🥈29 · ⭐ 2.3K) - EasyMDE: A simple, beautiful, and embeddable JavaScript.. MIT"
@@ -5262,8 +5537,9 @@
             "last_commit": "2026-04-01T18:29:27Z",
             "owner": "ProseMirror",
             "repo": "prosemirror",
-            "stars": 8703
-          }
+            "stars": 8702
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "prosemirror (🥉28 · ⭐ 7.4K) - The ProseMirror WYSIWYM editor. MIT"
@@ -5283,8 +5559,9 @@
             "last_commit": "2026-07-12T19:11:06Z",
             "owner": "remirror",
             "repo": "remirror",
-            "stars": 3032
-          }
+            "stars": 3033
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "remirror (🥉28 · ⭐ 2.6K) - ProseMirror toolkit for React. MIT"
@@ -5305,7 +5582,8 @@
             "owner": "globocom",
             "repo": "megadraft",
             "stars": 1223
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "megadraft (🥉27 · ⭐ 1.2K · 💤) - Megadraft is a Rich Text editor built on top of Facebooks Draft.JS.. MIT"
@@ -5326,7 +5604,8 @@
             "owner": "remcohaszing",
             "repo": "monaco-yaml",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Monaco Yaml (🥉27 · ⭐ 240) - YAML plugin for the Monaco Editor. MIT"
@@ -5347,7 +5626,8 @@
             "owner": "liferay",
             "repo": "alloy-editor",
             "stars": 1408
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "alloy-editor (🥉26 · ⭐ 1.4K · 💤) - WYSIWYG editor based on CKEditor with completely.. ❗️LGPL-3.0"
@@ -5368,7 +5648,8 @@
             "owner": "antonmedv",
             "repo": "codejar",
             "stars": 1974
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "codejar (🥉23 · ⭐ 1.7K) - An embeddable code editor for the browser. MIT"
@@ -5389,7 +5670,8 @@
             "owner": "salgum1114",
             "repo": "react-design-editor",
             "stars": 1707
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-design-editor (🥉23 · ⭐ 1.5K) - React Design Editor has started to developed direct.. MIT"
@@ -5410,7 +5692,8 @@
             "owner": "uiwjs",
             "repo": "react-monacoeditor",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-monacoeditor (🥉21 · ⭐ 280 · 💤) - Monaco Editor component for React. MIT"
@@ -5431,7 +5714,8 @@
             "owner": "edtr-io",
             "repo": "edtr-io",
             "stars": 703
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "edtr-io (🥉19 · ⭐ 710) - Edtr.io is an open source WYSIWYG in-line web editor written in React. Its.. MIT"
@@ -5452,7 +5736,8 @@
             "owner": "appleple",
             "repo": "smartblock",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "smartblock (🥉17 · ⭐ 310 · 💤) - intuitive block based wysiwyg editor built with React and.. MIT"
@@ -5473,7 +5758,8 @@
             "owner": "facebookarchive",
             "repo": "draft-js",
             "stars": 22598
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5487,8 +5773,9 @@
             "last_commit": "2026-08-17T01:15:12Z",
             "owner": "tinymce",
             "repo": "tinymce",
-            "stars": 16283
-          }
+            "stars": 16284
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5503,7 +5790,8 @@
             "owner": "react-page",
             "repo": "react-page",
             "stars": 9545
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5518,7 +5806,8 @@
             "owner": "zenoamaro",
             "repo": "react-quill",
             "stars": 7011
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5533,7 +5822,8 @@
             "owner": "sstur",
             "repo": "react-rte",
             "stars": 2863
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5547,8 +5837,9 @@
             "last_commit": "2026-08-11T11:49:42Z",
             "owner": "ValentinH",
             "repo": "react-easy-crop",
-            "stars": 2772
-          }
+            "stars": 2770
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5563,7 +5854,8 @@
             "owner": "react-simple-code-editor",
             "repo": "react-simple-code-editor",
             "stars": 1731
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5578,7 +5870,8 @@
             "owner": "nubasedev",
             "repo": "potato",
             "stars": 1438
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5593,7 +5886,8 @@
             "owner": "HarryChen0506",
             "repo": "react-markdown-editor-lite",
             "stars": 1135
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5608,7 +5902,8 @@
             "owner": "kazzkiq",
             "repo": "CodeFlask",
             "stars": 1116
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5623,7 +5918,8 @@
             "owner": "leejaen",
             "repo": "react-lz-editor",
             "stars": 946
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5638,7 +5934,8 @@
             "owner": "RIP21",
             "repo": "react-simplemde-editor",
             "stars": 776
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5649,11 +5946,12 @@
             "archived": false,
             "id": 133363789,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T11:21:12Z",
+            "last_commit": "2026-08-28T10:57:58Z",
             "owner": "ckeditor",
             "repo": "ckeditor5-react",
             "stars": 467
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5668,7 +5966,8 @@
             "owner": "RD17",
             "repo": "react-trumbowyg",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5683,7 +5982,8 @@
             "owner": "ckeditor",
             "repo": "ckeditor4-react",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5698,7 +5998,8 @@
             "owner": "jsmmth",
             "repo": "react-avatar-generator",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5713,7 +6014,8 @@
             "owner": "fritx",
             "repo": "react-editor",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 17 hidden projects..."
@@ -5733,8 +6035,9 @@
             "last_commit": "2025-08-18T04:35:31Z",
             "owner": "atlassian",
             "repo": "react-beautiful-dnd",
-            "stars": 33945
-          }
+            "stars": 33946
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-beautiful-dnd (🥇39 · ⭐ 33K) - Beautiful and accessible drag and drop for lists with.. Apache-2"
@@ -5754,8 +6057,9 @@
             "last_commit": "2026-03-24T22:02:22Z",
             "owner": "SortableJS",
             "repo": "Sortable",
-            "stars": 31172
-          }
+            "stars": 31176
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Sortable (🥈38 · ⭐ 29K) - Reorderable drag-and-drop lists for modern browsers and touch devices. No.. MIT"
@@ -5776,7 +6080,8 @@
             "owner": "react-grid-layout",
             "repo": "react-draggable",
             "stars": 9290
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-draggable (🥈36 · ⭐ 8.9K · 💤) - React draggable component. MIT"
@@ -5797,7 +6102,8 @@
             "owner": "bokuweb",
             "repo": "react-rnd",
             "stars": 4323
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-rnd (🥈34 · ⭐ 3.8K) - A resizable and draggable component for React. MIT"
@@ -5817,8 +6123,9 @@
             "last_commit": "2026-07-13T02:58:58Z",
             "owner": "clauderic",
             "repo": "dnd-kit",
-            "stars": 17573
-          }
+            "stars": 17579
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "dnd-kit (🥉33 · ⭐ 12K) - The modern, lightweight, performant, accessible and extensible drag & drop.. MIT"
@@ -5839,7 +6146,8 @@
             "owner": "tajo",
             "repo": "react-movable",
             "stars": 1674
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-movable (🥉27 · ⭐ 1.4K) - Drag and drop for your React lists and tables. Accessible. Tiny. MIT"
@@ -5860,7 +6168,8 @@
             "owner": "react-dnd",
             "repo": "react-dnd",
             "stars": 21637
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5875,7 +6184,8 @@
             "owner": "haltu",
             "repo": "muuri",
             "stars": 10945
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5890,7 +6200,8 @@
             "owner": "frontend-collective",
             "repo": "react-sortable-tree",
             "stars": 4971
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5905,7 +6216,8 @@
             "owner": "bevacqua",
             "repo": "react-dragula",
             "stars": 997
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5920,7 +6232,8 @@
             "owner": "bokuweb",
             "repo": "react-sortable-pane",
             "stars": 651
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -5935,7 +6248,8 @@
             "owner": "danielstocks",
             "repo": "react-sortable",
             "stars": 630
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 6 hidden projects..."
@@ -5952,11 +6266,12 @@
             "archived": false,
             "id": 3678731,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:08:03Z",
+            "last_commit": "2026-08-28T16:17:13Z",
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65966
-          }
+            "stars": 65964
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Webpack (🥇54 · ⭐ 64K) - A bundler for javascript and friends. Packs many modules into a few.. MIT"
@@ -5973,11 +6288,12 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:25:57Z",
+            "last_commit": "2026-08-28T13:37:31Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90948
-          }
+            "stars": 90954
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Storybook (🥇52 · ⭐ 83K) - Storybook is a frontend workshop for building UI components and pages.. MIT"
@@ -5994,11 +6310,12 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:19:58Z",
+            "last_commit": "2026-08-28T09:47:39Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82554
-          }
+            "stars": 82574
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "vite (🥇48 · ⭐ 65K) - Next generation frontend tooling. Its fast!. MIT"
@@ -6018,8 +6335,9 @@
             "last_commit": "2026-07-30T05:32:25Z",
             "owner": "jsx-eslint",
             "repo": "eslint-plugin-react",
-            "stars": 9294
-          }
+            "stars": 9293
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "eslint-plugin-react (🥇46 · ⭐ 8.8K) - React-specific linting rules for ESLint. MIT"
@@ -6039,8 +6357,9 @@
             "last_commit": "2026-08-09T17:20:12Z",
             "owner": "evanw",
             "repo": "esbuild",
-            "stars": 40020
-          }
+            "stars": 40022
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "esbuild (🥈45 · ⭐ 37K) - An extremely fast bundler for the web. MIT"
@@ -6060,8 +6379,9 @@
             "last_commit": "2026-08-26T04:10:31Z",
             "owner": "parcel-bundler",
             "repo": "parcel",
-            "stars": 44021
-          }
+            "stars": 44023
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "parcel (🥈43 · ⭐ 43K) - The zero configuration build tool for the web. MIT"
@@ -6078,11 +6398,12 @@
             "archived": false,
             "id": 47394776,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T13:42:19Z",
+            "last_commit": "2026-08-27T23:31:10Z",
             "owner": "lerna",
             "repo": "lerna",
             "stars": 36053
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "lerna (🥈43 · ⭐ 35K) - Lerna is a fast, modern build system for managing and publishing multiple.. MIT"
@@ -6102,8 +6423,9 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103281
-          }
+            "stars": 103280
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "create-react-app (🥈40 · ⭐ 100K · 💤) - Set up a modern web app by running one command. MIT"
@@ -6120,11 +6442,12 @@
             "archived": false,
             "id": 79723839,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:48:43Z",
+            "last_commit": "2026-08-28T16:44:37Z",
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18463
-          }
+            "stars": 18465
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Bit (🥈36 · ⭐ 18K) - Build, distribute, and collaborate on components. Apache-2"
@@ -6145,7 +6468,8 @@
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
             "stars": 5538
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-intersection-observer (🥈36 · ⭐ 4.9K) - React implementation of the Intersection Observer API.. MIT"
@@ -6166,7 +6490,8 @@
             "owner": "styleguidist",
             "repo": "react-styleguidist",
             "stars": 11066
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-styleguidist (🥈35 · ⭐ 11K) - Isolated React component development environment with a.. MIT"
@@ -6187,7 +6512,8 @@
             "owner": "gregberge",
             "repo": "loadable-components",
             "stars": 7801
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "loadable-components (🥈34 · ⭐ 7.6K) - The recommended Code Splitting library for React. MIT"
@@ -6208,7 +6534,8 @@
             "owner": "yarnpkg",
             "repo": "berry",
             "stars": 8101
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "yarn (🥈34 · ⭐ 7.2K) - Active development trunk for Yarn. BSD-2"
@@ -6225,11 +6552,12 @@
             "archived": false,
             "id": 16554395,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T19:36:17Z",
+            "last_commit": "2026-08-28T15:41:41Z",
             "owner": "react-cosmos",
             "repo": "react-cosmos",
             "stars": 8683
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-cosmos (🥉33 · ⭐ 8.2K) - Sandbox for developing and testing UI components in isolation. MIT"
@@ -6250,7 +6578,8 @@
             "owner": "jsx-eslint",
             "repo": "jsx-ast-utils",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "jsx-ast-utils (🥉33 · ⭐ 160 · 💤) - AST utility module for statically analyzing JSX. MIT"
@@ -6270,8 +6599,9 @@
             "last_commit": "2026-04-29T22:35:26Z",
             "owner": "electron-react-boilerplate",
             "repo": "electron-react-boilerplate",
-            "stars": 24254
-          }
+            "stars": 24255
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "electron-react-boilerplate (🥉32 · ⭐ 23K · 💤) - A Foundation for Scalable Cross-Platform Apps. MIT"
@@ -6292,7 +6622,8 @@
             "owner": "infinitered",
             "repo": "reactotron",
             "stars": 15585
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Reactotron (🥉32 · ⭐ 15K) - A desktop app for inspecting your React JS and React Native projects... MIT"
@@ -6313,7 +6644,8 @@
             "owner": "vercel",
             "repo": "ncc",
             "stars": 9837
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "ncc (🥉32 · ⭐ 9K) - Compile a Node.js project into a single file. Supports TypeScript, binary.. MIT"
@@ -6333,8 +6665,9 @@
             "last_commit": "2026-01-06T02:25:30Z",
             "owner": "jsx-eslint",
             "repo": "eslint-plugin-jsx-a11y",
-            "stars": 3612
-          }
+            "stars": 3613
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "eslint-plugin-jsx-a11y (🥉31 · ⭐ 3.3K) - Static AST checker for a11y rules on JSX elements. MIT"
@@ -6355,7 +6688,8 @@
             "owner": "welldone-software",
             "repo": "why-did-you-render",
             "stars": 12512
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "why-did-you-render (🥉29 · ⭐ 11K) - why-did-you-render by Welldone Software monkey patches React.. MIT"
@@ -6372,11 +6706,12 @@
             "archived": false,
             "id": 263923968,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:41:45Z",
+            "last_commit": "2026-08-28T13:10:17Z",
             "owner": "dequelabs",
             "repo": "axe-core-npm",
             "stars": 719
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "axe-core-npm (🥉27 · ⭐ 570) - Provides a method to inject and analyze web pages using axe. MPL-2.0"
@@ -6396,8 +6731,9 @@
             "last_commit": "2026-08-26T14:57:47Z",
             "owner": "Blazity",
             "repo": "next-enterprise",
-            "stars": 7448
-          }
+            "stars": 7450
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "next-enterprise (🥉16 · ⭐ 5.7K) - An enterprise-grade Next.js boilerplate for high-performance,.. MIT"
@@ -6418,7 +6754,8 @@
             "owner": "dataformsjs",
             "repo": "dataformsjs",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "dataformsjs (🥉16 · ⭐ 180 · 💤) - DataFormsJS A minimal JavaScript Framework, standalone React and.. MIT"
@@ -6438,8 +6775,9 @@
             "last_commit": "2023-03-23T21:35:09Z",
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29489
-          }
+            "stars": 29490
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -6454,7 +6792,8 @@
             "owner": "pedronauck",
             "repo": "docz",
             "stars": 23581
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -6469,7 +6808,8 @@
             "owner": "jamiebuilds",
             "repo": "react-loadable",
             "stars": 16507
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -6484,7 +6824,8 @@
             "owner": "gaearon",
             "repo": "react-hot-loader",
             "stars": 12165
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -6499,7 +6840,8 @@
             "owner": "rvpanoz",
             "repo": "luna",
             "stars": 1005
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -6514,7 +6856,8 @@
             "owner": "moroshko",
             "repo": "react-scanner",
             "stars": 657
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -6529,7 +6872,8 @@
             "owner": "react-theming",
             "repo": "storybook-addon-material-ui",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -6544,7 +6888,8 @@
             "owner": "bareynol",
             "repo": "mui-theme-creator",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 8 hidden projects..."
@@ -6561,11 +6906,12 @@
             "archived": false,
             "id": 196701619,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:53:37Z",
+            "last_commit": "2026-08-28T16:18:58Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110599
-          }
+            "stars": 110621
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Tauri (🥇39 · ⭐ 79K) - Build smaller, faster, and more secure desktop applications with a web.. Apache-2"
@@ -6582,11 +6928,12 @@
             "archived": false,
             "id": 9384267,
             "language": "C++",
-            "last_commit": "2026-08-27T15:26:20Z",
+            "last_commit": "2026-08-28T16:42:30Z",
             "owner": "electron",
             "repo": "electron",
-            "stars": 122749
-          }
+            "stars": 122766
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Electron (🥉34 · ⭐ 110K · 📉) - Build cross-platform desktop apps with JavaScript, HTML, and CSS. MIT"
@@ -6603,11 +6950,12 @@
             "archived": false,
             "id": 23088740,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T07:39:33Z",
+            "last_commit": "2026-08-27T15:40:25Z",
             "owner": "axios",
             "repo": "axios",
             "stars": 109193
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "axios (🥇51 · ⭐ 100K) - Promise based HTTP client for the browser and node.js. MIT"
@@ -6627,8 +6975,9 @@
             "last_commit": "2026-08-10T08:47:59Z",
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36642
-          }
+            "stars": 36643
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "date-fns (🥈47 · ⭐ 34K) - Modern JavaScript date utility library. MIT"
@@ -6648,8 +6997,9 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61284
-          }
+            "stars": 61283
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "lodash (🥈45 · ⭐ 59K) - A modern JavaScript utility library delivering modularity, performance, &.. MIT"
@@ -6669,8 +7019,9 @@
             "last_commit": "2026-07-20T19:12:28Z",
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24508
-          }
+            "stars": 24511
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "winston (🥉44 · ⭐ 22K) - A logger for just about everything. MIT"
@@ -6687,11 +7038,12 @@
             "archived": false,
             "id": 24349832,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:16:17Z",
+            "last_commit": "2026-08-28T12:01:31Z",
             "owner": "jquense",
             "repo": "yup",
-            "stars": 23671
-          }
+            "stars": 23672
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "yup (🥉40 · ⭐ 22K) - Dead simple Object schema validation. MIT"
@@ -6712,7 +7064,8 @@
             "owner": "i18next",
             "repo": "i18next",
             "stars": 8624
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "i18next (🥉40 · ⭐ 7.5K) - i18next: learn once - translate everywhere. MIT"
@@ -6733,7 +7086,8 @@
             "owner": "pimterry",
             "repo": "loglevel",
             "stars": 2749
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "loglevel (🥉38 · ⭐ 2.6K) - Minimal lightweight logging for JavaScript, adding reliable log level.. MIT"
@@ -6754,7 +7108,8 @@
             "owner": "log4js-node",
             "repo": "log4js-node",
             "stars": 5828
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "log4js-node (🥉35 · ⭐ 5.8K) - A port of log4js to node.js. Apache-2"
@@ -6771,11 +7126,12 @@
             "archived": false,
             "id": 15062869,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:16:11Z",
+            "last_commit": "2026-08-28T11:51:49Z",
             "owner": "jestjs",
             "repo": "jest",
             "stars": 45474
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "jest (🥇48 · ⭐ 44K) - Delightful JavaScript Testing. MIT"
@@ -6792,11 +7148,12 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:21:33Z",
+            "last_commit": "2026-08-28T16:31:16Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51003
-          }
+            "stars": 51009
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "cypress (🥈47 · ⭐ 46K) - Fast, easy and reliable testing for anything that runs in a browser. MIT"
@@ -6817,7 +7174,8 @@
             "owner": "enzymejs",
             "repo": "enzyme",
             "stars": 19822
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "enzyme (🥈41 · ⭐ 20K) - JavaScript Testing utilities for React. MIT"
@@ -6834,11 +7192,12 @@
             "archived": false,
             "id": 125863507,
             "language": "JavaScript",
-            "last_commit": "2026-04-02T07:04:36Z",
+            "last_commit": "2026-08-27T17:40:18Z",
             "owner": "testing-library",
             "repo": "react-testing-library",
             "stars": 19646
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-testing-library (🥉36 · ⭐ 19K) - Simple and complete React DOM testing utilities that.. MIT"
@@ -6859,7 +7218,8 @@
             "owner": "Raathigesh",
             "repo": "majestic",
             "stars": 7452
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -6874,7 +7234,8 @@
             "owner": "testing-library",
             "repo": "react-hooks-testing-library",
             "stars": 5259
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 2 hidden projects..."
@@ -6895,7 +7256,8 @@
             "owner": "marmelab",
             "repo": "react-admin",
             "stars": 26915
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Admin (🥇42 · ⭐ 24K) - A frontend Framework for building data-driven applications.. MIT"
@@ -6915,8 +7277,9 @@
             "last_commit": "2026-08-26T17:24:01Z",
             "owner": "ant-design",
             "repo": "ant-design-pro",
-            "stars": 38714
-          }
+            "stars": 38719
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Ant Design Pro (🥇35 · ⭐ 36K) - Use Ant Design like a Pro!. MIT"
@@ -6936,8 +7299,9 @@
             "last_commit": "2026-08-14T15:30:10Z",
             "owner": "coreui",
             "repo": "coreui-free-bootstrap-admin-template",
-            "stars": 12241
-          }
+            "stars": 12242
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "coreui-free-bootstrap-admin-template (🥈27 · ⭐ 12K) - Free Bootstrap Admin & Dashboard Template. MIT"
@@ -6958,7 +7322,8 @@
             "owner": "devias-io",
             "repo": "material-kit-react",
             "stars": 5586
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Material Kit React (🥈23 · ⭐ 5.2K) - React Dashboard made with Material UIs components. Our.. MIT"
@@ -6979,7 +7344,8 @@
             "owner": "flatlogic",
             "repo": "react-dashboard",
             "stars": 1644
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Dashboard (🥈17 · ⭐ 1.6K · 📉) - React Dashboard - isomorphic admin dashboard template.. MIT"
@@ -7000,7 +7366,8 @@
             "owner": "flatlogic",
             "repo": "react-material-admin",
             "stars": 1755
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Material Admin (🥉14 · ⭐ 1.6K) - React Material Admin is a React template built with.. MIT"
@@ -7021,7 +7388,8 @@
             "owner": "themesberg",
             "repo": "volt-react-dashboard",
             "stars": 996
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Volt React Dashboard (🥉14 · ⭐ 900 · 💤) - Free and open source React.js admin dashboard.. MIT"
@@ -7042,7 +7410,8 @@
             "owner": "uilibrary",
             "repo": "matx-react",
             "stars": 975
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "matx-react (🥉13 · ⭐ 910) - Matx -Free and open-source React Material UI Admin Dashboard Template. MIT"
@@ -7063,7 +7432,8 @@
             "owner": "PlainAdmin",
             "repo": "plain-free-bootstrap-admin-template",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "plain-free-bootstrap-admin-template (🥉10 · ⭐ 340 · 💤) - Free Vanilla JavaScript Bootstrap 5 Admin and.. MIT"
@@ -7084,7 +7454,8 @@
             "owner": "dunky11",
             "repo": "react-saas-template",
             "stars": 1962
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7099,7 +7470,8 @@
             "owner": "creativetimofficial",
             "repo": "notus-react",
             "stars": 885
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 2 hidden projects..."
@@ -7119,8 +7491,9 @@
             "last_commit": "2026-07-20T07:16:29Z",
             "owner": "sweetalert2",
             "repo": "sweetalert2",
-            "stars": 18103
-          }
+            "stars": 18104
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "sweetalert2 (🥇42 · ⭐ 17K) - A beautiful, responsive, highly customizable and accessible (WAI-.. MIT"
@@ -7140,8 +7513,9 @@
             "last_commit": "2025-08-07T12:40:05Z",
             "owner": "akiran",
             "repo": "react-slick",
-            "stars": 11921
-          }
+            "stars": 11919
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-slick (🥇41 · ⭐ 12K) - React carousel component. MIT"
@@ -7158,11 +7532,12 @@
             "archived": false,
             "id": 197018189,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:13:51Z",
+            "last_commit": "2026-08-27T18:09:24Z",
             "owner": "xyflow",
             "repo": "xyflow",
-            "stars": 38167
-          }
+            "stars": 38183
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "React Flow (🥇40 · ⭐ 22K) - React Flow |Svelte Flow - Powerful open source libraries for building.. MIT"
@@ -7182,8 +7557,9 @@
             "last_commit": "2026-08-20T19:47:43Z",
             "owner": "wojtekmaj",
             "repo": "react-pdf",
-            "stars": 11153
-          }
+            "stars": 11154
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-pdf (🥇39 · ⭐ 8.8K) - Display PDFs in your React app as easily as if they were images. MIT"
@@ -7204,7 +7580,8 @@
             "owner": "gpbl",
             "repo": "react-day-picker",
             "stars": 6846
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-day-picker (🥇39 · ⭐ 5.8K) - DayPicker is a customizable date picker component for React... MIT"
@@ -7225,7 +7602,8 @@
             "owner": "ReactTooltip",
             "repo": "react-tooltip",
             "stars": 3822
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-tooltip (🥇39 · ⭐ 3.5K) - React Tooltip Component. MIT"
@@ -7246,7 +7624,8 @@
             "owner": "bigcalendar",
             "repo": "react-big-calendar",
             "stars": 8746
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-big-calendar (🥈38 · ⭐ 7.5K) - gcal/outlook like calendar component. MIT"
@@ -7267,7 +7646,8 @@
             "owner": "wojtekmaj",
             "repo": "react-calendar",
             "stars": 3788
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-calendar (🥈37 · ⭐ 3.4K) - Ultimate calendar for your React app. MIT"
@@ -7288,7 +7668,8 @@
             "owner": "visgl",
             "repo": "react-map-gl",
             "stars": 8495
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-map-gl (🥈36 · ⭐ 7.6K) - React friendly API wrapper around MapboxGL JS. MIT"
@@ -7309,7 +7690,8 @@
             "owner": "reactjs",
             "repo": "react-modal",
             "stars": 7410
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-modal (🥈36 · ⭐ 7.3K) - Accessible modal dialog component for React. MIT"
@@ -7326,11 +7708,12 @@
             "archived": false,
             "id": 21871245,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T06:03:25Z",
+            "last_commit": "2026-08-28T02:42:00Z",
             "owner": "reactjs",
             "repo": "react-tabs",
             "stars": 3149
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-tabs (🥈36 · ⭐ 3.1K) - An accessible and easy tab component for ReactJS. MIT"
@@ -7350,8 +7733,9 @@
             "last_commit": "2026-08-07T09:02:04Z",
             "owner": "sachinchoolur",
             "repo": "lightGallery",
-            "stars": 7049
-          }
+            "stars": 7051
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "lightGallery (🥈35 · ⭐ 6.3K) - A customizable, modular, responsive, lightbox gallery plugin. ❗️GPL-3.0"
@@ -7371,8 +7755,9 @@
             "last_commit": "2025-04-21T10:10:50Z",
             "owner": "remarkjs",
             "repo": "react-markdown",
-            "stars": 15865
-          }
+            "stars": 15867
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-markdown (🥈34 · ⭐ 12K) - Markdown component for React. MIT"
@@ -7393,7 +7778,8 @@
             "owner": "FortAwesome",
             "repo": "react-fontawesome",
             "stars": 3737
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-fontawesome (🥈34 · ⭐ 3.7K) - Font Awesome React component. MIT"
@@ -7414,7 +7800,8 @@
             "owner": "danilowoz",
             "repo": "react-content-loader",
             "stars": 14003
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-content-loader (🥉33 · ⭐ 13K) - SVG-Powered component to easily create skeleton loadings. MIT"
@@ -7435,7 +7822,8 @@
             "owner": "xiaolin",
             "repo": "react-image-gallery",
             "stars": 3941
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-image-gallery (🥉33 · ⭐ 3.7K) - React carousel image gallery component with thumbnail.. MIT"
@@ -7455,8 +7843,9 @@
             "last_commit": "2026-06-18T00:18:13Z",
             "owner": "fullcalendar",
             "repo": "fullcalendar-react",
-            "stars": 2471
-          }
+            "stars": 2470
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "fullcalendar-react (🥉32 · ⭐ 1.9K · 📈) - The official React Component for FullCalendar. MIT"
@@ -7476,8 +7865,9 @@
             "last_commit": "2026-08-10T10:01:44Z",
             "owner": "appbaseio",
             "repo": "reactivesearch",
-            "stars": 4922
-          }
+            "stars": 4921
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Reactive Search (🥉31 · ⭐ 4.9K) - Search UI components for React and Vue. Apache-2"
@@ -7498,7 +7888,8 @@
             "owner": "video-react",
             "repo": "video-react",
             "stars": 2725
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "video-react (🥉31 · ⭐ 2.6K) - A web video player built for the HTML5 world using React library. MIT"
@@ -7519,7 +7910,8 @@
             "owner": "mosch",
             "repo": "react-avatar-editor",
             "stars": 2497
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-avatar-editor (🥉31 · ⭐ 2.3K) - Small avatar & profile picture component. Resize and crop.. MIT"
@@ -7540,7 +7932,8 @@
             "owner": "searchkit",
             "repo": "searchkit",
             "stars": 4857
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "searchkit (🥉30 · ⭐ 4.7K) - Search UI for Elasticsearch & Opensearch. Compatible with.. Apache-2"
@@ -7561,7 +7954,8 @@
             "owner": "siriwatknp",
             "repo": "mui-treasury",
             "stars": 2441
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Material-UI Treasury (🥉26 · ⭐ 2.3K) - A collection of ready-to-use components based on.. MIT"
@@ -7582,7 +7976,8 @@
             "owner": "dapi-labs",
             "repo": "react-nice-avatar",
             "stars": 1334
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-nice-avatar (🥉21 · ⭐ 1K) - react library for generating avatar. MIT"
@@ -7603,7 +7998,8 @@
             "owner": "google-map-react",
             "repo": "google-map-react",
             "stars": 6477
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7617,8 +8013,9 @@
             "last_commit": "2024-11-19T12:16:31Z",
             "owner": "moroshko",
             "repo": "react-autosuggest",
-            "stars": 5939
-          }
+            "stars": 5940
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7633,7 +8030,8 @@
             "owner": "PaulLeCam",
             "repo": "react-leaflet",
             "stars": 5597
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7648,7 +8046,8 @@
             "owner": "tomkp",
             "repo": "react-split-pane",
             "stars": 3392
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7663,7 +8062,8 @@
             "owner": "AdeleD",
             "repo": "react-paginate",
             "stars": 2767
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7678,7 +8078,8 @@
             "owner": "leandrowd",
             "repo": "react-responsive-carousel",
             "stars": 2677
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7693,7 +8094,8 @@
             "owner": "nkbt",
             "repo": "react-copy-to-clipboard",
             "stars": 2370
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7708,7 +8110,8 @@
             "owner": "algolia",
             "repo": "react-instantsearch",
             "stars": 1965
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7719,11 +8122,12 @@
             "archived": false,
             "id": 88523356,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:39:34Z",
+            "last_commit": "2026-08-28T15:52:51Z",
             "owner": "DevExpress",
             "repo": "DevExtreme",
             "stars": 1913
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7738,7 +8142,8 @@
             "owner": "tjallingt",
             "repo": "react-youtube",
             "stars": 1903
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7753,7 +8158,8 @@
             "owner": "lovasoa",
             "repo": "react-contenteditable",
             "stars": 1674
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7768,7 +8174,8 @@
             "owner": "MrBlenny",
             "repo": "react-flow-chart",
             "stars": 1554
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7783,7 +8190,8 @@
             "owner": "TeamWertarbyte",
             "repo": "material-ui-chip-input",
             "stars": 732
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7798,7 +8206,8 @@
             "owner": "mozilla-frontend-infra",
             "repo": "react-lazylog",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -7813,7 +8222,8 @@
             "owner": "RaoHai",
             "repo": "react-ansi",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 15 hidden projects..."
@@ -7830,11 +8240,12 @@
             "archived": false,
             "id": 42283287,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T12:51:38Z",
+            "last_commit": "2026-08-28T04:01:05Z",
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38835
-          }
+            "stars": 38839
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "preact (🥇45 · ⭐ 36K) - Fast 3kB React alternative with the same modern API. Components & Virtual.. MIT"
@@ -7855,7 +8266,8 @@
             "owner": "streamich",
             "repo": "react-use",
             "stars": 44023
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-use (🥇41 · ⭐ 41K) - React Hooks. Unlicense"
@@ -7875,8 +8287,9 @@
             "last_commit": "2026-08-12T09:38:49Z",
             "owner": "react-icons",
             "repo": "react-icons",
-            "stars": 12621
-          }
+            "stars": 12623
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-icons (🥈40 · ⭐ 11K) - svg react icons of popular icon packs. MIT"
@@ -7893,11 +8306,12 @@
             "archived": false,
             "id": 203843667,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:05:07Z",
+            "last_commit": "2026-08-28T16:52:37Z",
             "owner": "microsoft",
             "repo": "FluidFramework",
-            "stars": 4945
-          }
+            "stars": 4946
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "FluidFramework (🥈35 · ⭐ 4.6K) - Library for building distributed, real-time collaborative web.. MIT"
@@ -7918,7 +8332,8 @@
             "owner": "react-syntax-highlighter",
             "repo": "react-syntax-highlighter",
             "stars": 4674
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "react-syntax-highlighter (🥈34 · ⭐ 3.9K · 💤) - syntax highlighting component for react with prismjs.. MIT"
@@ -7935,11 +8350,12 @@
             "archived": false,
             "id": 71293321,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:23:49Z",
+            "last_commit": "2026-08-27T23:35:14Z",
             "owner": "diegomura",
             "repo": "react-pdf",
             "stars": 16761
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "diegomura/react-pdf (🥉33 · ⭐ 14K) - Create PDF files using React. MIT"
@@ -7960,7 +8376,8 @@
             "owner": "sql-js",
             "repo": "sql.js",
             "stars": 13658
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "sql.js (🥉33 · ⭐ 12K) - A javascript library to run SQLite on the web. MIT"
@@ -7977,11 +8394,12 @@
             "archived": false,
             "id": 370740787,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:54:48Z",
+            "last_commit": "2026-08-28T03:14:09Z",
             "owner": "liveblocks",
             "repo": "liveblocks",
-            "stars": 4692
-          }
+            "stars": 4694
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "liveblocks (🥉33 · ⭐ 3.1K) - Liveblocks is a platform to ship collaborative features like.. Apache-2"
@@ -7998,11 +8416,12 @@
             "archived": false,
             "id": 82819844,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:04:54Z",
+            "last_commit": "2026-08-28T07:52:21Z",
             "owner": "iconify",
             "repo": "iconify",
             "stars": 6280
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "iconify (🥉32 · ⭐ 4K) - Universal icon framework. One syntax for FontAwesome, Material Design.. MIT"
@@ -8023,7 +8442,8 @@
             "owner": "FirebaseExtended",
             "repo": "reactfire",
             "stars": 3571
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "reactfire (🥉30 · ⭐ 3.5K · 💤) - Hooks, Context Providers, and Components that make it easy to.. MIT"
@@ -8043,8 +8463,9 @@
             "last_commit": "2026-05-14T13:53:04Z",
             "owner": "alan2207",
             "repo": "bulletproof-react",
-            "stars": 35754
-          }
+            "stars": 35753
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "bulletproof-react (🥉22 · ⭐ 25K) - A simple, scalable, and powerful architecture for building.. MIT"
@@ -8065,7 +8486,8 @@
             "owner": "DoneDeal0",
             "repo": "alright-react-app",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "alright react app (🥉12 · ⭐ 140) - Professional React app generator. Comes with an exposed,.. ISC"
@@ -8082,11 +8504,12 @@
             "archived": false,
             "id": 274495425,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:12:48Z",
+            "last_commit": "2026-08-28T16:12:05Z",
             "owner": "remotion-dev",
             "repo": "remotion",
-            "stars": 57501
-          }
+            "stars": 57613
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -8101,7 +8524,8 @@
             "owner": "nfl",
             "repo": "react-helmet",
             "stars": 17459
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -8116,7 +8540,8 @@
             "owner": "origin-brain",
             "repo": "deepops",
             "stars": 3966
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -8131,7 +8556,8 @@
             "owner": "plouc",
             "repo": "mozaik",
             "stars": 3599
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -8146,7 +8572,8 @@
             "owner": "ngokevin",
             "repo": "aframe",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Show 5 hidden projects..."
@@ -8166,8 +8593,9 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74408
-          }
+            "stars": 74421
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -8181,8 +8609,9 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73906
-          }
+            "stars": 73930
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Related Resources"
@@ -8202,8 +8631,9 @@
             "last_commit": "2025-08-28T08:50:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-react",
-            "stars": 1075
-          }
+            "stars": 1076
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         },
         {
           "node_type": "item",
@@ -8217,15 +8647,16 @@
             "last_commit": "2025-08-28T08:50:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-react",
-            "stars": 1075
-          }
+            "stars": 1076
+          },
+          "first_seen": "2026-08-28T16:54:08.861Z"
         }
       ],
       "title": "Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:27:15.203Z",
+    "last_updated": "2026-08-28T16:54:08.861Z",
     "original_repository_info": {
       "archived": false,
       "id": 340900698,
@@ -8233,7 +8664,7 @@
       "last_commit": "2025-08-28T08:50:49Z",
       "owner": "lukasmasuch",
       "repo": "best-of-react",
-      "stars": 1075
+      "stars": 1076
     },
     "original_repository_sha": "b596b696e47aec198b402eecda94cdf827058714",
     "enhanced_repository": "enhansome/enhansome-best-of-react",
